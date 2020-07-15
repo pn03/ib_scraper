@@ -168,7 +168,7 @@ function clearLinks(topic_name,doc){
     let contentHTML = doc['contentHTML'];
     let imgs = doc['imgNames'];
     const $ = cheerio.load(contentHTML);
-    let asset = topic_name+"/"+topic_name+"_assets"
+    let asset = topic_name+"_assets"
     $('img').each(function() {
       for(let i=0;i<imgs.length;i+=2){
         let name = $(this)[0].attribs.src.split('/')
