@@ -1,0 +1,9 @@
+{
+  "hasImages": false,
+  "contentHTML": "<html><head></head><body><h4>Level Order</h4><div><strong>Time:29:11</strong><br><strong>Score:300</strong></div><br>                      <p>Given a binary tree, return the level order traversal of its nodes&#x2019; values. (ie, from left to right, level by level).</p><p><strong>Example :</strong><br>Given binary tree</p><div class=\"highlighter-rouge\"><pre class=\"highlight\"><code>    3   / \\  9  20    /  \\   15   7</code></pre></div><p>return its level order traversal as:</p><div class=\"highlighter-rouge\"><pre class=\"highlight\"><code>[  [3],  [9,20],  [15,7]]</code></pre></div><p>Also think about a version of the question where you are asked to do a level order traversal of the tree when depth of the tree is much greater than number of nodes on a level.</p>                          <blockquote style=\"position:relative;\">                              <span style=\"font-weight: normal;margin: 12px;\">                                  <b>NOTE: </b>You only need to implement the given function. Do not read input, instead use the arguments to the function. Do not print the output, instead return values as specified.                                  Still have a doubt? Checkout <a href=\"/pages/sample_codes/\">Sample Codes</a> for more details.                              </span>                            <span class=\"fa fa-remove\" id=\"prob-hint-remove\" style=\"position:absolute;top:0;right:0;margin:12px;color:grey;\"></span>                          </blockquote>                    </body></html>",
+  "problem_id": 206,
+  "problem_name": "Level Order",
+  "problem_link": "https://www.interviewbit.com/problems/level-order/",
+  "problem_score": 300,
+  "time_to_solve": "29:11"
+}

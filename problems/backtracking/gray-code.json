@@ -1,0 +1,9 @@
+{
+  "hasImages": false,
+  "contentHTML": "<html><head></head><body><h4>Gray Code</h4><div><strong>Time:55:47</strong><br><strong>Score:350</strong></div><br>                      <p>The gray code is a binary numeral system where two successive values differ in only one bit.</p><p>Given a non-negative integer <code class=\"highlighter-rouge\">n</code> representing the total number of bits in the code, print the sequence of gray code. A gray code sequence must begin with <code class=\"highlighter-rouge\">0</code>.</p><p>For example, given n = <code class=\"highlighter-rouge\">2</code>, return <code class=\"highlighter-rouge\">[0,1,3,2]</code>. Its gray code sequence is:</p><div class=\"highlighter-rouge\"><pre class=\"highlight\"><code>00 - 001 - 111 - 310 - 2</code></pre></div><p>There might be multiple gray code sequences possible for a given n.<br>Return any such sequence.</p>                          <blockquote style=\"position:relative;\">                              <span style=\"font-weight: normal;margin: 12px;\">                                  <b>NOTE: </b>You only need to implement the given function. Do not read input, instead use the arguments to the function. Do not print the output, instead return values as specified.                                  Still have a doubt? Checkout <a href=\"/pages/sample_codes/\">Sample Codes</a> for more details.                              </span>                            <span class=\"fa fa-remove\" id=\"prob-hint-remove\" style=\"position:absolute;top:0;right:0;margin:12px;color:grey;\"></span>                          </blockquote>                    </body></html>",
+  "problem_id": 145,
+  "problem_name": "Gray Code",
+  "problem_link": "https://www.interviewbit.com/problems/gray-code/",
+  "problem_score": 350,
+  "time_to_solve": "55:47"
+}

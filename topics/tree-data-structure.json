@@ -1,0 +1,249 @@
+{
+  "problems": [
+    {
+      "problem_id": 11636,
+      "problem_name": "Remove Half Nodes",
+      "problem_link": "https://www.interviewbit.com/problems/remove-half-nodes/",
+      "problem_score": 200,
+      "time_to_solve": "29:33"
+    },
+    {
+      "problem_id": 11058,
+      "problem_name": "Path to Given Node",
+      "problem_link": "https://www.interviewbit.com/problems/path-to-given-node/",
+      "problem_score": 200,
+      "time_to_solve": "24:49"
+    },
+    {
+      "problem_id": 225,
+      "problem_name": "Balanced Binary Tree",
+      "problem_link": "https://www.interviewbit.com/problems/balanced-binary-tree/",
+      "problem_score": 275,
+      "time_to_solve": "30:19"
+    },
+    {
+      "problem_id": 11050,
+      "problem_name": "Diagonal Traversal",
+      "problem_link": "https://www.interviewbit.com/problems/diagonal-traversal/",
+      "problem_score": 200,
+      "time_to_solve": "34:03"
+    },
+    {
+      "problem_id": 214,
+      "problem_name": "Inorder Traversal",
+      "problem_link": "https://www.interviewbit.com/problems/inorder-traversal/",
+      "problem_score": 350,
+      "time_to_solve": "32:00"
+    },
+    {
+      "problem_id": 229,
+      "problem_name": "Postorder Traversal",
+      "problem_link": "https://www.interviewbit.com/problems/postorder-traversal/",
+      "problem_score": 350,
+      "time_to_solve": "31:13"
+    },
+    {
+      "problem_id": 222,
+      "problem_name": "Preorder Traversal",
+      "problem_link": "https://www.interviewbit.com/problems/preorder-traversal/",
+      "problem_score": 350,
+      "time_to_solve": "15:24"
+    },
+    {
+      "problem_id": 11054,
+      "problem_name": "Cousins in Binary Tree",
+      "problem_link": "https://www.interviewbit.com/problems/cousins-in-binary-tree/",
+      "problem_score": 200,
+      "time_to_solve": "44:09"
+    },
+    {
+      "problem_id": 233,
+      "problem_name": "ZigZag Level Order Traversal BT",
+      "problem_link": "https://www.interviewbit.com/problems/zigzag-level-order-traversal-bt/",
+      "problem_score": 350,
+      "time_to_solve": "41:52"
+    },
+    {
+      "problem_id": 230,
+      "problem_name": "Populate Next Right Pointers Tree",
+      "problem_link": "https://www.interviewbit.com/problems/populate-next-right-pointers-tree/",
+      "problem_score": 900,
+      "time_to_solve": "49:29"
+    },
+    {
+      "problem_id": 422,
+      "problem_name": "Hotel Reviews",
+      "problem_link": "https://www.interviewbit.com/problems/hotel-reviews/",
+      "problem_score": 200,
+      "time_to_solve": "70:37"
+    },
+    {
+      "problem_id": 277,
+      "problem_name": "Shortest Unique Prefix",
+      "problem_link": "https://www.interviewbit.com/problems/shortest-unique-prefix/",
+      "problem_score": 350,
+      "time_to_solve": "66:53"
+    },
+    {
+      "problem_id": 231,
+      "problem_name": "Identical Binary Trees",
+      "problem_link": "https://www.interviewbit.com/problems/identical-binary-trees/",
+      "problem_score": 300,
+      "time_to_solve": "11:36"
+    },
+    {
+      "problem_id": 228,
+      "problem_name": "Symmetric Binary Tree",
+      "problem_link": "https://www.interviewbit.com/problems/symmetric-binary-tree/",
+      "problem_score": 300,
+      "time_to_solve": "21:53"
+    },
+    {
+      "problem_id": 217,
+      "problem_name": "Inorder Traversal of Cartesian Tree",
+      "problem_link": "https://www.interviewbit.com/problems/inorder-traversal-of-cartesian-tree/",
+      "problem_score": 300,
+      "time_to_solve": "48:35"
+    },
+    {
+      "problem_id": 226,
+      "problem_name": "Sorted Array To Balanced BST",
+      "problem_link": "https://www.interviewbit.com/problems/sorted-array-to-balanced-bst/",
+      "problem_score": 300,
+      "time_to_solve": "28:01"
+    },
+    {
+      "problem_id": 224,
+      "problem_name": "Binary Tree From Inorder And Postorder",
+      "problem_link": "https://www.interviewbit.com/problems/binary-tree-from-inorder-and-postorder/",
+      "problem_score": 375,
+      "time_to_solve": "48:12"
+    },
+    {
+      "problem_id": 219,
+      "problem_name": "Construct Binary Tree From Inorder And Preorder",
+      "problem_link": "https://www.interviewbit.com/problems/construct-binary-tree-from-inorder-and-preorder/",
+      "problem_score": 375,
+      "time_to_solve": "43:57"
+    },
+    {
+      "problem_id": 335,
+      "problem_name": "Kth Smallest Element In Tree",
+      "problem_link": "https://www.interviewbit.com/problems/kth-smallest-element-in-tree/",
+      "problem_score": 300,
+      "time_to_solve": "28:57"
+    },
+    {
+      "problem_id": 336,
+      "problem_name": "2-Sum Binary Tree",
+      "problem_link": "https://www.interviewbit.com/problems/2sum-binary-tree/",
+      "problem_score": 400,
+      "time_to_solve": "60:55"
+    },
+    {
+      "problem_id": 232,
+      "problem_name": "BST Iterator",
+      "problem_link": "https://www.interviewbit.com/problems/bst-iterator/",
+      "problem_score": 500,
+      "time_to_solve": "39:18"
+    },
+    {
+      "problem_id": 216,
+      "problem_name": "Recover Binary Search Tree",
+      "problem_link": "https://www.interviewbit.com/problems/recover-binary-search-tree/",
+      "problem_score": 750,
+      "time_to_solve": "59:43"
+    },
+    {
+      "problem_id": 334,
+      "problem_name": "Invert the Binary Tree",
+      "problem_link": "https://www.interviewbit.com/problems/invert-the-binary-tree/",
+      "problem_score": 300,
+      "time_to_solve": "12:45"
+    },
+    {
+      "problem_id": 234,
+      "problem_name": "Path Sum",
+      "problem_link": "https://www.interviewbit.com/problems/path-sum/",
+      "problem_score": 350,
+      "time_to_solve": "27:23"
+    },
+    {
+      "problem_id": 237,
+      "problem_name": "Root to Leaf Paths With Sum",
+      "problem_link": "https://www.interviewbit.com/problems/root-to-leaf-paths-with-sum/",
+      "problem_score": 350,
+      "time_to_solve": "40:31"
+    },
+    {
+      "problem_id": 223,
+      "problem_name": "Max Depth of Binary Tree",
+      "problem_link": "https://www.interviewbit.com/problems/max-depth-of-binary-tree/",
+      "problem_score": 350,
+      "time_to_solve": "6:56"
+    },
+    {
+      "problem_id": 236,
+      "problem_name": "Min Depth of Binary Tree",
+      "problem_link": "https://www.interviewbit.com/problems/min-depth-of-binary-tree/",
+      "problem_score": 350,
+      "time_to_solve": "17:17"
+    },
+    {
+      "problem_id": 227,
+      "problem_name": "Sum Root to Leaf Numbers",
+      "problem_link": "https://www.interviewbit.com/problems/sum-root-to-leaf-numbers/",
+      "problem_score": 350,
+      "time_to_solve": "44:18"
+    },
+    {
+      "problem_id": 218,
+      "problem_name": "Least Common Ancestor",
+      "problem_link": "https://www.interviewbit.com/problems/least-common-ancestor/",
+      "problem_score": 450,
+      "time_to_solve": "57:09"
+    },
+    {
+      "problem_id": 220,
+      "problem_name": "Flatten Binary Tree to Linked List",
+      "problem_link": "https://www.interviewbit.com/problems/flatten-binary-tree-to-linked-list/",
+      "problem_score": 500,
+      "time_to_solve": "42:28"
+    },
+    {
+      "problem_id": 276,
+      "problem_name": "Order of People Heights",
+      "problem_link": "https://www.interviewbit.com/problems/order-of-people-heights/",
+      "problem_score": 700,
+      "time_to_solve": "69:56"
+    },
+    {
+      "problem_id": 11642,
+      "problem_name": "Merge two Binary Tree",
+      "problem_link": "https://www.interviewbit.com/problems/merge-two-binary-tree/",
+      "problem_score": 200,
+      "time_to_solve": "17:03"
+    },
+    {
+      "problem_id": 12058,
+      "problem_name": "Reverse Level Order",
+      "problem_link": "https://www.interviewbit.com/problems/reverse-level-order/",
+      "problem_score": 249,
+      "time_to_solve": "14:01"
+    },
+    {
+      "problem_id": 12259,
+      "problem_name": "Maximum Edge Removal",
+      "problem_link": "https://www.interviewbit.com/problems/maximum-edge-removal/",
+      "problem_score": 300,
+      "time_to_solve": "41:44"
+    },
+    {
+      "problem_id": 12270,
+      "problem_name": "Maximum level sum",
+      "problem_link": "https://www.interviewbit.com/problems/maximum-level-sum/",
+      "problem_score": 200,
+      "time_to_solve": "10:30"
+    }
+  ]
+}

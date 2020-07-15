@@ -1,0 +1,9 @@
+{
+  "hasImages": false,
+  "contentHTML": "<html><head></head><body><h4>Add Two Numbers as Lists</h4><div><strong>Time:43:04</strong><br><strong>Score:250</strong></div><br>                      <p>You are given two linked lists representing two non-negative numbers. The digits are stored in <strong>reverse order</strong> and each of their nodes contain a single digit. Add the two numbers and return it as a linked list.</p><p>Input: <code class=\"highlighter-rouge\">(2 -&gt; 4 -&gt; 3)</code> + <code class=\"highlighter-rouge\">(5 -&gt; 6 -&gt; 4)</code><br>Output: <code class=\"highlighter-rouge\">7 -&gt; 0 -&gt; 8</code></p><div class=\"highlighter-rouge\"><pre class=\"highlight\"><code>    342 + 465 = 807</code></pre></div><p>Make sure there are no trailing zeros in the output list<br>So, <code class=\"highlighter-rouge\">7 -&gt; 0 -&gt; 8 -&gt; 0</code> is not a valid response even though the value is still 807.</p>                          <blockquote style=\"position:relative;\">                              <span style=\"font-weight: normal;margin: 12px;\">                                  <b>NOTE: </b>You only need to implement the given function. Do not read input, instead use the arguments to the function. Do not print the output, instead return values as specified.                                  Still have a doubt? Checkout <a href=\"/pages/sample_codes/\">Sample Codes</a> for more details.                              </span>                            <span class=\"fa fa-remove\" id=\"prob-hint-remove\" style=\"position:absolute;top:0;right:0;margin:12px;color:grey;\"></span>                          </blockquote>                    </body></html>",
+  "problem_id": 38,
+  "problem_name": "Add Two Numbers as Lists",
+  "problem_link": "https://www.interviewbit.com/problems/add-two-numbers-as-lists/",
+  "problem_score": 250,
+  "time_to_solve": "43:04"
+}

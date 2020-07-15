@@ -1,0 +1,16 @@
+{
+  "imgUrls": [
+    "http://i.imgur.com/yaxpgda.png"
+  ],
+  "hasImages": true,
+  "contentHTML": "<html><head></head><body><h4>NQueens</h4><div><strong>Time:71:38</strong><br><strong>Score:550</strong></div><br>                      <p>The n-queens puzzle is the problem of placing n queens on an n&#xD7;n chessboard such that no two queens attack each other.</p><p><img src=\"backtracking/backtracking_assets/Q_nqueens_1.png\" alt=\"N Queens: Example 1\"></p><p>Given an integer n, return all distinct solutions to the n-queens puzzle.</p><p>Each solution contains a distinct board configuration of the n-queens&#x2019; placement, where <code class=\"highlighter-rouge\">&apos;Q&apos;</code> and <code class=\"highlighter-rouge\">&apos;.&apos;</code> both indicate a queen and an empty space respectively.</p><p>For example,<br>There exist two distinct solutions to the 4-queens puzzle:</p><div class=\"highlighter-rouge\"><pre class=\"highlight\"><code>[ [&quot;.Q..&quot;,  // Solution 1  &quot;...Q&quot;,  &quot;Q...&quot;,  &quot;..Q.&quot;], [&quot;..Q.&quot;,  // Solution 2  &quot;Q...&quot;,  &quot;...Q&quot;,  &quot;.Q..&quot;]]</code></pre></div>                          <blockquote style=\"position:relative;\">                              <span style=\"font-weight: normal;margin: 12px;\">                                  <b>NOTE: </b>You only need to implement the given function. Do not read input, instead use the arguments to the function. Do not print the output, instead return values as specified.                                  Still have a doubt? Checkout <a href=\"/pages/sample_codes/\">Sample Codes</a> for more details.                              </span>                            <span class=\"fa fa-remove\" id=\"prob-hint-remove\" style=\"position:absolute;top:0;right:0;margin:12px;color:grey;\"></span>                          </blockquote>                    </body></html>",
+  "imgNames": [
+    "yaxpgda.png",
+    "Q_nqueens_1.png"
+  ],
+  "problem_id": 141,
+  "problem_name": "NQueens",
+  "problem_link": "https://www.interviewbit.com/problems/nqueens/",
+  "problem_score": 550,
+  "time_to_solve": "71:38"
+}

@@ -1,0 +1,9 @@
+{
+  "hasImages": false,
+  "contentHTML": "<html><head></head><body><h4>Reverse integer</h4><div><strong>Time:28:36</strong><br><strong>Score:200</strong></div><br>                      <p>Reverse digits of an integer.</p><p><strong>Example1:</strong></p><p>x = 123,</p><p>return 321<br><strong>Example2:</strong></p><p>x = -123,</p><p>return -321</p><p>Return 0 if the result overflows and does not fit in a 32 bit signed integer</p>                          <blockquote style=\"position:relative;\">                              <span style=\"font-weight: normal;margin: 12px;\">                                  <b>NOTE: </b>You only need to implement the given function. Do not read input, instead use the arguments to the function. Do not print the output, instead return values as specified.                                  Still have a doubt? Checkout <a href=\"/pages/sample_codes/\">Sample Codes</a> for more details.                              </span>                            <span class=\"fa fa-remove\" id=\"prob-hint-remove\" style=\"position:absolute;top:0;right:0;margin:12px;color:grey;\"></span>                          </blockquote>                    </body></html>",
+  "problem_id": 75,
+  "problem_name": "Reverse integer",
+  "problem_link": "https://www.interviewbit.com/problems/reverse-integer/",
+  "problem_score": 200,
+  "time_to_solve": "28:36"
+}

@@ -1,0 +1,9 @@
+{
+  "hasImages": false,
+  "contentHTML": "<html><head></head><body><h4>Palindrome Integer</h4><div><strong>Time:17:28</strong><br><strong>Score:200</strong></div><br>                      <p>Determine whether an integer is a palindrome. Do this without extra space.</p><p>A palindrome integer is an integer x for which reverse(x) = x where reverse(x) is x with its digit reversed.<br>Negative numbers are not palindromic.</p><p><strong>Example :</strong></p><div class=\"highlighter-rouge\"><pre class=\"highlight\"><code>Input : 12121Output : TrueInput : 123Output : False</code></pre></div>                          <blockquote style=\"position:relative;\">                              <span style=\"font-weight: normal;margin: 12px;\">                                  <b>NOTE: </b>You only need to implement the given function. Do not read input, instead use the arguments to the function. Do not print the output, instead return values as specified.                                  Still have a doubt? Checkout <a href=\"/pages/sample_codes/\">Sample Codes</a> for more details.                              </span>                            <span class=\"fa fa-remove\" id=\"prob-hint-remove\" style=\"position:absolute;top:0;right:0;margin:12px;color:grey;\"></span>                          </blockquote>                    </body></html>",
+  "problem_id": 72,
+  "problem_name": "Palindrome Integer",
+  "problem_link": "https://www.interviewbit.com/problems/palindrome-integer/",
+  "problem_score": 200,
+  "time_to_solve": "17:28"
+}

@@ -1,0 +1,9 @@
+{
+  "hasImages": false,
+  "contentHTML": "<html><head></head><body><h4>Clone Graph</h4><div><strong>Time:52:34</strong><br><strong>Score:500</strong></div><br>                      <p>Clone an undirected graph. Each node in the graph contains a label and a list of its neighbors.</p>                          <blockquote style=\"position:relative;\">                              <span style=\"font-weight: normal;margin: 12px;\">                                  <b>NOTE: </b>You only need to implement the given function. Do not read input, instead use the arguments to the function. Do not print the output, instead return values as specified.                                  Still have a doubt? Checkout <a href=\"/pages/sample_codes/\">Sample Codes</a> for more details.                              </span>                            <span class=\"fa fa-remove\" id=\"prob-hint-remove\" style=\"position:absolute;top:0;right:0;margin:12px;color:grey;\"></span>                          </blockquote>                    </body></html>",
+  "problem_id": 211,
+  "problem_name": "Clone Graph",
+  "problem_link": "https://www.interviewbit.com/problems/clone-graph/",
+  "problem_score": 500,
+  "time_to_solve": "52:34"
+}

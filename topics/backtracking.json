@@ -1,0 +1,102 @@
+{
+  "problems": [
+    {
+      "problem_id": 148,
+      "problem_name": "Subset",
+      "problem_link": "https://www.interviewbit.com/problems/subset/",
+      "problem_score": 250,
+      "time_to_solve": "61:14"
+    },
+    {
+      "problem_id": 142,
+      "problem_name": "Combinations",
+      "problem_link": "https://www.interviewbit.com/problems/combinations/",
+      "problem_score": 300,
+      "time_to_solve": "45:00"
+    },
+    {
+      "problem_id": 136,
+      "problem_name": "Combination Sum",
+      "problem_link": "https://www.interviewbit.com/problems/combination-sum/",
+      "problem_score": 300,
+      "time_to_solve": "60:25"
+    },
+    {
+      "problem_id": 140,
+      "problem_name": "Combination Sum II",
+      "problem_link": "https://www.interviewbit.com/problems/combination-sum-ii/",
+      "problem_score": 300,
+      "time_to_solve": "40:11"
+    },
+    {
+      "problem_id": 146,
+      "problem_name": "Subsets II",
+      "problem_link": "https://www.interviewbit.com/problems/subsets-ii/",
+      "problem_score": 300,
+      "time_to_solve": "39:08"
+    },
+    {
+      "problem_id": 147,
+      "problem_name": "Letter Phone",
+      "problem_link": "https://www.interviewbit.com/problems/letter-phone/",
+      "problem_score": 250,
+      "time_to_solve": "52:29"
+    },
+    {
+      "problem_id": 149,
+      "problem_name": "Palindrome Partitioning",
+      "problem_link": "https://www.interviewbit.com/problems/palindrome-partitioning/",
+      "problem_score": 300,
+      "time_to_solve": "65:11"
+    },
+    {
+      "problem_id": 139,
+      "problem_name": "Generate all Parentheses II",
+      "problem_link": "https://www.interviewbit.com/problems/generate-all-parentheses-ii/",
+      "problem_score": 350,
+      "time_to_solve": "51:07"
+    },
+    {
+      "problem_id": 138,
+      "problem_name": "Permutations",
+      "problem_link": "https://www.interviewbit.com/problems/permutations/",
+      "problem_score": 350,
+      "time_to_solve": "39:00"
+    },
+    {
+      "problem_id": 145,
+      "problem_name": "Gray Code",
+      "problem_link": "https://www.interviewbit.com/problems/gray-code/",
+      "problem_score": 350,
+      "time_to_solve": "55:47"
+    },
+    {
+      "problem_id": 135,
+      "problem_name": "Kth Permutation Sequence",
+      "problem_link": "https://www.interviewbit.com/problems/kth-permutation-sequence/",
+      "problem_score": 350,
+      "time_to_solve": "69:33"
+    },
+    {
+      "problem_id": 141,
+      "problem_name": "NQueens",
+      "problem_link": "https://www.interviewbit.com/problems/nqueens/",
+      "problem_score": 550,
+      "time_to_solve": "71:38"
+    },
+    {
+      "problem_id": 143,
+      "problem_name": "Sudoku",
+      "problem_link": "https://www.interviewbit.com/problems/sudoku/",
+      "problem_score": 700,
+      "time_to_solve": "64:56"
+    },
+    {
+      "problem_id": 11984,
+      "problem_name": "Maximal String",
+      "problem_link": "https://www.interviewbit.com/problems/maximal-string/",
+      "problem_score": 200,
+      "time_to_solve": "42:33"
+    }
+  ]
+}

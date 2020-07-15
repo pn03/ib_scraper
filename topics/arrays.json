@@ -1,0 +1,242 @@
+{
+  "problems": [
+    {
+      "problem_id": 295,
+      "problem_name": "Min Steps in Infinite Grid",
+      "problem_link": "https://www.interviewbit.com/problems/min-steps-in-infinite-grid/",
+      "problem_score": 150,
+      "time_to_solve": "37:51"
+    },
+    {
+      "problem_id": 66,
+      "problem_name": "Add One To Number",
+      "problem_link": "https://www.interviewbit.com/problems/add-one-to-number/",
+      "problem_score": 225,
+      "time_to_solve": "43:43"
+    },
+    {
+      "problem_id": 56,
+      "problem_name": "Max Sum Contiguous Subarray",
+      "problem_link": "https://www.interviewbit.com/problems/max-sum-contiguous-subarray/",
+      "problem_score": 225,
+      "time_to_solve": "33:39"
+    },
+    {
+      "problem_id": 356,
+      "problem_name": "Maximum Absolute Difference",
+      "problem_link": "https://www.interviewbit.com/problems/maximum-absolute-difference/",
+      "problem_score": 250,
+      "time_to_solve": "65:51"
+    },
+    {
+      "problem_id": 1056,
+      "problem_name": "Partitions",
+      "problem_link": "https://www.interviewbit.com/problems/partitions/",
+      "problem_score": 300,
+      "time_to_solve": "55:01"
+    },
+    {
+      "problem_id": 329,
+      "problem_name": "Flip",
+      "problem_link": "https://www.interviewbit.com/problems/flip/",
+      "problem_score": 400,
+      "time_to_solve": "78:21"
+    },
+    {
+      "problem_id": 374,
+      "problem_name": "Triplets with Sum between given range",
+      "problem_link": "https://www.interviewbit.com/problems/triplets-with-sum-between-given-range/",
+      "problem_score": 200,
+      "time_to_solve": "69:39"
+    },
+    {
+      "problem_id": 57,
+      "problem_name": "Find Duplicate in Array",
+      "problem_link": "https://www.interviewbit.com/problems/find-duplicate-in-array/",
+      "problem_score": 450,
+      "time_to_solve": "40:13"
+    },
+    {
+      "problem_id": 69,
+      "problem_name": "Maximum Consecutive Gap",
+      "problem_link": "https://www.interviewbit.com/problems/maximum-consecutive-gap/",
+      "problem_score": 450,
+      "time_to_solve": "57:08"
+    },
+    {
+      "problem_id": 372,
+      "problem_name": "Noble Integer",
+      "problem_link": "https://www.interviewbit.com/problems/noble-integer/",
+      "problem_score": 200,
+      "time_to_solve": "43:30"
+    },
+    {
+      "problem_id": 267,
+      "problem_name": "Wave Array",
+      "problem_link": "https://www.interviewbit.com/problems/wave-array/",
+      "problem_score": 225,
+      "time_to_solve": "22:08"
+    },
+    {
+      "problem_id": 294,
+      "problem_name": "Hotel Bookings Possible",
+      "problem_link": "https://www.interviewbit.com/problems/hotel-bookings-possible/",
+      "problem_score": 225,
+      "time_to_solve": "66:05"
+    },
+    {
+      "problem_id": 359,
+      "problem_name": "Maximum Unsorted Subarray",
+      "problem_link": "https://www.interviewbit.com/problems/maximum-unsorted-subarray/",
+      "problem_score": 250,
+      "time_to_solve": "67:28"
+    },
+    {
+      "problem_id": 70,
+      "problem_name": "Max Distance",
+      "problem_link": "https://www.interviewbit.com/problems/max-distance/",
+      "problem_score": 250,
+      "time_to_solve": "68:14"
+    },
+    {
+      "problem_id": 63,
+      "problem_name": "Spiral Order Matrix II",
+      "problem_link": "https://www.interviewbit.com/problems/spiral-order-matrix-ii/",
+      "problem_score": 225,
+      "time_to_solve": "48:40"
+    },
+    {
+      "problem_id": 68,
+      "problem_name": "Pascal Triangle",
+      "problem_link": "https://www.interviewbit.com/problems/pascal-triangle/",
+      "problem_score": 225,
+      "time_to_solve": "26:46"
+    },
+    {
+      "problem_id": 54,
+      "problem_name": "Kth Row of Pascal's Triangle",
+      "problem_link": "https://www.interviewbit.com/problems/kth-row-of-pascals-triangle/",
+      "problem_score": 225,
+      "time_to_solve": "28:32"
+    },
+    {
+      "problem_id": 293,
+      "problem_name": "Anti Diagonals",
+      "problem_link": "https://www.interviewbit.com/problems/anti-diagonals/",
+      "problem_score": 225,
+      "time_to_solve": "41:42"
+    },
+    {
+      "problem_id": 64,
+      "problem_name": "Largest Number",
+      "problem_link": "https://www.interviewbit.com/problems/largest-number/",
+      "problem_score": 225,
+      "time_to_solve": "70:26"
+    },
+    {
+      "problem_id": 55,
+      "problem_name": "Rotate Matrix",
+      "problem_link": "https://www.interviewbit.com/problems/rotate-matrix/",
+      "problem_score": 300,
+      "time_to_solve": "60:26"
+    },
+    {
+      "problem_id": 71,
+      "problem_name": "Next Permutation",
+      "problem_link": "https://www.interviewbit.com/problems/next-permutation/",
+      "problem_score": 300,
+      "time_to_solve": "62:35"
+    },
+    {
+      "problem_id": 344,
+      "problem_name": "Find Permutation",
+      "problem_link": "https://www.interviewbit.com/problems/find-permutation/",
+      "problem_score": 300,
+      "time_to_solve": "54:10"
+    },
+    {
+      "problem_id": 58,
+      "problem_name": "Merge Intervals",
+      "problem_link": "https://www.interviewbit.com/problems/merge-intervals/",
+      "problem_score": 225,
+      "time_to_solve": "78:57"
+    },
+    {
+      "problem_id": 61,
+      "problem_name": "Merge Overlapping Intervals",
+      "problem_link": "https://www.interviewbit.com/problems/merge-overlapping-intervals/",
+      "problem_score": 225,
+      "time_to_solve": "48:23"
+    },
+    {
+      "problem_id": 62,
+      "problem_name": "Set Matrix Zeros",
+      "problem_link": "https://www.interviewbit.com/problems/set-matrix-zeros/",
+      "problem_score": 300,
+      "time_to_solve": "48:04"
+    },
+    {
+      "problem_id": 65,
+      "problem_name": "First Missing Integer",
+      "problem_link": "https://www.interviewbit.com/problems/first-missing-integer/",
+      "problem_score": 300,
+      "time_to_solve": "64:38"
+    },
+    {
+      "problem_id": 65,
+      "problem_name": "First Missing Integer",
+      "problem_link": "https://www.interviewbit.com/problems/first-missing-integer/",
+      "problem_score": 300,
+      "time_to_solve": "64:38"
+    },
+    {
+      "problem_id": 60,
+      "problem_name": "Repeat and Missing Number Array",
+      "problem_link": "https://www.interviewbit.com/problems/repeat-and-missing-number-array/",
+      "problem_score": 350,
+      "time_to_solve": "63:55"
+    },
+    {
+      "problem_id": 67,
+      "problem_name": "N/3 Repeat Number",
+      "problem_link": "https://www.interviewbit.com/problems/n3-repeat-number/",
+      "problem_score": 600,
+      "time_to_solve": "67:30"
+    },
+    {
+      "problem_id": 11992,
+      "problem_name": "Maximum Sum Triplet",
+      "problem_link": "https://www.interviewbit.com/problems/maximum-sum-triplet/",
+      "problem_score": 200,
+      "time_to_solve": "59:55"
+    },
+    {
+      "problem_id": 11994,
+      "problem_name": "Maximum Sum Square SubMatrix",
+      "problem_link": "https://www.interviewbit.com/problems/maximum-sum-square-submatrix/",
+      "problem_score": 300,
+      "time_to_solve": "47:08"
+    },
+    {
+      "problem_id": 11995,
+      "problem_name": "Maximum Area of Triangle!",
+      "problem_link": "https://www.interviewbit.com/problems/maximum-area-of-triangle/",
+      "problem_score": 350,
+      "time_to_solve": "43:53"
+    },
+    {
+      "problem_id": 12271,
+      "problem_name": "Pick from both sides!",
+      "problem_link": "https://www.interviewbit.com/problems/pick-from-both-sides/",
+      "problem_score": 100,
+      "time_to_solve": "42:16"
+    },
+    {
+      "problem_id": 12279,
+      "problem_name": "Sort array with squares!",
+      "problem_link": "https://www.interviewbit.com/problems/sort-array-with-squares/",
+      "problem_score": 200,
+      "time_to_solve": "29:25"
+    }
+  ]
+}

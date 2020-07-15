@@ -1,0 +1,9 @@
+{
+  "hasImages": false,
+  "contentHTML": "<html><head></head><body><h4>Sort by Color</h4><div><strong>Time:23:03</strong><br><strong>Score:325</strong></div><br>                      <p>Given an array with n objects colored red, white or blue, <br>sort them so that objects of the same color are adjacent, with the colors in the order red, white and blue.</p><p>Here, we will use the integers 0, 1, and 2 to represent the color red, white, and blue respectively.</p><p><em>Note: Using library sort function is not allowed.</em></p><p><strong>Example :</strong></p><div class=\"highlighter-rouge\"><pre class=\"highlight\"><code>Input : [0 1 2 0 1 2]Modify array so that it becomes : [0 0 1 1 2 2]</code></pre></div>                          <blockquote style=\"position:relative;\">                              <span style=\"font-weight: normal;margin: 12px;\">                                  <b>NOTE: </b>You only need to implement the given function. Do not read input, instead use the arguments to the function. Do not print the output, instead return values as specified.                                  Still have a doubt? Checkout <a href=\"/pages/sample_codes/\">Sample Codes</a> for more details.                              </span>                            <span class=\"fa fa-remove\" id=\"prob-hint-remove\" style=\"position:absolute;top:0;right:0;margin:12px;color:grey;\"></span>                          </blockquote>                    </body></html>",
+  "problem_id": 167,
+  "problem_name": "Sort by Color",
+  "problem_link": "https://www.interviewbit.com/problems/sort-by-color/",
+  "problem_score": 325,
+  "time_to_solve": "23:03"
+}

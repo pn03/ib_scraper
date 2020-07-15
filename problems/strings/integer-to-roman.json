@@ -1,0 +1,9 @@
+{
+  "hasImages": false,
+  "contentHTML": "<html><head></head><body><h4>Integer To Roman</h4><div><strong>Time:40:51</strong><br><strong>Score:250</strong></div><br>                      <p>Given an integer <strong>A</strong>, convert it to a roman numeral, and return a string corresponding to its roman numeral version</p><blockquote>  <p><strong>Note :</strong> This question has a lot of scope of clarification from the interviewer. Please take a moment to think of all the needed clarifications and see the expected response using &#x201C;See Expected Output&#x201D;</p>  <p>For the purpose of this question, <strong>https://projecteuler.net/about=roman_numerals</strong> has very detailed explanations.</p></blockquote><p><br><br><strong>Input Format</strong></p><div class=\"highlighter-rouge\"><pre class=\"highlight\"><code>The only argument given is integer A.</code></pre></div><p><strong>Output Format</strong></p><div class=\"highlighter-rouge\"><pre class=\"highlight\"><code>Return a string denoting roman numeral version of A.</code></pre></div><p><strong>Constraints</strong></p><div class=\"highlighter-rouge\"><pre class=\"highlight\"><code>1 &lt;= A &lt;= 3999</code></pre></div><p><strong>For Example</strong></p><div class=\"highlighter-rouge\"><pre class=\"highlight\"><code>Input 1:    A = 5Output 1:    &quot;V&quot;Input 2:    A = 14Output 2:    &quot;XIV&quot;</code></pre></div>                      <button id=\"blur-button\" class=\"btn btn-info btn-xs div-middle\" type=\"button\">                        Show Problem Statement                      </button>                    </body></html>",
+  "problem_id": 174,
+  "problem_name": "Integer To Roman",
+  "problem_link": "https://www.interviewbit.com/problems/integer-to-roman/",
+  "problem_score": 250,
+  "time_to_solve": "40:51"
+}

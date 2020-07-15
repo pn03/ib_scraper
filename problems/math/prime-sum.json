@@ -1,0 +1,9 @@
+{
+  "hasImages": false,
+  "contentHTML": "<html><head></head><body><h4>Prime Sum</h4><div><strong>Time:43:15</strong><br><strong>Score:150</strong></div><br>                      <p>Given an even number ( greater than 2 ), return two prime numbers whose sum will be equal to given number.</p><p><strong>NOTE</strong> A solution will always exist. read <a href=\"https://en.wikipedia.org/wiki/Goldbach%27s_conjecture\">Goldbach&#x2019;s  conjecture</a></p><p><strong>Example:</strong></p><div class=\"highlighter-rouge\"><pre class=\"highlight\"><code>Input : 4Output: 2 + 2 = 4</code></pre></div><p>If there are more than one solutions possible, return the lexicographically smaller solution.</p><div class=\"highlighter-rouge\"><pre class=\"highlight\"><code>If [a, b] is one solution with a &lt;= b,and [c,d] is another solution with c &lt;= d, then[a, b] &lt; [c, d] If a &lt; c OR a==c AND b &lt; d. </code></pre></div>                          <blockquote style=\"position:relative;\">                              <span style=\"font-weight: normal;margin: 12px;\">                                  <b>NOTE: </b>You only need to implement the given function. Do not read input, instead use the arguments to the function. Do not print the output, instead return values as specified.                                  Still have a doubt? Checkout <a href=\"/pages/sample_codes/\">Sample Codes</a> for more details.                              </span>                            <span class=\"fa fa-remove\" id=\"prob-hint-remove\" style=\"position:absolute;top:0;right:0;margin:12px;color:grey;\"></span>                          </blockquote>                    </body></html>",
+  "problem_id": 297,
+  "problem_name": "Prime Sum",
+  "problem_link": "https://www.interviewbit.com/problems/prime-sum/",
+  "problem_score": 150,
+  "time_to_solve": "43:15"
+}

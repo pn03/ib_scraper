@@ -1,0 +1,9 @@
+{
+  "hasImages": false,
+  "contentHTML": "<html><head></head><body><h4>Largest Continuous Sequence Zero Sum</h4><div><strong>Time:65:39</strong><br><strong>Score:200</strong></div><br>                      <p>Find the largest continuous sequence in a array which sums to zero.</p><p><strong>Example:</strong></p><div class=\"highlighter-rouge\"><pre class=\"highlight\"><code>Input:  {1 ,2 ,-2 ,4 ,-4}Output: {2 ,-2 ,4 ,-4}</code></pre></div><blockquote>  <p><strong>NOTE</strong> : If there are multiple correct answers, return the sequence which occurs first in the array.</p></blockquote>                          <blockquote style=\"position:relative;\">                              <span style=\"font-weight: normal;margin: 12px;\">                                  <b>NOTE: </b>You only need to implement the given function. Do not read input, instead use the arguments to the function. Do not print the output, instead return values as specified.                                  Still have a doubt? Checkout <a href=\"/pages/sample_codes/\">Sample Codes</a> for more details.                              </span>                            <span class=\"fa fa-remove\" id=\"prob-hint-remove\" style=\"position:absolute;top:0;right:0;margin:12px;color:grey;\"></span>                          </blockquote>                    </body></html>",
+  "problem_id": 298,
+  "problem_name": "Largest Continuous Sequence Zero Sum",
+  "problem_link": "https://www.interviewbit.com/problems/largest-continuous-sequence-zero-sum/",
+  "problem_score": 200,
+  "time_to_solve": "65:39"
+}

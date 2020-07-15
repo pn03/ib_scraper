@@ -1,0 +1,9 @@
+{
+  "hasImages": false,
+  "contentHTML": "<html><head></head><body><h4>Largest Number</h4><div><strong>Time:70:26</strong><br><strong>Score:225</strong></div><br>                      <p>Given a list of non negative integers, arrange them such that they form the largest number.</p><p><strong>For example:</strong></p><p>Given <code class=\"highlighter-rouge\">[3, 30, 34, 5, 9]</code>, the largest formed number is <code class=\"highlighter-rouge\">9534330</code>.</p><p><em>Note: The result may be very large, so you need to return a string instead of an integer.</em></p>                          <blockquote style=\"position:relative;\">                              <span style=\"font-weight: normal;margin: 12px;\">                                  <b>NOTE: </b>You only need to implement the given function. Do not read input, instead use the arguments to the function. Do not print the output, instead return values as specified.                                  Still have a doubt? Checkout <a href=\"/pages/sample_codes/\">Sample Codes</a> for more details.                              </span>                            <span class=\"fa fa-remove\" id=\"prob-hint-remove\" style=\"position:absolute;top:0;right:0;margin:12px;color:grey;\"></span>                          </blockquote>                    </body></html>",
+  "problem_id": 64,
+  "problem_name": "Largest Number",
+  "problem_link": "https://www.interviewbit.com/problems/largest-number/",
+  "problem_score": 225,
+  "time_to_solve": "70:26"
+}

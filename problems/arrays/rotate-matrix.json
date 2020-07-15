@@ -1,0 +1,9 @@
+{
+  "hasImages": false,
+  "contentHTML": "<html><head></head><body><h4>Rotate Matrix</h4><div><strong>Time:60:26</strong><br><strong>Score:300</strong></div><br>                      <p>You are given an n x n 2D matrix representing an image.</p><p>Rotate the image by 90 degrees (clockwise).</p><p>You need to do this in place.</p><p>Note that if you end up using an additional array, you will only receive partial score.</p><p><strong>Example:</strong></p><p>If the array is</p><div class=\"highlighter-rouge\"><pre class=\"highlight\"><code>[    [1, 2],    [3, 4]]</code></pre></div><p>Then the rotated array becomes:</p><div class=\"highlighter-rouge\"><pre class=\"highlight\"><code>[    [3, 1],    [4, 2]]</code></pre></div>                          <blockquote style=\"position:relative;\">                              <span style=\"font-weight: normal;margin: 12px;\">                                  <b>NOTE: </b>You only need to implement the given function. Do not read input, instead use the arguments to the function. Do not print the output, instead return values as specified.                                  Still have a doubt? Checkout <a href=\"/pages/sample_codes/\">Sample Codes</a> for more details.                              </span>                            <span class=\"fa fa-remove\" id=\"prob-hint-remove\" style=\"position:absolute;top:0;right:0;margin:12px;color:grey;\"></span>                          </blockquote>                    </body></html>",
+  "problem_id": 55,
+  "problem_name": "Rotate Matrix",
+  "problem_link": "https://www.interviewbit.com/problems/rotate-matrix/",
+  "problem_score": 300,
+  "time_to_solve": "60:26"
+}

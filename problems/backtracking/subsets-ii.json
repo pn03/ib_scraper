@@ -1,0 +1,9 @@
+{
+  "hasImages": false,
+  "contentHTML": "<html><head></head><body><h4>Subsets II</h4><div><strong>Time:39:08</strong><br><strong>Score:300</strong></div><br>                      <p>Given a collection of integers that might contain duplicates, <code class=\"highlighter-rouge\">S</code>, return all possible subsets.</p><blockquote>  <p><strong>Note:</strong></p>  <ul>    <li>Elements in a subset must be in non-descending order.</li>    <li>The solution set must not contain duplicate subsets.</li>    <li>The subsets must be sorted lexicographically.</li>  </ul></blockquote><p><strong>Example :</strong><br>If <code class=\"highlighter-rouge\">S = [1,2,2]</code>, the solution is:</p><div class=\"highlighter-rouge\"><pre class=\"highlight\"><code>[[],[1],[1,2],[1,2,2],[2],[2, 2]]</code></pre></div>                          <blockquote style=\"position:relative;\">                              <span style=\"font-weight: normal;margin: 12px;\">                                  <b>NOTE: </b>You only need to implement the given function. Do not read input, instead use the arguments to the function. Do not print the output, instead return values as specified.                                  Still have a doubt? Checkout <a href=\"/pages/sample_codes/\">Sample Codes</a> for more details.                              </span>                            <span class=\"fa fa-remove\" id=\"prob-hint-remove\" style=\"position:absolute;top:0;right:0;margin:12px;color:grey;\"></span>                          </blockquote>                    </body></html>",
+  "problem_id": 146,
+  "problem_name": "Subsets II",
+  "problem_link": "https://www.interviewbit.com/problems/subsets-ii/",
+  "problem_score": 300,
+  "time_to_solve": "39:08"
+}

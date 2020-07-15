@@ -1,0 +1,9 @@
+{
+  "hasImages": false,
+  "contentHTML": "<html><head></head><body><h4>WHILE_CMPL</h4><div><strong>Time:1:31</strong><br><strong>Score:50</strong></div><br>                      <p>What is the time complexity of the following code :</p><div class=\"language-cpp highlighter-rouge\"><pre class=\"highlight\"><code>        <span class=\"kt\">int</span> <span class=\"n\">a</span> <span class=\"o\">=</span> <span class=\"mi\">0</span><span class=\"p\">,</span> <span class=\"n\">i</span> <span class=\"o\">=</span> <span class=\"n\">N</span><span class=\"p\">;</span>        <span class=\"k\">while</span> <span class=\"p\">(</span><span class=\"n\">i</span> <span class=\"o\">&gt;</span> <span class=\"mi\">0</span><span class=\"p\">)</span> <span class=\"p\">{</span>            <span class=\"n\">a</span> <span class=\"o\">+=</span> <span class=\"n\">i</span><span class=\"p\">;</span>            <span class=\"n\">i</span> <span class=\"o\">/=</span> <span class=\"mi\">2</span><span class=\"p\">;</span>        <span class=\"p\">}</span></code></pre></div>                    </body></html>",
+  "problem_id": 248,
+  "problem_name": "WHILE_CMPL",
+  "problem_link": "https://www.interviewbit.com/problems/whilecmpl/",
+  "problem_score": 50,
+  "time_to_solve": "1:31"
+}

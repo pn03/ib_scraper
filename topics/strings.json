@@ -1,0 +1,186 @@
+{
+  "problems": [
+    {
+      "problem_id": 175,
+      "problem_name": "Palindrome String",
+      "problem_link": "https://www.interviewbit.com/problems/palindrome-string/",
+      "problem_score": 150,
+      "time_to_solve": "30:40"
+    },
+    {
+      "problem_id": 176,
+      "problem_name": "Longest Common Prefix",
+      "problem_link": "https://www.interviewbit.com/problems/longest-common-prefix/",
+      "problem_score": 225,
+      "time_to_solve": "27:45"
+    },
+    {
+      "problem_id": 187,
+      "problem_name": "Count And Say",
+      "problem_link": "https://www.interviewbit.com/problems/count-and-say/",
+      "problem_score": 250,
+      "time_to_solve": "42:54"
+    },
+    {
+      "problem_id": 1054,
+      "problem_name": "Amazing Subarrays",
+      "problem_link": "https://www.interviewbit.com/problems/amazing-subarrays/",
+      "problem_score": 150,
+      "time_to_solve": "25:59"
+    },
+    {
+      "problem_id": 173,
+      "problem_name": "Implement StrStr",
+      "problem_link": "https://www.interviewbit.com/problems/implement-strstr/",
+      "problem_score": 225,
+      "time_to_solve": "33:14"
+    },
+    {
+      "problem_id": 1772,
+      "problem_name": "Stringoholics",
+      "problem_link": "https://www.interviewbit.com/problems/stringoholics/",
+      "problem_score": 300,
+      "time_to_solve": "64:43"
+    },
+    {
+      "problem_id": 363,
+      "problem_name": "Minimum Characters required to make a String Palindromic",
+      "problem_link": "https://www.interviewbit.com/problems/minimum-characters-required-to-make-a-string-palindromic/",
+      "problem_score": 200,
+      "time_to_solve": "63:54"
+    },
+    {
+      "problem_id": 185,
+      "problem_name": "Longest Palindromic Substring",
+      "problem_link": "https://www.interviewbit.com/problems/longest-palindromic-substring/",
+      "problem_score": 500,
+      "time_to_solve": "59:04"
+    },
+    {
+      "problem_id": 178,
+      "problem_name": "Length of Last Word",
+      "problem_link": "https://www.interviewbit.com/problems/length-of-last-word/",
+      "problem_score": 225,
+      "time_to_solve": "17:54"
+    },
+    {
+      "problem_id": 190,
+      "problem_name": "Reverse the String",
+      "problem_link": "https://www.interviewbit.com/problems/reverse-the-string/",
+      "problem_score": 250,
+      "time_to_solve": "36:31"
+    },
+    {
+      "problem_id": 184,
+      "problem_name": "Compare Version Numbers",
+      "problem_link": "https://www.interviewbit.com/problems/compare-version-numbers/",
+      "problem_score": 225,
+      "time_to_solve": "64:07"
+    },
+    {
+      "problem_id": 182,
+      "problem_name": "Atoi",
+      "problem_link": "https://www.interviewbit.com/problems/atoi/",
+      "problem_score": 250,
+      "time_to_solve": "51:58"
+    },
+    {
+      "problem_id": 180,
+      "problem_name": "Valid Number",
+      "problem_link": "https://www.interviewbit.com/problems/valid-number/",
+      "problem_score": 250,
+      "time_to_solve": "56:42"
+    },
+    {
+      "problem_id": 183,
+      "problem_name": "Valid Ip Addresses",
+      "problem_link": "https://www.interviewbit.com/problems/valid-ip-addresses/",
+      "problem_score": 250,
+      "time_to_solve": "62:41"
+    },
+    {
+      "problem_id": 177,
+      "problem_name": "Roman To Integer",
+      "problem_link": "https://www.interviewbit.com/problems/roman-to-integer/",
+      "problem_score": 250,
+      "time_to_solve": "32:57"
+    },
+    {
+      "problem_id": 174,
+      "problem_name": "Integer To Roman",
+      "problem_link": "https://www.interviewbit.com/problems/integer-to-roman/",
+      "problem_score": 250,
+      "time_to_solve": "40:51"
+    },
+    {
+      "problem_id": 189,
+      "problem_name": "Add Binary Strings",
+      "problem_link": "https://www.interviewbit.com/problems/add-binary-strings/",
+      "problem_score": 300,
+      "time_to_solve": "40:10"
+    },
+    {
+      "problem_id": 272,
+      "problem_name": "Power of 2",
+      "problem_link": "https://www.interviewbit.com/problems/power-of-2/",
+      "problem_score": 350,
+      "time_to_solve": "60:52"
+    },
+    {
+      "problem_id": 179,
+      "problem_name": "Multiply Strings",
+      "problem_link": "https://www.interviewbit.com/problems/multiply-strings/",
+      "problem_score": 375,
+      "time_to_solve": "61:32"
+    },
+    {
+      "problem_id": 188,
+      "problem_name": "Justified Text",
+      "problem_link": "https://www.interviewbit.com/problems/justified-text/",
+      "problem_score": 300,
+      "time_to_solve": "73:19"
+    },
+    {
+      "problem_id": 181,
+      "problem_name": "Zigzag String",
+      "problem_link": "https://www.interviewbit.com/problems/zigzag-string/",
+      "problem_score": 300,
+      "time_to_solve": "51:49"
+    },
+    {
+      "problem_id": 186,
+      "problem_name": "Pretty Json",
+      "problem_link": "https://www.interviewbit.com/problems/pretty-json/",
+      "problem_score": 400,
+      "time_to_solve": "61:18"
+    },
+    {
+      "problem_id": 11639,
+      "problem_name": "Convert to Palindrome",
+      "problem_link": "https://www.interviewbit.com/problems/convert-to-palindrome/",
+      "problem_score": 200,
+      "time_to_solve": "22:38"
+    },
+    {
+      "problem_id": 11983,
+      "problem_name": "Minimum Appends for Palindrome!",
+      "problem_link": "https://www.interviewbit.com/problems/minimum-appends-for-palindrome/",
+      "problem_score": 200,
+      "time_to_solve": "40:01"
+    },
+    {
+      "problem_id": 12167,
+      "problem_name": "Minimum Parantheses!",
+      "problem_link": "https://www.interviewbit.com/problems/minimum-parantheses/",
+      "problem_score": 200,
+      "time_to_solve": "13:43"
+    },
+    {
+      "problem_id": 11987,
+      "problem_name": "Remove Consecutive Characters",
+      "problem_link": "https://www.interviewbit.com/problems/remove-consecutive-characters/",
+      "problem_score": 200,
+      "time_to_solve": "21:39"
+    }
+  ]
+}

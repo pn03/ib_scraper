@@ -1,0 +1,9 @@
+{
+  "hasImages": false,
+  "contentHTML": "<html><head></head><body><h4>Path Sum</h4><div><strong>Time:27:23</strong><br><strong>Score:350</strong></div><br>                      <p>Given a binary tree and a sum, determine if the tree has a root-to-leaf path such that adding up all the values along the path equals the given sum.</p><p><strong>Example :</strong></p><p>Given the below binary tree and <code class=\"highlighter-rouge\">sum = 22</code>,</p><div class=\"highlighter-rouge\"><pre class=\"highlight\"><code>              5             / \\            4   8           /   / \\          11  13  4         /  \\      \\        7    2      1</code></pre></div><p>return <code class=\"highlighter-rouge\">true</code>, as there exist a root-to-leaf path <code class=\"highlighter-rouge\">5-&gt;4-&gt;11-&gt;2</code> which sum is <code class=\"highlighter-rouge\">22</code>.</p><p><strong>Return <code class=\"highlighter-rouge\">0 / 1</code> ( 0 for false, 1 for true ) for this problem</strong></p>                          <blockquote style=\"position:relative;\">                              <span style=\"font-weight: normal;margin: 12px;\">                                  <b>NOTE: </b>You only need to implement the given function. Do not read input, instead use the arguments to the function. Do not print the output, instead return values as specified.                                  Still have a doubt? Checkout <a href=\"/pages/sample_codes/\">Sample Codes</a> for more details.                              </span>                            <span class=\"fa fa-remove\" id=\"prob-hint-remove\" style=\"position:absolute;top:0;right:0;margin:12px;color:grey;\"></span>                          </blockquote>                    </body></html>",
+  "problem_id": 234,
+  "problem_name": "Path Sum",
+  "problem_link": "https://www.interviewbit.com/problems/path-sum/",
+  "problem_score": 350,
+  "time_to_solve": "27:23"
+}

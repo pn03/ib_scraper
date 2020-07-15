@@ -1,0 +1,9 @@
+{
+  "hasImages": false,
+  "contentHTML": "<html><head></head><body><h4>Implement Power Function</h4><div><strong>Time:59:44</strong><br><strong>Score:275</strong></div><br>                      <p>Implement <code class=\"highlighter-rouge\">pow(x, n) % d</code>.</p><p>In other words, given <code class=\"highlighter-rouge\">x</code>, <code class=\"highlighter-rouge\">n</code> and <code class=\"highlighter-rouge\">d</code>,</p><p><strong>find   (x<sup>n</sup>  % d)</strong></p><p>Note that remainders on division cannot be negative. <br>In other words, make sure the answer you return is non negative.</p><div class=\"highlighter-rouge\"><pre class=\"highlight\"><code>Input : x = 2, n = 3, d = 3Output : 22^3 % 3 = 8 % 3 = 2.</code></pre></div>                          <blockquote style=\"position:relative;\">                              <span style=\"font-weight: normal;margin: 12px;\">                                  <b>NOTE: </b>You only need to implement the given function. Do not read input, instead use the arguments to the function. Do not print the output, instead return values as specified.                                  Still have a doubt? Checkout <a href=\"/pages/sample_codes/\">Sample Codes</a> for more details.                              </span>                            <span class=\"fa fa-remove\" id=\"prob-hint-remove\" style=\"position:absolute;top:0;right:0;margin:12px;color:grey;\"></span>                          </blockquote>                    </body></html>",
+  "problem_id": 201,
+  "problem_name": "Implement Power Function",
+  "problem_link": "https://www.interviewbit.com/problems/implement-power-function/",
+  "problem_score": 275,
+  "time_to_solve": "59:44"
+}

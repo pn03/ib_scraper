@@ -1,0 +1,81 @@
+{
+  "problems": [
+    {
+      "problem_id": 192,
+      "problem_name": "Number of 1 Bits",
+      "problem_link": "https://www.interviewbit.com/problems/number-of-1-bits/",
+      "problem_score": 200,
+      "time_to_solve": "8:47"
+    },
+    {
+      "problem_id": 191,
+      "problem_name": "Reverse Bits",
+      "problem_link": "https://www.interviewbit.com/problems/reverse-bits/",
+      "problem_score": 225,
+      "time_to_solve": "23:49"
+    },
+    {
+      "problem_id": 194,
+      "problem_name": "Divide Integers",
+      "problem_link": "https://www.interviewbit.com/problems/divide-integers/",
+      "problem_score": 250,
+      "time_to_solve": "63:28"
+    },
+    {
+      "problem_id": 330,
+      "problem_name": "Different Bits Sum Pairwise",
+      "problem_link": "https://www.interviewbit.com/problems/different-bits-sum-pairwise/",
+      "problem_score": 300,
+      "time_to_solve": "49:15"
+    },
+    {
+      "problem_id": 383,
+      "problem_name": "Min XOR value",
+      "problem_link": "https://www.interviewbit.com/problems/min-xor-value/",
+      "problem_score": 200,
+      "time_to_solve": "37:40"
+    },
+    {
+      "problem_id": 11059,
+      "problem_name": "Count Total Set Bits",
+      "problem_link": "https://www.interviewbit.com/problems/count-total-set-bits/",
+      "problem_score": 200,
+      "time_to_solve": "43:20"
+    },
+    {
+      "problem_id": 11635,
+      "problem_name": "Palindromic Binary Representation",
+      "problem_link": "https://www.interviewbit.com/problems/palindromic-binary-representation/",
+      "problem_score": 200,
+      "time_to_solve": "45:41"
+    },
+    {
+      "problem_id": 193,
+      "problem_name": "Single Number",
+      "problem_link": "https://www.interviewbit.com/problems/single-number/",
+      "problem_score": 275,
+      "time_to_solve": "11:53"
+    },
+    {
+      "problem_id": 195,
+      "problem_name": "Single Number II",
+      "problem_link": "https://www.interviewbit.com/problems/single-number-ii/",
+      "problem_score": 275,
+      "time_to_solve": "39:06"
+    },
+    {
+      "problem_id": 12257,
+      "problem_name": "Trailing Zeroes",
+      "problem_link": "https://www.interviewbit.com/problems/trailing-zeroes/",
+      "problem_score": 200,
+      "time_to_solve": "6:56"
+    },
+    {
+      "problem_id": 12282,
+      "problem_name": "XOR-ing the Subarrays!",
+      "problem_link": "https://www.interviewbit.com/problems/xor-ing-the-subarrays/",
+      "problem_score": 200,
+      "time_to_solve": "27:10"
+    }
+  ]
+}

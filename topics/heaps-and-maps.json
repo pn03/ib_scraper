@@ -1,0 +1,74 @@
+{
+  "problems": [
+    {
+      "problem_id": 417,
+      "problem_name": "N max pair combinations",
+      "problem_link": "https://www.interviewbit.com/problems/n-max-pair-combinations/",
+      "problem_score": 200,
+      "time_to_solve": "73:56"
+    },
+    {
+      "problem_id": 365,
+      "problem_name": "Ways to form Max Heap",
+      "problem_link": "https://www.interviewbit.com/problems/ways-to-form-max-heap/",
+      "problem_score": 200,
+      "time_to_solve": "67:35"
+    },
+    {
+      "problem_id": 362,
+      "problem_name": "Magician and Chocolates",
+      "problem_link": "https://www.interviewbit.com/problems/magician-and-chocolates/",
+      "problem_score": 250,
+      "time_to_solve": "40:59"
+    },
+    {
+      "problem_id": 238,
+      "problem_name": "Merge K Sorted Lists",
+      "problem_link": "https://www.interviewbit.com/problems/merge-k-sorted-lists/",
+      "problem_score": 600,
+      "time_to_solve": "42:35"
+    },
+    {
+      "problem_id": 333,
+      "problem_name": "Distinct Numbers in Window",
+      "problem_link": "https://www.interviewbit.com/problems/distinct-numbers-in-window/",
+      "problem_score": 600,
+      "time_to_solve": "38:32"
+    },
+    {
+      "problem_id": 239,
+      "problem_name": "LRU Cache",
+      "problem_link": "https://www.interviewbit.com/problems/lru-cache/",
+      "problem_score": 1000,
+      "time_to_solve": "71:16"
+    },
+    {
+      "problem_id": 11051,
+      "problem_name": "Maximum Sum Combinations",
+      "problem_link": "https://www.interviewbit.com/problems/maximum-sum-combinations/",
+      "problem_score": 300,
+      "time_to_solve": "33:19"
+    },
+    {
+      "problem_id": 11067,
+      "problem_name": "K Largest Elements",
+      "problem_link": "https://www.interviewbit.com/problems/k-largest-elements/",
+      "problem_score": 200,
+      "time_to_solve": "9:25"
+    },
+    {
+      "problem_id": 12012,
+      "problem_name": "Profit Maximisation",
+      "problem_link": "https://www.interviewbit.com/problems/profit-maximisation/",
+      "problem_score": 200,
+      "time_to_solve": "9:44"
+    },
+    {
+      "problem_id": 12277,
+      "problem_name": "Merge K sorted arrays!",
+      "problem_link": "https://www.interviewbit.com/problems/merge-k-sorted-arrays/",
+      "problem_score": 200,
+      "time_to_solve": "15:16"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "hasImages": false,
+  "contentHTML": "<html><head></head><body><h4>3 Sum Zero</h4><div><strong>Time:52:40</strong><br><strong>Score:225</strong></div><br>                      <p>Given an array S of n integers, are there elements a, b, c in S such that a + b + c = 0? <br>Find all unique triplets in the array which gives the sum of zero.</p><p><strong>Note:</strong></p><blockquote>  <p>Elements in a triplet (a,b,c) must be in non-descending order. (ie, a &#x2264; b &#x2264; c)<br>The solution set must not contain duplicate triplets.</p>  <p>For example, given array <code class=\"highlighter-rouge\">S = {-1 0 1 2 -1 -4}</code>,</p>  <p>A solution set is:<br>  <code class=\"highlighter-rouge\">(-1, 0, 1)</code><br>  <code class=\"highlighter-rouge\">(-1, -1, 2)</code></p></blockquote>                          <blockquote style=\"position:relative;\">                              <span style=\"font-weight: normal;margin: 12px;\">                                  <b>NOTE: </b>You only need to implement the given function. Do not read input, instead use the arguments to the function. Do not print the output, instead return values as specified.                                  Still have a doubt? Checkout <a href=\"/pages/sample_codes/\">Sample Codes</a> for more details.                              </span>                            <span class=\"fa fa-remove\" id=\"prob-hint-remove\" style=\"position:absolute;top:0;right:0;margin:12px;color:grey;\"></span>                          </blockquote>                    </body></html>",
+  "problem_id": 170,
+  "problem_name": "3 Sum Zero",
+  "problem_link": "https://www.interviewbit.com/problems/3-sum-zero/",
+  "problem_score": 225,
+  "time_to_solve": "52:40"
+}

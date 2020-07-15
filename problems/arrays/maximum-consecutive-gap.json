@@ -1,0 +1,9 @@
+{
+  "hasImages": false,
+  "contentHTML": "<html><head></head><body><h4>Maximum Consecutive Gap</h4><div><strong>Time:57:08</strong><br><strong>Score:450</strong></div><br>                      <p>Given an unsorted array, find the maximum difference between the successive elements in its sorted form.</p><p>Try to solve it in linear time/space.</p><p><strong>Example :</strong></p><div class=\"highlighter-rouge\"><pre class=\"highlight\"><code>Input : [1, 10, 5]Output : 5 </code></pre></div><p><strong>Return 0 if the array contains less than 2 elements.</strong></p><ul>  <li>You may assume that all the elements in the array are non-negative integers and fit in the 32-bit signed integer range.</li>  <li>You may also assume that the difference will not overflow.</li></ul>                          <blockquote style=\"position:relative;\">                              <span style=\"font-weight: normal;margin: 12px;\">                                  <b>NOTE: </b>You only need to implement the given function. Do not read input, instead use the arguments to the function. Do not print the output, instead return values as specified.                                  Still have a doubt? Checkout <a href=\"/pages/sample_codes/\">Sample Codes</a> for more details.                              </span>                            <span class=\"fa fa-remove\" id=\"prob-hint-remove\" style=\"position:absolute;top:0;right:0;margin:12px;color:grey;\"></span>                          </blockquote>                    </body></html>",
+  "problem_id": 69,
+  "problem_name": "Maximum Consecutive Gap",
+  "problem_link": "https://www.interviewbit.com/problems/maximum-consecutive-gap/",
+  "problem_score": 450,
+  "time_to_solve": "57:08"
+}

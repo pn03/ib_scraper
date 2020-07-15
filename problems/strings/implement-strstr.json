@@ -1,0 +1,9 @@
+{
+  "hasImages": false,
+  "contentHTML": "<html><head></head><body><h4>Implement StrStr</h4><div><strong>Time:33:14</strong><br><strong>Score:225</strong></div><br>                      <p><strong>Implement strStr().</strong></p><blockquote>  <p>strstr - locate a substring ( needle ) in a string ( haystack ).</p></blockquote><p><strong>Try not to use standard library string functions for this question.</strong></p><p>Returns the index of the first occurrence of needle in haystack, or <code class=\"highlighter-rouge\">-1</code> if needle is not part of haystack.</p><blockquote>  <p><strong>NOTE:</strong></p>  <p><strong>Good clarification questions:</strong></p>  <ol>    <li>      <p>What should be the return value if the needle is empty?</p>    </li>    <li>      <p>What if both haystack and needle are empty?</p>    </li>  </ol>  <p>For the purpose of this problem, assume that the return value should be -1 in both cases.</p></blockquote>                      <button id=\"blur-button\" class=\"btn btn-info btn-xs div-middle\" type=\"button\">                        Show Problem Statement                      </button>                    </body></html>",
+  "problem_id": 173,
+  "problem_name": "Implement StrStr",
+  "problem_link": "https://www.interviewbit.com/problems/implement-strstr/",
+  "problem_score": 225,
+  "time_to_solve": "33:14"
+}

@@ -1,0 +1,16 @@
+{
+  "imgUrls": [
+    "http://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sudoku-by-L2G-20050714.svg/250px-Sudoku-by-L2G-20050714.svg.png"
+  ],
+  "hasImages": true,
+  "contentHTML": "<html><head></head><body><h4>Valid Sudoku</h4><div><strong>Time:48:10</strong><br><strong>Score:325</strong></div><br>                      <p>Determine if a Sudoku is valid, according to: http://sudoku.com.au/TheRules.aspx</p><p>The Sudoku board could be partially filled, where empty cells are filled with the character &#x2018;.&#x2019;.</p><p><img src=\"hashing/hashing_assets/Q_valid_sudoku_1.svg.png\" alt></p><p>The input corresponding to the above configuration :</p><div class=\"highlighter-rouge\"><pre class=\"highlight\"><code>[&quot;53..7....&quot;, &quot;6..195...&quot;, &quot;.98....6.&quot;, &quot;8...6...3&quot;, &quot;4..8.3..1&quot;, &quot;7...2...6&quot;, &quot;.6....28.&quot;, &quot;...419..5&quot;, &quot;....8..79&quot;]</code></pre></div><p>A partially filled sudoku which is valid.</p><blockquote>  <p><strong>Note:</strong></p>  <ul>    <li>A valid Sudoku board (partially filled) is not necessarily solvable. Only the filled cells need to be validated.</li>  </ul></blockquote><p><strong>Return <code class=\"highlighter-rouge\">0 / 1</code> ( 0 for false, 1 for true ) for this problem</strong></p>                          <blockquote style=\"position:relative;\">                              <span style=\"font-weight: normal;margin: 12px;\">                                  <b>NOTE: </b>You only need to implement the given function. Do not read input, instead use the arguments to the function. Do not print the output, instead return values as specified.                                  Still have a doubt? Checkout <a href=\"/pages/sample_codes/\">Sample Codes</a> for more details.                              </span>                            <span class=\"fa fa-remove\" id=\"prob-hint-remove\" style=\"position:absolute;top:0;right:0;margin:12px;color:grey;\"></span>                          </blockquote>                    </body></html>",
+  "imgNames": [
+    "250px-Sudoku-by-L2G-20050714.svg.png",
+    "Q_valid_sudoku_1.svg.png"
+  ],
+  "problem_id": 158,
+  "problem_name": "Valid Sudoku",
+  "problem_link": "https://www.interviewbit.com/problems/valid-sudoku/",
+  "problem_score": 325,
+  "time_to_solve": "48:10"
+}

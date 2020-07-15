@@ -1,0 +1,81 @@
+{
+  "problems": [
+    {
+      "problem_id": 591,
+      "problem_name": "MAXSPPROD",
+      "problem_link": "https://www.interviewbit.com/problems/maxspprod/",
+      "problem_score": 200,
+      "time_to_solve": "86:36"
+    },
+    {
+      "problem_id": 332,
+      "problem_name": "Nearest Smaller Element",
+      "problem_link": "https://www.interviewbit.com/problems/nearest-smaller-element/",
+      "problem_score": 350,
+      "time_to_solve": "41:37"
+    },
+    {
+      "problem_id": 49,
+      "problem_name": "Largest Rectangle in Histogram",
+      "problem_link": "https://www.interviewbit.com/problems/largest-rectangle-in-histogram/",
+      "problem_score": 450,
+      "time_to_solve": "64:41"
+    },
+    {
+      "problem_id": 4365,
+      "problem_name": "First non-repeating character in a stream of characters",
+      "problem_link": "https://www.interviewbit.com/problems/first-non-repeating-character-in-a-stream-of-characters/",
+      "problem_score": 200,
+      "time_to_solve": "34:46"
+    },
+    {
+      "problem_id": 50,
+      "problem_name": "Sliding Window Maximum",
+      "problem_link": "https://www.interviewbit.com/problems/sliding-window-maximum/",
+      "problem_score": 450,
+      "time_to_solve": "67:50"
+    },
+    {
+      "problem_id": 51,
+      "problem_name": "Simplify Directory Path",
+      "problem_link": "https://www.interviewbit.com/problems/simplify-directory-path/",
+      "problem_score": 250,
+      "time_to_solve": "53:10"
+    },
+    {
+      "problem_id": 274,
+      "problem_name": "Redundant Braces",
+      "problem_link": "https://www.interviewbit.com/problems/redundant-braces/",
+      "problem_score": 300,
+      "time_to_solve": "42:39"
+    },
+    {
+      "problem_id": 52,
+      "problem_name": "Min Stack",
+      "problem_link": "https://www.interviewbit.com/problems/min-stack/",
+      "problem_score": 400,
+      "time_to_solve": "43:19"
+    },
+    {
+      "problem_id": 46,
+      "problem_name": "Evaluate Expression",
+      "problem_link": "https://www.interviewbit.com/problems/evaluate-expression/",
+      "problem_score": 400,
+      "time_to_solve": "32:46"
+    },
+    {
+      "problem_id": 47,
+      "problem_name": "Rain Water Trapped",
+      "problem_link": "https://www.interviewbit.com/problems/rain-water-trapped/",
+      "problem_score": 400,
+      "time_to_solve": "58:18"
+    },
+    {
+      "problem_id": 11654,
+      "problem_name": "Balanced Parantheses!",
+      "problem_link": "https://www.interviewbit.com/problems/balanced-parantheses/",
+      "problem_score": 200,
+      "time_to_solve": "8:38"
+    }
+  ]
+}

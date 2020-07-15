@@ -1,0 +1,9 @@
+{
+  "hasImages": false,
+  "contentHTML": "<html><head></head><body><h4>Merge Two Sorted Lists II</h4><div><strong>Time:25:31</strong><br><strong>Score:200</strong></div><br>                      <p>Given two sorted integer arrays A and B, merge B into A as one sorted array.</p><blockquote>  <p><strong>Note</strong>: You have to modify the array A to contain the merge of A and B. Do not output anything in your code.<br><strong>TIP</strong>: C users, please malloc the result into a new array and return the result.</p></blockquote><p>If the number of elements initialized in A and B are <code class=\"highlighter-rouge\">m</code> and <code class=\"highlighter-rouge\">n</code> respectively, the resulting size of array A after your code is executed should be <code class=\"highlighter-rouge\">m + n</code></p><p><strong>Example :</strong></p><div class=\"highlighter-rouge\"><pre class=\"highlight\"><code>Input :          A : [1 5 8]         B : [6 9]Modified A : [1 5 6 8 9]</code></pre></div>                          <blockquote style=\"position:relative;\">                              <span style=\"font-weight: normal;margin: 12px;\">                                  <b>NOTE: </b>You only need to implement the given function. Do not read input, instead use the arguments to the function. Do not print the output, instead return values as specified.                                  Still have a doubt? Checkout <a href=\"/pages/sample_codes/\">Sample Codes</a> for more details.                              </span>                            <span class=\"fa fa-remove\" id=\"prob-hint-remove\" style=\"position:absolute;top:0;right:0;margin:12px;color:grey;\"></span>                          </blockquote>                    </body></html>",
+  "problem_id": 164,
+  "problem_name": "Merge Two Sorted Lists II",
+  "problem_link": "https://www.interviewbit.com/problems/merge-two-sorted-lists-ii/",
+  "problem_score": 200,
+  "time_to_solve": "25:31"
+}

@@ -1,0 +1,9 @@
+{
+  "hasImages": false,
+  "contentHTML": "<html><head></head><body><h4>Construct Binary Tree From Inorder And Preorder</h4><div><strong>Time:43:57</strong><br><strong>Score:375</strong></div><br>                      <p>Given preorder and inorder traversal of a tree, construct the binary tree.</p><blockquote>  <p><strong>Note:</strong> You may assume that duplicates do not exist in the tree.</p></blockquote><p><strong>Example :</strong></p><div class=\"highlighter-rouge\"><pre class=\"highlight\"><code>Input :        Preorder : [1, 2, 3]        Inorder  : [2, 1, 3]Return :            1           / \\          2   3</code></pre></div>                          <blockquote style=\"position:relative;\">                              <span style=\"font-weight: normal;margin: 12px;\">                                  <b>NOTE: </b>You only need to implement the given function. Do not read input, instead use the arguments to the function. Do not print the output, instead return values as specified.                                  Still have a doubt? Checkout <a href=\"/pages/sample_codes/\">Sample Codes</a> for more details.                              </span>                            <span class=\"fa fa-remove\" id=\"prob-hint-remove\" style=\"position:absolute;top:0;right:0;margin:12px;color:grey;\"></span>                          </blockquote>                    </body></html>",
+  "problem_id": 219,
+  "problem_name": "Construct Binary Tree From Inorder And Preorder",
+  "problem_link": "https://www.interviewbit.com/problems/construct-binary-tree-from-inorder-and-preorder/",
+  "problem_score": 375,
+  "time_to_solve": "43:57"
+}

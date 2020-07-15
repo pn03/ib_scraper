@@ -1,0 +1,67 @@
+{
+  "problems": [
+    {
+      "problem_id": 320,
+      "problem_name": "Bulbs",
+      "problem_link": "https://www.interviewbit.com/problems/bulbs/",
+      "problem_score": 200,
+      "time_to_solve": "22:22"
+    },
+    {
+      "problem_id": 289,
+      "problem_name": "Highest Product",
+      "problem_link": "https://www.interviewbit.com/problems/highest-product/",
+      "problem_score": 200,
+      "time_to_solve": "28:54"
+    },
+    {
+      "problem_id": 4821,
+      "problem_name": "Meeting rooms",
+      "problem_link": "https://www.interviewbit.com/problems/meeting-rooms/",
+      "problem_score": 200,
+      "time_to_solve": "36:16"
+    },
+    {
+      "problem_id": 3,
+      "problem_name": "Distribute Candy",
+      "problem_link": "https://www.interviewbit.com/problems/distribute-candy/",
+      "problem_score": 300,
+      "time_to_solve": "62:15"
+    },
+    {
+      "problem_id": 282,
+      "problem_name": "Seats",
+      "problem_link": "https://www.interviewbit.com/problems/seats/",
+      "problem_score": 300,
+      "time_to_solve": "70:05"
+    },
+    {
+      "problem_id": 290,
+      "problem_name": "Assign Mice to Holes",
+      "problem_link": "https://www.interviewbit.com/problems/assign-mice-to-holes/",
+      "problem_score": 300,
+      "time_to_solve": "20:37"
+    },
+    {
+      "problem_id": 2,
+      "problem_name": "Majority Element",
+      "problem_link": "https://www.interviewbit.com/problems/majority-element/",
+      "problem_score": 400,
+      "time_to_solve": "18:54"
+    },
+    {
+      "problem_id": 1,
+      "problem_name": "Gas Station",
+      "problem_link": "https://www.interviewbit.com/problems/gas-station/",
+      "problem_score": 700,
+      "time_to_solve": "54:53"
+    },
+    {
+      "problem_id": 12115,
+      "problem_name": "Largest Permutation",
+      "problem_link": "https://www.interviewbit.com/problems/largest-permutation/",
+      "problem_score": 250,
+      "time_to_solve": "34:31"
+    }
+  ]
+}

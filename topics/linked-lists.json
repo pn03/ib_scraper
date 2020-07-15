@@ -1,0 +1,130 @@
+{
+  "problems": [
+    {
+      "problem_id": 331,
+      "problem_name": "Palindrome List",
+      "problem_link": "https://www.interviewbit.com/problems/palindrome-list/",
+      "problem_score": 200,
+      "time_to_solve": "47:06"
+    },
+    {
+      "problem_id": 37,
+      "problem_name": "Remove Duplicates from Sorted List",
+      "problem_link": "https://www.interviewbit.com/problems/remove-duplicates-from-sorted-list/",
+      "problem_score": 300,
+      "time_to_solve": "17:58"
+    },
+    {
+      "problem_id": 35,
+      "problem_name": "Remove Duplicates from Sorted List II",
+      "problem_link": "https://www.interviewbit.com/problems/remove-duplicates-from-sorted-list-ii/",
+      "problem_score": 300,
+      "time_to_solve": "57:31"
+    },
+    {
+      "problem_id": 36,
+      "problem_name": "Merge Two Sorted Lists",
+      "problem_link": "https://www.interviewbit.com/problems/merge-two-sorted-lists/",
+      "problem_score": 300,
+      "time_to_solve": "29:11"
+    },
+    {
+      "problem_id": 39,
+      "problem_name": "Remove Nth Node from List End",
+      "problem_link": "https://www.interviewbit.com/problems/remove-nth-node-from-list-end/",
+      "problem_score": 350,
+      "time_to_solve": "27:37"
+    },
+    {
+      "problem_id": 380,
+      "problem_name": "K reverse linked list",
+      "problem_link": "https://www.interviewbit.com/problems/k-reverse-linked-list/",
+      "problem_score": 200,
+      "time_to_solve": "58:49"
+    },
+    {
+      "problem_id": 31,
+      "problem_name": "Swap List Nodes in pairs",
+      "problem_link": "https://www.interviewbit.com/problems/swap-list-nodes-in-pairs/",
+      "problem_score": 350,
+      "time_to_solve": "33:19"
+    },
+    {
+      "problem_id": 32,
+      "problem_name": "Rotate List",
+      "problem_link": "https://www.interviewbit.com/problems/rotate-list/",
+      "problem_score": 350,
+      "time_to_solve": "33:46"
+    },
+    {
+      "problem_id": 38,
+      "problem_name": "Add Two Numbers as Lists",
+      "problem_link": "https://www.interviewbit.com/problems/add-two-numbers-as-lists/",
+      "problem_score": 250,
+      "time_to_solve": "43:04"
+    },
+    {
+      "problem_id": 43,
+      "problem_name": "List Cycle",
+      "problem_link": "https://www.interviewbit.com/problems/list-cycle/",
+      "problem_score": 600,
+      "time_to_solve": "39:15"
+    },
+    {
+      "problem_id": 41,
+      "problem_name": "Partition List",
+      "problem_link": "https://www.interviewbit.com/problems/partition-list/",
+      "problem_score": 275,
+      "time_to_solve": "48:41"
+    },
+    {
+      "problem_id": 42,
+      "problem_name": "Insertion Sort List",
+      "problem_link": "https://www.interviewbit.com/problems/insertion-sort-list/",
+      "problem_score": 300,
+      "time_to_solve": "47:04"
+    },
+    {
+      "problem_id": 34,
+      "problem_name": "Sort List",
+      "problem_link": "https://www.interviewbit.com/problems/sort-list/",
+      "problem_score": 350,
+      "time_to_solve": "56:13"
+    },
+    {
+      "problem_id": 45,
+      "problem_name": "Reverse Link List II",
+      "problem_link": "https://www.interviewbit.com/problems/reverse-link-list-ii/",
+      "problem_score": 450,
+      "time_to_solve": "57:24"
+    },
+    {
+      "problem_id": 33,
+      "problem_name": "Reorder List",
+      "problem_link": "https://www.interviewbit.com/problems/reorder-list/",
+      "problem_score": 600,
+      "time_to_solve": "56:49"
+    },
+    {
+      "problem_id": 11056,
+      "problem_name": "Kth Node From Middle",
+      "problem_link": "https://www.interviewbit.com/problems/kth-node-from-middle/",
+      "problem_score": 200,
+      "time_to_solve": "14:58"
+    },
+    {
+      "problem_id": 11060,
+      "problem_name": "Sort Binary Linked List",
+      "problem_link": "https://www.interviewbit.com/problems/sort-binary-linked-list/",
+      "problem_score": 200,
+      "time_to_solve": "13:40"
+    },
+    {
+      "problem_id": 11979,
+      "problem_name": "Even Reverse",
+      "problem_link": "https://www.interviewbit.com/problems/even-reverse/",
+      "problem_score": 200,
+      "time_to_solve": "23:48"
+    }
+  ]
+}

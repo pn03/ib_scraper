@@ -1,0 +1,9 @@
+{
+  "hasImages": false,
+  "contentHTML": "<html><head></head><body><h4>Repeat and Missing Number Array</h4><div><strong>Time:63:55</strong><br><strong>Score:350</strong></div><br>                      <p>You are given a read only array of n integers from 1 to n.</p><p>Each integer appears exactly once except A which appears twice and B which is missing.</p><p>Return A and B.</p><p><em>Note: Your algorithm should have a linear runtime complexity. Could you implement it without using extra memory?</em></p><p><em>Note that in your output A should precede B.</em></p><p><strong>Example:</strong></p><div class=\"highlighter-rouge\"><pre class=\"highlight\"><code>Input:[3 1 2 5 3] Output:[3, 4] A = 3, B = 4</code></pre></div>                      <button id=\"blur-button\" class=\"btn btn-info btn-xs div-middle\" type=\"button\">                        Show Problem Statement                      </button>                    </body></html>",
+  "problem_id": 60,
+  "problem_name": "Repeat and Missing Number Array",
+  "problem_link": "https://www.interviewbit.com/problems/repeat-and-missing-number-array/",
+  "problem_score": 350,
+  "time_to_solve": "63:55"
+}

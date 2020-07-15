@@ -1,0 +1,445 @@
+{
+  "problems": [
+    {
+      "problem_id": 4438,
+      "problem_name": "Longest Common Subsequence",
+      "problem_link": "https://www.interviewbit.com/problems/longest-common-subsequence/",
+      "problem_score": 200,
+      "time_to_solve": "21:21"
+    },
+    {
+      "problem_id": 4441,
+      "problem_name": "Longest Palindromic Subsequence",
+      "problem_link": "https://www.interviewbit.com/problems/longest-palindromic-subsequence/",
+      "problem_score": 200,
+      "time_to_solve": "24:25"
+    },
+    {
+      "problem_id": 21,
+      "problem_name": "Edit Distance",
+      "problem_link": "https://www.interviewbit.com/problems/edit-distance/",
+      "problem_score": 300,
+      "time_to_solve": "45:32"
+    },
+    {
+      "problem_id": 279,
+      "problem_name": "Repeating Sub-Sequence",
+      "problem_link": "https://www.interviewbit.com/problems/repeating-subsequence/",
+      "problem_score": 300,
+      "time_to_solve": "60:25"
+    },
+    {
+      "problem_id": 7,
+      "problem_name": "Distinct Subsequences",
+      "problem_link": "https://www.interviewbit.com/problems/distinct-subsequences/",
+      "problem_score": 325,
+      "time_to_solve": "59:31"
+    },
+    {
+      "problem_id": 27,
+      "problem_name": "Interleaving Strings",
+      "problem_link": "https://www.interviewbit.com/problems/interleaving-strings/",
+      "problem_score": 500,
+      "time_to_solve": "56:12"
+    },
+    {
+      "problem_id": 16,
+      "problem_name": "Regular Expression Match",
+      "problem_link": "https://www.interviewbit.com/problems/regular-expression-match/",
+      "problem_score": 500,
+      "time_to_solve": "62:52"
+    },
+    {
+      "problem_id": 24,
+      "problem_name": "Regular Expression II",
+      "problem_link": "https://www.interviewbit.com/problems/regular-expression-ii/",
+      "problem_score": 500,
+      "time_to_solve": "57:26"
+    },
+    {
+      "problem_id": 13,
+      "problem_name": "Scramble String",
+      "problem_link": "https://www.interviewbit.com/problems/scramble-string/",
+      "problem_score": 500,
+      "time_to_solve": "52:11"
+    },
+    {
+      "problem_id": 370,
+      "problem_name": "Length of Longest Subsequence",
+      "problem_link": "https://www.interviewbit.com/problems/length-of-longest-subsequence/",
+      "problem_score": 200,
+      "time_to_solve": "64:09"
+    },
+    {
+      "problem_id": 420,
+      "problem_name": "Largest area of rectangle with permutations",
+      "problem_link": "https://www.interviewbit.com/problems/largest-area-of-rectangle-with-permutations/",
+      "problem_score": 200,
+      "time_to_solve": "68:43"
+    },
+    {
+      "problem_id": 375,
+      "problem_name": "Smallest sequence with given Primes",
+      "problem_link": "https://www.interviewbit.com/problems/smallest-sequence-with-given-primes/",
+      "problem_score": 200,
+      "time_to_solve": "60:59"
+    },
+    {
+      "problem_id": 10,
+      "problem_name": "Ways to Decode",
+      "problem_link": "https://www.interviewbit.com/problems/ways-to-decode/",
+      "problem_score": 225,
+      "time_to_solve": "68:44"
+    },
+    {
+      "problem_id": 30,
+      "problem_name": "Stairs",
+      "problem_link": "https://www.interviewbit.com/problems/stairs/",
+      "problem_score": 225,
+      "time_to_solve": "15:09"
+    },
+    {
+      "problem_id": 339,
+      "problem_name": "Intersecting Chords in a Circle",
+      "problem_link": "https://www.interviewbit.com/problems/intersecting-chords-in-a-circle/",
+      "problem_score": 300,
+      "time_to_solve": "65:24"
+    },
+    {
+      "problem_id": 4,
+      "problem_name": "Longest Increasing Subsequence",
+      "problem_link": "https://www.interviewbit.com/problems/longest-increasing-subsequence/",
+      "problem_score": 300,
+      "time_to_solve": "30:07"
+    },
+    {
+      "problem_id": 384,
+      "problem_name": "Tushar's Birthday Bombs",
+      "problem_link": "https://www.interviewbit.com/problems/tushars-birthday-bombs/",
+      "problem_score": 200,
+      "time_to_solve": "71:30"
+    },
+    {
+      "problem_id": 26,
+      "problem_name": "Jump Game Array",
+      "problem_link": "https://www.interviewbit.com/problems/jump-game-array/",
+      "problem_score": 225,
+      "time_to_solve": "40:11"
+    },
+    {
+      "problem_id": 20,
+      "problem_name": "Min Jumps Array",
+      "problem_link": "https://www.interviewbit.com/problems/min-jumps-array/",
+      "problem_score": 300,
+      "time_to_solve": "68:19"
+    },
+    {
+      "problem_id": 364,
+      "problem_name": "Longest Arithmetic Progression",
+      "problem_link": "https://www.interviewbit.com/problems/longest-arithmetic-progression/",
+      "problem_score": 200,
+      "time_to_solve": "68:35"
+    },
+    {
+      "problem_id": 368,
+      "problem_name": "N digit numbers with digit sum S",
+      "problem_link": "https://www.interviewbit.com/problems/n-digit-numbers-with-digit-sum-s-/",
+      "problem_score": 200,
+      "time_to_solve": "68:06"
+    },
+    {
+      "problem_id": 381,
+      "problem_name": "Ways to color a 3xN Board",
+      "problem_link": "https://www.interviewbit.com/problems/ways-to-color-a-3xn-board/",
+      "problem_score": 200,
+      "time_to_solve": "54:36"
+    },
+    {
+      "problem_id": 371,
+      "problem_name": "Shortest common superstring",
+      "problem_link": "https://www.interviewbit.com/problems/shortest-common-superstring/",
+      "problem_score": 200,
+      "time_to_solve": "67:08"
+    },
+    {
+      "problem_id": 416,
+      "problem_name": "Kth Manhattan Distance Neighbourhood",
+      "problem_link": "https://www.interviewbit.com/problems/kth-manhattan-distance-neighbourhood/",
+      "problem_score": 200,
+      "time_to_solve": "60:23"
+    },
+    {
+      "problem_id": 4767,
+      "problem_name": "Best Time to Buy and Sell Stock atmost B times",
+      "problem_link": "https://www.interviewbit.com/problems/best-time-to-buy-and-sell-stock-atmost-b-times/",
+      "problem_score": 200,
+      "time_to_solve": "51:01"
+    },
+    {
+      "problem_id": 281,
+      "problem_name": "Coins in a Line",
+      "problem_link": "https://www.interviewbit.com/problems/coins-in-a-line/",
+      "problem_score": 300,
+      "time_to_solve": "58:56"
+    },
+    {
+      "problem_id": 280,
+      "problem_name": "Evaluate Expression To True",
+      "problem_link": "https://www.interviewbit.com/problems/evaluate-expression-to-true/",
+      "problem_score": 350,
+      "time_to_solve": "65:11"
+    },
+    {
+      "problem_id": 29,
+      "problem_name": "Longest valid Parentheses",
+      "problem_link": "https://www.interviewbit.com/problems/longest-valid-parentheses/",
+      "problem_score": 700,
+      "time_to_solve": "55:57"
+    },
+    {
+      "problem_id": 12,
+      "problem_name": "Best Time to Buy and Sell Stocks III",
+      "problem_link": "https://www.interviewbit.com/problems/best-time-to-buy-and-sell-stocks-iii/",
+      "problem_score": 700,
+      "time_to_solve": "58:01"
+    },
+    {
+      "problem_id": 424,
+      "problem_name": "Kingdom War",
+      "problem_link": "https://www.interviewbit.com/problems/kingdom-war/",
+      "problem_score": 200,
+      "time_to_solve": "51:07"
+    },
+    {
+      "problem_id": 19,
+      "problem_name": "Min Sum Path in Matrix",
+      "problem_link": "https://www.interviewbit.com/problems/min-sum-path-in-matrix/",
+      "problem_score": 300,
+      "time_to_solve": "29:39"
+    },
+    {
+      "problem_id": 17,
+      "problem_name": "Dungeon Princess",
+      "problem_link": "https://www.interviewbit.com/problems/dungeon-princess/",
+      "problem_score": 300,
+      "time_to_solve": "61:50"
+    },
+    {
+      "problem_id": 25,
+      "problem_name": "Min Sum Path in Triangle",
+      "problem_link": "https://www.interviewbit.com/problems/min-sum-path-in-triangle/",
+      "problem_score": 300,
+      "time_to_solve": "41:09"
+    },
+    {
+      "problem_id": 8,
+      "problem_name": "Unique Paths in a Grid",
+      "problem_link": "https://www.interviewbit.com/problems/unique-paths-in-a-grid/",
+      "problem_score": 300,
+      "time_to_solve": "32:07"
+    },
+    {
+      "problem_id": 6,
+      "problem_name": "Max Rectangle in Binary Matrix",
+      "problem_link": "https://www.interviewbit.com/problems/max-rectangle-in-binary-matrix/",
+      "problem_score": 350,
+      "time_to_solve": "73:05"
+    },
+    {
+      "problem_id": 337,
+      "problem_name": "Rod Cutting",
+      "problem_link": "https://www.interviewbit.com/problems/rod-cutting/",
+      "problem_score": 350,
+      "time_to_solve": "73:51"
+    },
+    {
+      "problem_id": 361,
+      "problem_name": "Queen Attack",
+      "problem_link": "https://www.interviewbit.com/problems/queen-attack/",
+      "problem_score": 350,
+      "time_to_solve": "70:02"
+    },
+    {
+      "problem_id": 367,
+      "problem_name": "Sub Matrices with sum Zero",
+      "problem_link": "https://www.interviewbit.com/problems/sub-matrices-with-sum-zero/",
+      "problem_score": 200,
+      "time_to_solve": "67:13"
+    },
+    {
+      "problem_id": 319,
+      "problem_name": "Coin Sum Infinite",
+      "problem_link": "https://www.interviewbit.com/problems/coin-sum-infinite/",
+      "problem_score": 225,
+      "time_to_solve": "60:57"
+    },
+    {
+      "problem_id": 14,
+      "problem_name": "Best Time to Buy and Sell Stocks I",
+      "problem_link": "https://www.interviewbit.com/problems/best-time-to-buy-and-sell-stocks-i/",
+      "problem_score": 300,
+      "time_to_solve": "27:23"
+    },
+    {
+      "problem_id": 9,
+      "problem_name": "Max Product Subarray",
+      "problem_link": "https://www.interviewbit.com/problems/max-product-subarray/",
+      "problem_score": 300,
+      "time_to_solve": "61:58"
+    },
+    {
+      "problem_id": 299,
+      "problem_name": "Arrange II",
+      "problem_link": "https://www.interviewbit.com/problems/arrange-ii/",
+      "problem_score": 350,
+      "time_to_solve": "66:52"
+    },
+    {
+      "problem_id": 385,
+      "problem_name": "Tushar's Birthday Party",
+      "problem_link": "https://www.interviewbit.com/problems/tushars-birthday-party/",
+      "problem_score": 200,
+      "time_to_solve": "58:52"
+    },
+    {
+      "problem_id": 373,
+      "problem_name": "Flip Array",
+      "problem_link": "https://www.interviewbit.com/problems/flip-array/",
+      "problem_score": 200,
+      "time_to_solve": "74:39"
+    },
+    {
+      "problem_id": 300,
+      "problem_name": "Equal Average Partition",
+      "problem_link": "https://www.interviewbit.com/problems/equal-average-partition/",
+      "problem_score": 350,
+      "time_to_solve": "78:39"
+    },
+    {
+      "problem_id": 11,
+      "problem_name": "Best Time to Buy and Sell Stocks II",
+      "problem_link": "https://www.interviewbit.com/problems/best-time-to-buy-and-sell-stocks-ii/",
+      "problem_score": 225,
+      "time_to_solve": "38:36"
+    },
+    {
+      "problem_id": 278,
+      "problem_name": "Max Sum Without Adjacent Elements",
+      "problem_link": "https://www.interviewbit.com/problems/max-sum-without-adjacent-elements/",
+      "problem_score": 225,
+      "time_to_solve": "55:52"
+    },
+    {
+      "problem_id": 28,
+      "problem_name": "Word Break II",
+      "problem_link": "https://www.interviewbit.com/problems/word-break-ii/",
+      "problem_score": 350,
+      "time_to_solve": "59:25"
+    },
+    {
+      "problem_id": 15,
+      "problem_name": "Max Sum Path in Binary Tree",
+      "problem_link": "https://www.interviewbit.com/problems/max-sum-path-in-binary-tree/",
+      "problem_score": 400,
+      "time_to_solve": "52:04"
+    },
+    {
+      "problem_id": 22,
+      "problem_name": "Unique Binary Search Trees II",
+      "problem_link": "https://www.interviewbit.com/problems/unique-binary-search-trees-ii/",
+      "problem_score": 400,
+      "time_to_solve": "33:16"
+    },
+    {
+      "problem_id": 340,
+      "problem_name": "Count Permutations of BST",
+      "problem_link": "https://www.interviewbit.com/problems/count-permutations-of-bst/",
+      "problem_score": 400,
+      "time_to_solve": "72:00"
+    },
+    {
+      "problem_id": 23,
+      "problem_name": "Word Break",
+      "problem_link": "https://www.interviewbit.com/problems/word-break/",
+      "problem_score": 400,
+      "time_to_solve": "60:40"
+    },
+    {
+      "problem_id": 18,
+      "problem_name": "Palindrome Partitioning II",
+      "problem_link": "https://www.interviewbit.com/problems/palindrome-partitioning-ii/",
+      "problem_score": 400,
+      "time_to_solve": "55:48"
+    },
+    {
+      "problem_id": 11052,
+      "problem_name": "Maximum Path in Triangle",
+      "problem_link": "https://www.interviewbit.com/problems/maximum-path-in-triangle/",
+      "problem_score": 200,
+      "time_to_solve": "18:35"
+    },
+    {
+      "problem_id": 11640,
+      "problem_name": "0-1 Knapsack",
+      "problem_link": "https://www.interviewbit.com/problems/0-1-knapsack/",
+      "problem_score": 200,
+      "time_to_solve": "30:24"
+    },
+    {
+      "problem_id": 11641,
+      "problem_name": "Chain of Pairs",
+      "problem_link": "https://www.interviewbit.com/problems/chain-of-pairs/",
+      "problem_score": 200,
+      "time_to_solve": "25:16"
+    },
+    {
+      "problem_id": 11971,
+      "problem_name": "Maximum Size Square Sub-matrix",
+      "problem_link": "https://www.interviewbit.com/problems/maximum-size-square-sub-matrix/",
+      "problem_score": 200,
+      "time_to_solve": "21:25"
+    },
+    {
+      "problem_id": 12044,
+      "problem_name": "Tiling With Dominoes",
+      "problem_link": "https://www.interviewbit.com/problems/tiling-with-dominoes/",
+      "problem_score": 200,
+      "time_to_solve": "42:13"
+    },
+    {
+      "problem_id": 12161,
+      "problem_name": "Increasing Path in Matrix",
+      "problem_link": "https://www.interviewbit.com/problems/increasing-path-in-matrix/",
+      "problem_score": 200,
+      "time_to_solve": "33:04"
+    },
+    {
+      "problem_id": 12261,
+      "problem_name": "Egg Drop Problem!",
+      "problem_link": "https://www.interviewbit.com/problems/egg-drop-problem/",
+      "problem_score": 450,
+      "time_to_solve": "45:09"
+    },
+    {
+      "problem_id": 12269,
+      "problem_name": "Paint House!",
+      "problem_link": "https://www.interviewbit.com/problems/paint-house/",
+      "problem_score": 200,
+      "time_to_solve": "11:53"
+    },
+    {
+      "problem_id": 12278,
+      "problem_name": "Minimum Difference Subsets!",
+      "problem_link": "https://www.interviewbit.com/problems/minimum-difference-subsets/",
+      "problem_score": 200,
+      "time_to_solve": "16:23"
+    },
+    {
+      "problem_id": 12281,
+      "problem_name": "Subset Sum Problem!",
+      "problem_link": "https://www.interviewbit.com/problems/subset-sum-problem/",
+      "problem_score": 200,
+      "time_to_solve": "21:59"
+    }
+  ]
+}

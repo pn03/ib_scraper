@@ -1,0 +1,9 @@
+{
+  "hasImages": false,
+  "contentHTML": "<html><head></head><body><h4>CHOOSE3</h4><div><strong>Time:1:39</strong><br><strong>Score:50</strong></div><br>                      <p>In a competition, four different functions are observed. All the functions use a single for loop and within the for loop, same set of statements are executed.</p><p>Consider the following for loops:</p><div class=\"highlighter-rouge\"><pre class=\"highlight\"><code>  A) for(i = 0; i &lt; n; i++)   B) for(i = 0; i &lt; n; i += 2)   C) for(i = 1; i &lt; n; i *= 2)   D) for(i = n; i &gt; -1; i /= 2)</code></pre></div><p>If n is the size of input(positive), which function is the most efficient? In other words, which loop completes the fastest.</p>                    </body></html>",
+  "problem_id": 241,
+  "problem_name": "CHOOSE3",
+  "problem_link": "https://www.interviewbit.com/problems/choose3/",
+  "problem_score": 50,
+  "time_to_solve": "1:39"
+}

@@ -1,0 +1,9 @@
+{
+  "hasImages": false,
+  "contentHTML": "<html><head></head><body><h4>CHOOSE2</h4><div><strong>Time:2:23</strong><br><strong>Score:80</strong></div><br>                      <p>Which of the given options provides the increasing order of complexity of functions f1, f2, f3 and f4:</p><div class=\"highlighter-rouge\"><pre class=\"highlight\"><code>f1(n) = 2^nf2(n) = n^(3/2)f3(n) = nLognf4(n) = n^(Logn)</code></pre></div>                    </body></html>",
+  "problem_id": 245,
+  "problem_name": "CHOOSE2",
+  "problem_link": "https://www.interviewbit.com/problems/choose2/",
+  "problem_score": 80,
+  "time_to_solve": "2:23"
+}

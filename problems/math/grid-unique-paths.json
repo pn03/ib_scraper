@@ -1,0 +1,16 @@
+{
+  "imgUrls": [
+    "http://i.imgur.com/3eaivQ5.png"
+  ],
+  "hasImages": true,
+  "contentHTML": "<html><head></head><body><h4>Grid Unique Paths</h4><div><strong>Time:32:35</strong><br><strong>Score:375</strong></div><br>                      <p>A robot is located at the top-left corner of an <strong>A x B grid</strong> (marked &#x2018;Start&#x2019; in the diagram below).</p><p><img src=\"math/math_assets/Q_grid_unique_paths_1.png\" alt=\"Path Sum: Example 1\"></p><p>The robot can only move either down or right at any point in time. The robot is trying to reach the bottom-right corner of the grid (marked &#x2018;Finish&#x2019; in the diagram below).</p><p>How many possible unique paths are there?</p><p><em>Note: A and B will be such that the resulting answer fits in a 32 bit signed integer.</em></p><p><strong>Example :</strong></p><div class=\"highlighter-rouge\"><pre class=\"highlight\"><code>Input : A = 2, B = 2Output : 22 possible routes : (0, 0) -&gt; (0, 1) -&gt; (1, 1)               OR  : (0, 0) -&gt; (1, 0) -&gt; (1, 1)</code></pre></div>                          <blockquote style=\"position:relative;\">                              <span style=\"font-weight: normal;margin: 12px;\">                                  <b>NOTE: </b>You only need to implement the given function. Do not read input, instead use the arguments to the function. Do not print the output, instead return values as specified.                                  Still have a doubt? Checkout <a href=\"/pages/sample_codes/\">Sample Codes</a> for more details.                              </span>                            <span class=\"fa fa-remove\" id=\"prob-hint-remove\" style=\"position:absolute;top:0;right:0;margin:12px;color:grey;\"></span>                          </blockquote>                    </body></html>",
+  "imgNames": [
+    "3eaivQ5.png",
+    "Q_grid_unique_paths_1.png"
+  ],
+  "problem_id": 78,
+  "problem_name": "Grid Unique Paths",
+  "problem_link": "https://www.interviewbit.com/problems/grid-unique-paths/",
+  "problem_score": 375,
+  "time_to_solve": "32:35"
+}
