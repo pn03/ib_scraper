@@ -4,6 +4,7 @@ Python script to create md files for all the problem descriptions in problems di
 '''
 import os
 import json
+import sys
 
 def main(basePath,targetPath):
   topics = os.listdir(basePath)
@@ -40,4 +41,9 @@ def main(basePath,targetPath):
   pass
 
 if __name__=="__main__":
-  main("problems","ib_docs/docs")
+  arg1 = sys.argv[1]
+  arg2 = sys.argv[2]
+  if not os.path.exists(arg2):
+    print("target dir doesn't exist!")
+    sys.exit(0)
+  main(arg1,arg2)
