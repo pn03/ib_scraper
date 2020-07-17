@@ -26,6 +26,16 @@ def main(basePath,targetPath):
         # print(ofile)
         command = "pandoc tmp.html -f html -t markdown_strict -s -o "+ofile
         os.system(command)
+      else:
+        imgPath = os.path.join(tPath,p)
+        os.mkdir(imgPath)
+        imgDir = os.path.join(problemsPath,p)
+        imgs = os.listdir(imgDir)
+        for img in imgs:
+          with open(os.path.join(imgDir,img),'rb') as fp:
+            data = fp.read()
+          with open(os.path.join(imgPath,img),'wb') as fp2:
+            fp2.write(data)
     print(t,"done")
   pass
 

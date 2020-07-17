@@ -116,7 +116,7 @@ function getProblem (topic_name,problem_dict,url) {
             //     ret.hints.push(hintElements[i].childNodes[1].innerHTML)
             // }
             let con = contentElement.innerHTML
-            con=con.replace(/\n/g,"")
+            con=con.replace(/\n/g,"<br>")
             if(imgElements.length!==0){
                 hasImages = true;
                 ret['imgUrls'] = []
@@ -186,19 +186,19 @@ function clearLinks(topic_name,doc){
 }
 
 async function main(){
-    let rawdata = fs.readFileSync('topics.json');
-    let topics = JSON.parse(rawdata)['topics'];
+    // let rawdata = fs.readFileSync('topics.json');
+    // let topics = JSON.parse(rawdata)['topics'];
     // for(let i=0;i<topics.length;i++){
       // let tn = topics[i].split("/")[6];
-      let tn = "dynamic-programming"
+      let tn = process.argv[2]
       let topic_name = tn.replace(/-/g,"_")
-      // await exec("mkdir problems/"+topic_name)
-      // await exec("mkdir problems/"+topic_name+"/"+topic_name+"_assets")
+      await exec("mkdir -p problems/"+topic_name)
+      await exec("mkdir -p problems/"+topic_name+"/"+topic_name+"_assets")
       // let x = await getProblemLinks(topics[i]);
       let raw = fs.readFileSync("topics/"+tn+'.json');
       let problems = JSON.parse(raw)['problems'];
       console.log(topic_name+": "+problems.length)
-      for(let j=50;j<problems.length;j++){
+      for(let j=0;j<problems.length;j++){
         let x = await getProblem(topic_name,problems[j],problems[j]['problem_link']);
         let html = clearLinks(topic_name,x)
         x['contentHTML']=html;
