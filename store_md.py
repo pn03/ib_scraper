@@ -29,7 +29,7 @@ def store_md_notes(topic,problem,sol_file):
     if not os.path.exists("solutions/"+tDir+"/"+pName):
         os.system("mkdir -p solutions/"+tDir+"/"+pName)
     ibHome="https://www.interviewbit.com/problems/"
-    banner = "**Problem: ["+pName+"]("+ibHome+pName+")**\n\n"
+    banner = "**Problem: ["+problem+"]("+ibHome+problem+")**\n\n"
     with open("solutions/"+tDir+"/"+pName+"/n_"+pName+".md",'w') as fp:
         fp.write(banner)
         fp.write(data)

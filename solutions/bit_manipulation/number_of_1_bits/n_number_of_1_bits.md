@@ -1,4 +1,4 @@
-**Problem: [number_of_1_bits](https://www.interviewbit.com/problems/number_of_1_bits)**
+**Problem: [number-of-1-bits](https://www.interviewbit.com/problems/number-of-1-bits)**
 
 This problem requires us to check and set kth bit in an integer.
 
