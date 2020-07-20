@@ -20,7 +20,8 @@ Save your notes on a problem in markdown format. To put your notes under the pro
 
 **Usage:**
 - meta : `python store_md.py meta`
-- store : `python store_md.py store cate prob_slub notes.md`
+- store : `python store_md.py store category prob_slug notes.md`
+	- `https://www.interviewbit.com/problems/reverse-bits/` has problem slug `reverse-bits`.
 
 Refer category map given below or you can set your own category abbreviations *meta* argument to `store_md.py` .
 
