@@ -1,0 +1,66 @@
+{
+  "arr": {
+    "name": "arrays",
+    "problem_count": 0
+  },
+  "bin_srch": {
+    "name": "binary_search",
+    "problem_count": 0
+  },
+  "bit": {
+    "name": "bit_manipulation",
+    "problem_count": 0
+  },
+  "btrack": {
+    "name": "backtracking",
+    "problem_count": 0
+  },
+  "dp": {
+    "name": "dynamic_programming",
+    "problem_count": 0
+  },
+  "graph": {
+    "name": "graph_data_structure_algorithms",
+    "problem_count": 0
+  },
+  "greedy": {
+    "name": "greedy_algorithm",
+    "problem_count": 0
+  },
+  "hash": {
+    "name": "hashing",
+    "problem_count": 0
+  },
+  "heap_map": {
+    "name": "heaps_and_maps",
+    "problem_count": 0
+  },
+  "link_lt": {
+    "name": "linked_lists",
+    "problem_count": 0
+  },
+  "math": {
+    "name": "math",
+    "problem_count": 0
+  },
+  "stk_q": {
+    "name": "stacks_and_queues",
+    "problem_count": 0
+  },
+  "str": {
+    "name": "strings",
+    "problem_count": 0
+  },
+  "tc": {
+    "name": "time_complexity",
+    "problem_count": 0
+  },
+  "tree": {
+    "name": "tree_data_structure",
+    "problem_count": 0
+  },
+  "two_ptr": {
+    "name": "two_pointers",
+    "problem_count": 0
+  }
+}
