@@ -35,8 +35,11 @@ def store_md_notes(topic,problem,sol_file):
         fp.write(data)
 
 if __name__=="__main__":
-    topic=sys.argv[1]
-    prob=sys.argv[2]
-    sol_file=sys.argv[3]
-    store_md_notes(topic,prob,sol_file)
-    # print(topic,prob,sol_file)
+    fun=sys.argv[1]
+    if fun=='store':
+        topic=sys.argv[2]
+        prob=sys.argv[3]
+        sol_file=sys.argv[4]
+        store_md_notes(topic,prob,sol_file)
+    elif fun=='meta':
+        create_meta()
