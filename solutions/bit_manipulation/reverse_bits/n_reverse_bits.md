@@ -1,3 +1,5 @@
+**Problem: [reverse_bits](https://www.interviewbit.com/problems/reverse_bits)**
+
 This problem requires us to check and set kth bit in an integer.
 
 > #### Check **kth** bit

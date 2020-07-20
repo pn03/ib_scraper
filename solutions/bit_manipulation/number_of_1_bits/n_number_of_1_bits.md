@@ -1,3 +1,5 @@
+**Problem: [number_of_1_bits](https://www.interviewbit.com/problems/number_of_1_bits)**
+
 This problem requires us to check and set kth bit in an integer.
 
 > #### Check **kth** bit
