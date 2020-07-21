@@ -24,8 +24,8 @@ Save your notes on a problem in markdown format. To put your notes under the pro
 	- `https://www.interviewbit.com/problems/reverse-bits/` has problem slug `reverse-bits`.
 
 Refer category map given below or you can set your own category abbreviations *meta* argument to `store_md.py` .
-
-> **Category Map**
+Problem banner with problem link will be added by `store_md.py`.
+**Category Map**
 - `arr` : arrays
 - `bin_srch` : binary search
 - `bit` : bit manipulation
