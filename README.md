@@ -26,11 +26,11 @@ Save your notes on a problem in markdown format. To put your notes under the pro
 Refer category map given below or you can set your own category abbreviations *meta* argument to `store_md.py` .
 Problem banner with problem link will be added by `store_md.py`.
 
-**Category Map**
+**Category Map:**
 - `arr` : arrays
 - `bin_srch` : binary search
 - `bit` : bit manipulation
-- `bitrack` : backtracking
+- `backtrack` : backtracking
 - `dp` : dynamic programming
 - `graph` : graphs
 - `greedy` : greedy
