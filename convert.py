@@ -5,10 +5,14 @@ Python script to create md files for all the problem descriptions in problems di
 import os
 import json
 import sys
+import pypandoc
 
 def main(basePath,targetPath):
   topics = os.listdir(basePath)
   for t in topics:
+    with open("topics/"+t.replace('_','-')+".json",'r') as fp:
+        dic = json.load(fp)
+    probs = sorted(dic['problems'],key= lambda i:i['problem_score'])
     problemsPath = os.path.join(basePath,t)
     problems = os.listdir(problemsPath)
     tPath = os.path.join(targetPath,t)
@@ -19,8 +23,6 @@ def main(basePath,targetPath):
       if os.path.isfile(os.path.join(problemsPath,p)):
         with open(os.path.join(problemsPath,p),'r') as fp:
           dic = json.load(fp)
-        with open("tmp.html",'w') as fp:
-          fp.write(dic['contentHTML'])
         pName = p[:-5]
         mdName = pName+".md"
         ofile = os.path.join(tPath,mdName)

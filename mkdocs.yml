@@ -1,0 +1,12 @@
+site_name: My Docs
+theme: material
+use_directory_urls: false
+# Extensions
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
+      separator: "_"

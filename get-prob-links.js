@@ -125,7 +125,7 @@ function getProblem (topic_name,problem_dict,url) {
                 }
             }
             ret['hasImages'] = hasImages;
-            ret['contentHTML'] = '<h4>'+problem_dict['problem_name']+'</h4>'+'<div><strong>Time: '+problem_dict['time_to_solve']+'</strong><br><strong>Score: '+problem_dict['problem_score']+'</strong></div>' +'<br>'+ con;
+            ret['contentHTML'] = '<h3>'+problem_dict['problem_name']+'</h3>'+'<div><strong>Time: '+problem_dict['time_to_solve']+'</strong><br><strong>Score: '+problem_dict['problem_score']+'</strong></div>' +'<br>'+ con;
             return ret;
           },problemDict,problem_dict)
           

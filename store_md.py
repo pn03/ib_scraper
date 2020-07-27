@@ -30,6 +30,11 @@ def store_md_notes(topic,problem,sol_file):
         os.system("mkdir -p solutions/"+tDir+"/"+pName)
     ibHome="https://www.interviewbit.com/problems/"
     banner = "**Problem: ["+problem+"]("+ibHome+problem+")**\n\n"
+    # dic = {}
+    # dic['notes'] = banner+data
+    # dic['solution'] = ""
+    # with open("solutions/"+tDir+"/n_"+pName+".json",'w') as fp:
+    #     json.dump(dic,fp)
     with open("solutions/"+tDir+"/"+pName+"/n_"+pName+".md",'w') as fp:
         fp.write(banner)
         fp.write(data)
