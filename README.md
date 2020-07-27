@@ -30,7 +30,7 @@ Problem banner with problem link will be added by `store_md.py`.
 - `arr` : arrays
 - `bin_srch` : binary search
 - `bit` : bit manipulation
-- `backtrack` : backtracking
+- `btrack` : backtracking
 - `dp` : dynamic programming
 - `graph` : graphs
 - `greedy` : greedy
