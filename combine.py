@@ -101,6 +101,7 @@ def gen_combined_notes(basePath,targetPath,sortKey="score"):
             # check if notes or sol exists
             nFile = pFile.replace("-","_")
             nPath = "solutions/"+tDir+"/"+nFile+"/n_"+nFile+".md"
+            sPath = "solutions/"+tDir+"/"+nFile+"/s_"+nFile+".md"
             if os.path.exists(nPath):
                 with open(nPath,'r') as fp:
                     k2 = fp.read()
@@ -108,7 +109,20 @@ def gen_combined_notes(basePath,targetPath,sortKey="score"):
                 # perma_link_name = "\n\n#### "+sol_name+"\n"
                 now = datetime.now()
                 date_time = now.strftime("%d %B %Y, %H:%M:%S")
-                sol_banner = "\n\n??? Notes\n" + "\n\t**Time**: "+date_time+"\n\n"
+                sol_banner = '\n\n??? note "Notes"\n' + "\n\t**Time**: "+date_time+"\n\n"
+                ks = ""
+                # ks += perma_link_name
+                ks += sol_banner +k2
+                combined += ks
+            if os.path.exists(sPath):
+                print("adding sol")
+                with open(sPath,'r') as fp:
+                    k2 = fp.read()
+                k2 = textwrap.indent(k2,"\t")
+                # perma_link_name = "\n\n#### "+sol_name+"\n"
+                now = datetime.now()
+                date_time = now.strftime("%d %B %Y, %H:%M:%S")
+                sol_banner = '\n\n??? success "Solution"\n' + "\n\t**Time**: "+date_time+"\n\n"
                 ks = ""
                 # ks += perma_link_name
                 ks += sol_banner +k2

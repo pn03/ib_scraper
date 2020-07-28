@@ -18,7 +18,7 @@ def create_meta():
     with open("meta.json",'w') as fp:
         json.dump(meta,fp,indent=2,sort_keys=True)
 
-def store_md_notes(topic,problem,sol_file):
+def store_md_notes(topic,problem,sol_file,note_type):
     pName = problem.replace("-","_")
     with open(sol_file,'r') as fp:
         data = fp.read()
@@ -38,16 +38,22 @@ def store_md_notes(topic,problem,sol_file):
     # dic['solution'] = ""
     # with open("solutions/"+tDir+"/n_"+pName+".json",'w') as fp:
     #     json.dump(dic,fp)
-    with open("solutions/"+tDir+"/"+pName+"/n_"+pName+".md",'w') as fp:
-        fp.write(banner)
-        fp.write(data)
-
+    if note_type=="note":
+        with open("solutions/"+tDir+"/"+pName+"/n_"+pName+".md",'w') as fp:
+            fp.write(banner)
+            fp.write(data)
+    if note_type == "sol":
+        print("asdfsf")
+        with open("solutions/"+tDir+"/"+pName+"/s_"+pName+".md",'w') as fp:
+            fp.write(banner)
+            fp.write(data)
 if __name__=="__main__":
     fun=sys.argv[1]
     if fun=='store':
         topic=sys.argv[2]
         prob=sys.argv[3]
         sol_file=sys.argv[4]
-        store_md_notes(topic,prob,sol_file)
+        note_type = sys.argv[5]
+        store_md_notes(topic,prob,sol_file,note_type)
     elif fun=='meta':
         create_meta()
