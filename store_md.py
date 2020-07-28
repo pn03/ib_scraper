@@ -9,9 +9,12 @@ def create_meta():
     for t in topics:
         tn=t.split("/")[-2].replace("-","_")
         key=input(tn+" key:")
+        key2=input(tn+" shortName:")
         meta[key]={}
         meta[key]['name']=tn
+        meta[key]['short_name']=key2
         meta[key]['problem_count']=0
+        meta[tn]=key2
     with open("meta.json",'w') as fp:
         json.dump(meta,fp,indent=2,sort_keys=True)
 

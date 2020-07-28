@@ -4,13 +4,17 @@
 ### Requirements
 - install pandoc
 	- `convert.py` uses `pandoc` to convert html to markdown.
-- install mkdocs
+- install mkdocs and mkdocs-material
+	- `pip install mkdocs`
+	- `pip install mkdocs-material`
 	- `mkdocs` is not required but can be used to generate site using md files.
+- install pypandoc
+	- `pip install pypandoc` python wrapper to pandoc.
 
 ### Doc generation
 Run following commands
 - `mkdocs new doc_dir`
-- `python convert.py problems doc_dir/docs`
+- `python combine.py problems doc_dir/docs`
 - `cd doc_dir`
 - `mkdocs build`
 	- `mkdocs build` will create a directory `site` in `doc_dir` containing the HTML doc for the problems.

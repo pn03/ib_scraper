@@ -1,66 +1,93 @@
 {
   "arr": {
     "name": "arrays",
-    "problem_count": 0
+    "problem_count": 0,
+    "short_name": "arrays"
   },
+  "arrays": "arrays",
+  "backtracking": "backtracking",
   "bin_srch": {
     "name": "binary_search",
-    "problem_count": 0
+    "problem_count": 0,
+    "short_name": "binary_search"
   },
+  "binary_search": "binary_search",
   "bit": {
     "name": "bit_manipulation",
-    "problem_count": 0
+    "problem_count": 0,
+    "short_name": "bits"
   },
+  "bit_manipulation": "bits",
   "btrack": {
     "name": "backtracking",
-    "problem_count": 0
+    "problem_count": 0,
+    "short_name": "backtracking"
   },
   "dp": {
     "name": "dynamic_programming",
-    "problem_count": 0
+    "problem_count": 0,
+    "short_name": "dynamic_programming"
   },
+  "dynamic_programming": "dynamic_programming",
   "graph": {
     "name": "graph_data_structure_algorithms",
-    "problem_count": 0
+    "problem_count": 0,
+    "short_name": "graphs"
   },
+  "graph_data_structure_algorithms": "graphs",
   "greedy": {
     "name": "greedy_algorithm",
-    "problem_count": 0
+    "problem_count": 0,
+    "short_name": "greedy"
   },
+  "greedy_algorithm": "greedy",
   "hash": {
     "name": "hashing",
-    "problem_count": 0
+    "problem_count": 0,
+    "short_name": "hashing"
   },
+  "hashing": "hashing",
   "heap_map": {
     "name": "heaps_and_maps",
-    "problem_count": 0
+    "problem_count": 0,
+    "short_name": "heaps_and_maps"
   },
+  "heaps_and_maps": "heaps_and_maps",
   "link_lt": {
     "name": "linked_lists",
-    "problem_count": 0
+    "problem_count": 0,
+    "short_name": "linked_lists"
   },
-  "math": {
-    "name": "math",
-    "problem_count": 0
-  },
+  "linked_lists": "linked_lists",
+  "math": "math",
+  "stacks_and_queues": "stacks_and_queues",
   "stk_q": {
     "name": "stacks_and_queues",
-    "problem_count": 0
+    "problem_count": 0,
+    "short_name": "stacks_and_queues"
   },
   "str": {
     "name": "strings",
-    "problem_count": 0
+    "problem_count": 0,
+    "short_name": "strings"
   },
+  "strings": "strings",
   "tc": {
     "name": "time_complexity",
-    "problem_count": 0
+    "problem_count": 0,
+    "short_name": "time_complexity"
   },
+  "time_complexity": "time_complexity",
   "tree": {
     "name": "tree_data_structure",
-    "problem_count": 0
+    "problem_count": 0,
+    "short_name": "trees"
   },
+  "tree_data_structure": "trees",
+  "two_pointers": "two_pointers",
   "two_ptr": {
     "name": "two_pointers",
-    "problem_count": 0
+    "problem_count": 0,
+    "short_name": "two_pointers"
   }
 }
