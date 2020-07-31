@@ -13,8 +13,9 @@
 
 ### Doc generation
 Run following commands
-- `mkdocs new doc_dir`
-- `python combine.py problems doc_dir/docs`
+- `mkdocs new <doc_dir>`
+- `python combine.py problems <doc_dir>/docs <sort_key>`
+	- `sort_key` can be `time` or `score` using with problems will be ordered in the final docs.
 - `cd doc_dir`
 - `mkdocs build`
 	- `mkdocs build` will create a directory `site` in `doc_dir` containing the HTML doc for the problems.
@@ -24,9 +25,9 @@ Save your notes on a problem in markdown format. To put your notes under the pro
 
 **Usage:**
 - meta : `python store_md.py meta`
-- store : `python store_md.py store category prob_slug notes.md`
+- store : `python store_md.py store <category> <prob_slug> <file.md> <file_cat>`
 	- `https://www.interviewbit.com/problems/reverse-bits/` has problem slug `reverse-bits`.
-
+	- `file_cat` can be `sol` where file will be store with prefix `s_` under the problem directory or `note` where file will be stored with `n_` under the problem directory 
 Refer category map given below or you can set your own category abbreviations *meta* argument to `store_md.py` .
 Problem banner with problem link will be added by `store_md.py`.
 
