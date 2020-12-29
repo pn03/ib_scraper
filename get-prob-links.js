@@ -190,6 +190,7 @@ async function storeProblemLinks(topics_path){
     let links_dir = process.argv[2];
     let problem_links = {};
     let now = new Date();
+    let total_count = 0;
     problem_links['ts'] = now.toDateString();
     for( let i=0;i<topics.length;i++){
         let tn = topics[i].split("/")[6];
@@ -197,7 +198,11 @@ async function storeProblemLinks(topics_path){
 
         let x = await getProblemLinks(topics[i]);
         problem_links[topic_name] = x;
+        problem_links[topic_name]['problem_count'] = x['problems'].length;
+        console.log("count: ",x['problems'].length);
+        total_count = total_count + x['problems'].length;
     }
+    problem_links['total_count'] = total_count;
     await exec("mkdir -p "+links_dir);
     fs.writeFileSync(links_dir+"/"+"problem_links.json", JSON.stringify(problem_links, null, 2),{ flag:'a+'});
 }

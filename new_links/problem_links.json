@@ -2626,4 +2626,5278 @@
       }
     ]
   }
+}{
+  "ts": "Tue Dec 29 2020",
+  "time_complexity": {
+    "problems": [
+      {
+        "problem_id": 250,
+        "problem_name": "LOOP_CMPL",
+        "problem_link": "https://www.interviewbit.com/problems/loopcmpl/",
+        "problem_score": 20,
+        "time_to_solve": "2:43"
+      },
+      {
+        "problem_id": 251,
+        "problem_name": "NESTED_CMPL",
+        "problem_link": "https://www.interviewbit.com/problems/nestedcmpl/",
+        "problem_score": 20,
+        "time_to_solve": "1:10"
+      },
+      {
+        "problem_id": 240,
+        "problem_name": "NESTED_CMPL2",
+        "problem_link": "https://www.interviewbit.com/problems/nestedcmpl2/",
+        "problem_score": 30,
+        "time_to_solve": "1:25"
+      },
+      {
+        "problem_id": 243,
+        "problem_name": "CHOOSE4",
+        "problem_link": "https://www.interviewbit.com/problems/choose4/",
+        "problem_score": 50,
+        "time_to_solve": "0:57"
+      },
+      {
+        "problem_id": 248,
+        "problem_name": "WHILE_CMPL",
+        "problem_link": "https://www.interviewbit.com/problems/whilecmpl/",
+        "problem_score": 50,
+        "time_to_solve": "1:31"
+      },
+      {
+        "problem_id": 242,
+        "problem_name": "NESTED_CMPL3",
+        "problem_link": "https://www.interviewbit.com/problems/nestedcmpl3/",
+        "problem_score": 80,
+        "time_to_solve": "3:56"
+      },
+      {
+        "problem_id": 247,
+        "problem_name": "LOOP_CMPL2",
+        "problem_link": "https://www.interviewbit.com/problems/loopcmpl2/",
+        "problem_score": 80,
+        "time_to_solve": "2:43"
+      },
+      {
+        "problem_id": 246,
+        "problem_name": "GCD_CMPL",
+        "problem_link": "https://www.interviewbit.com/problems/gcdcmpl/",
+        "problem_score": 150,
+        "time_to_solve": "4:13"
+      },
+      {
+        "problem_id": 249,
+        "problem_name": "CHOOSE1",
+        "problem_link": "https://www.interviewbit.com/problems/choose1/",
+        "problem_score": 50,
+        "time_to_solve": "1:43"
+      },
+      {
+        "problem_id": 241,
+        "problem_name": "CHOOSE3",
+        "problem_link": "https://www.interviewbit.com/problems/choose3/",
+        "problem_score": 50,
+        "time_to_solve": "1:39"
+      },
+      {
+        "problem_id": 245,
+        "problem_name": "CHOOSE2",
+        "problem_link": "https://www.interviewbit.com/problems/choose2/",
+        "problem_score": 80,
+        "time_to_solve": "2:23"
+      },
+      {
+        "problem_id": 285,
+        "problem_name": "REC_CMPL1",
+        "problem_link": "https://www.interviewbit.com/problems/reccmpl1/",
+        "problem_score": 80,
+        "time_to_solve": "6:58"
+      },
+      {
+        "problem_id": 286,
+        "problem_name": "REC_CMPL2",
+        "problem_link": "https://www.interviewbit.com/problems/reccmpl2/",
+        "problem_score": 80,
+        "time_to_solve": "6:25"
+      },
+      {
+        "problem_id": 287,
+        "problem_name": "REC_CMPL3",
+        "problem_link": "https://www.interviewbit.com/problems/reccmpl3/",
+        "problem_score": 150,
+        "time_to_solve": "4:39"
+      },
+      {
+        "problem_id": 244,
+        "problem_name": "AMORTIZED1",
+        "problem_link": "https://www.interviewbit.com/problems/amortized1/",
+        "problem_score": 100,
+        "time_to_solve": "3:03"
+      }
+    ]
+  },
+  "arrays": {
+    "problems": [
+      {
+        "problem_id": 295,
+        "problem_name": "Min Steps in Infinite Grid",
+        "problem_link": "https://www.interviewbit.com/problems/min-steps-in-infinite-grid/",
+        "problem_score": 150,
+        "time_to_solve": "37:51"
+      },
+      {
+        "problem_id": 11992,
+        "problem_name": "Maximum Sum Triplet",
+        "problem_link": "https://www.interviewbit.com/problems/maximum-sum-triplet/",
+        "problem_score": 200,
+        "time_to_solve": "65:12"
+      },
+      {
+        "problem_id": 11976,
+        "problem_name": "Minimum Lights to Activate",
+        "problem_link": "https://www.interviewbit.com/problems/minimum-lights-to-activate/",
+        "problem_score": 200,
+        "time_to_solve": "53:36"
+      },
+      {
+        "problem_id": 66,
+        "problem_name": "Add One To Number",
+        "problem_link": "https://www.interviewbit.com/problems/add-one-to-number/",
+        "problem_score": 225,
+        "time_to_solve": "43:43"
+      },
+      {
+        "problem_id": 56,
+        "problem_name": "Max Sum Contiguous Subarray",
+        "problem_link": "https://www.interviewbit.com/problems/max-sum-contiguous-subarray/",
+        "problem_score": 225,
+        "time_to_solve": "33:39"
+      },
+      {
+        "problem_id": 356,
+        "problem_name": "Maximum Absolute Difference",
+        "problem_link": "https://www.interviewbit.com/problems/maximum-absolute-difference/",
+        "problem_score": 250,
+        "time_to_solve": "65:51"
+      },
+      {
+        "problem_id": 1056,
+        "problem_name": "Partitions",
+        "problem_link": "https://www.interviewbit.com/problems/partitions/",
+        "problem_score": 300,
+        "time_to_solve": "61:54"
+      },
+      {
+        "problem_id": 11995,
+        "problem_name": "Maximum Area of Triangle!",
+        "problem_link": "https://www.interviewbit.com/problems/maximum-area-of-triangle/",
+        "problem_score": 350,
+        "time_to_solve": "47:43"
+      },
+      {
+        "problem_id": 329,
+        "problem_name": "Flip",
+        "problem_link": "https://www.interviewbit.com/problems/flip/",
+        "problem_score": 400,
+        "time_to_solve": "78:22"
+      },
+      {
+        "problem_id": 12034,
+        "problem_name": "Perfect Peak of Array",
+        "problem_link": "https://www.interviewbit.com/problems/perfect-peak-of-array/",
+        "problem_score": 200,
+        "time_to_solve": "38:55"
+      },
+      {
+        "problem_id": 63,
+        "problem_name": "Spiral Order Matrix II",
+        "problem_link": "https://www.interviewbit.com/problems/spiral-order-matrix-ii/",
+        "problem_score": 225,
+        "time_to_solve": "48:40"
+      },
+      {
+        "problem_id": 68,
+        "problem_name": "Pascal Triangle",
+        "problem_link": "https://www.interviewbit.com/problems/pascal-triangle/",
+        "problem_score": 225,
+        "time_to_solve": "26:46"
+      },
+      {
+        "problem_id": 54,
+        "problem_name": "Kth Row of Pascal's Triangle",
+        "problem_link": "https://www.interviewbit.com/problems/kth-row-of-pascals-triangle/",
+        "problem_score": 225,
+        "time_to_solve": "28:32"
+      },
+      {
+        "problem_id": 293,
+        "problem_name": "Anti Diagonals",
+        "problem_link": "https://www.interviewbit.com/problems/anti-diagonals/",
+        "problem_score": 225,
+        "time_to_solve": "41:46"
+      },
+      {
+        "problem_id": 374,
+        "problem_name": "Triplets with Sum between given range",
+        "problem_link": "https://www.interviewbit.com/problems/triplets-with-sum-between-given-range/",
+        "problem_score": 200,
+        "time_to_solve": "72:58"
+      },
+      {
+        "problem_id": 57,
+        "problem_name": "Find Duplicate in Array",
+        "problem_link": "https://www.interviewbit.com/problems/find-duplicate-in-array/",
+        "problem_score": 450,
+        "time_to_solve": "40:13"
+      },
+      {
+        "problem_id": 69,
+        "problem_name": "Maximum Consecutive Gap",
+        "problem_link": "https://www.interviewbit.com/problems/maximum-consecutive-gap/",
+        "problem_score": 450,
+        "time_to_solve": "58:07"
+      },
+      {
+        "problem_id": 372,
+        "problem_name": "Noble Integer",
+        "problem_link": "https://www.interviewbit.com/problems/noble-integer/",
+        "problem_score": 200,
+        "time_to_solve": "43:30"
+      },
+      {
+        "problem_id": 267,
+        "problem_name": "Wave Array",
+        "problem_link": "https://www.interviewbit.com/problems/wave-array/",
+        "problem_score": 225,
+        "time_to_solve": "22:08"
+      },
+      {
+        "problem_id": 294,
+        "problem_name": "Hotel Bookings Possible",
+        "problem_link": "https://www.interviewbit.com/problems/hotel-bookings-possible/",
+        "problem_score": 225,
+        "time_to_solve": "66:06"
+      },
+      {
+        "problem_id": 359,
+        "problem_name": "Maximum Unsorted Subarray",
+        "problem_link": "https://www.interviewbit.com/problems/maximum-unsorted-subarray/",
+        "problem_score": 250,
+        "time_to_solve": "68:26"
+      },
+      {
+        "problem_id": 70,
+        "problem_name": "Max Distance",
+        "problem_link": "https://www.interviewbit.com/problems/max-distance/",
+        "problem_score": 250,
+        "time_to_solve": "68:14"
+      },
+      {
+        "problem_id": 64,
+        "problem_name": "Largest Number",
+        "problem_link": "https://www.interviewbit.com/problems/largest-number/",
+        "problem_score": 225,
+        "time_to_solve": "70:26"
+      },
+      {
+        "problem_id": 55,
+        "problem_name": "Rotate Matrix",
+        "problem_link": "https://www.interviewbit.com/problems/rotate-matrix/",
+        "problem_score": 300,
+        "time_to_solve": "60:26"
+      },
+      {
+        "problem_id": 71,
+        "problem_name": "Next Permutation",
+        "problem_link": "https://www.interviewbit.com/problems/next-permutation/",
+        "problem_score": 300,
+        "time_to_solve": "63:12"
+      },
+      {
+        "problem_id": 344,
+        "problem_name": "Find Permutation",
+        "problem_link": "https://www.interviewbit.com/problems/find-permutation/",
+        "problem_score": 300,
+        "time_to_solve": "55:30"
+      },
+      {
+        "problem_id": 58,
+        "problem_name": "Merge Intervals",
+        "problem_link": "https://www.interviewbit.com/problems/merge-intervals/",
+        "problem_score": 225,
+        "time_to_solve": "78:57"
+      },
+      {
+        "problem_id": 61,
+        "problem_name": "Merge Overlapping Intervals",
+        "problem_link": "https://www.interviewbit.com/problems/merge-overlapping-intervals/",
+        "problem_score": 225,
+        "time_to_solve": "48:24"
+      },
+      {
+        "problem_id": 62,
+        "problem_name": "Set Matrix Zeros",
+        "problem_link": "https://www.interviewbit.com/problems/set-matrix-zeros/",
+        "problem_score": 300,
+        "time_to_solve": "48:04"
+      },
+      {
+        "problem_id": 65,
+        "problem_name": "First Missing Integer",
+        "problem_link": "https://www.interviewbit.com/problems/first-missing-integer/",
+        "problem_score": 300,
+        "time_to_solve": "64:38"
+      },
+      {
+        "problem_id": 11994,
+        "problem_name": "Maximum Sum Square SubMatrix",
+        "problem_link": "https://www.interviewbit.com/problems/maximum-sum-square-submatrix/",
+        "problem_score": 300,
+        "time_to_solve": "44:06"
+      },
+      {
+        "problem_id": 65,
+        "problem_name": "First Missing Integer",
+        "problem_link": "https://www.interviewbit.com/problems/first-missing-integer/",
+        "problem_score": 300,
+        "time_to_solve": "64:38"
+      },
+      {
+        "problem_id": 60,
+        "problem_name": "Repeat and Missing Number Array",
+        "problem_link": "https://www.interviewbit.com/problems/repeat-and-missing-number-array/",
+        "problem_score": 350,
+        "time_to_solve": "63:55"
+      },
+      {
+        "problem_id": 67,
+        "problem_name": "N/3 Repeat Number",
+        "problem_link": "https://www.interviewbit.com/problems/n3-repeat-number/",
+        "problem_score": 600,
+        "time_to_solve": "68:08"
+      },
+      {
+        "problem_id": 12271,
+        "problem_name": "Pick from both sides!",
+        "problem_link": "https://www.interviewbit.com/problems/pick-from-both-sides/",
+        "problem_score": 100,
+        "time_to_solve": "42:55"
+      },
+      {
+        "problem_id": 12279,
+        "problem_name": "Sort array with squares!",
+        "problem_link": "https://www.interviewbit.com/problems/sort-array-with-squares/",
+        "problem_score": 200,
+        "time_to_solve": "24:51"
+      },
+      {
+        "problem_id": 12289,
+        "problem_name": "Balance Array",
+        "problem_link": "https://www.interviewbit.com/problems/balance-array/",
+        "problem_score": 200,
+        "time_to_solve": "47:21"
+      },
+      {
+        "problem_id": 12290,
+        "problem_name": "Max Min",
+        "problem_link": "https://www.interviewbit.com/problems/max-min-05542f2f-69aa-4253-9cc7-84eb7bf739c4/",
+        "problem_score": 150,
+        "time_to_solve": "15:41"
+      }
+    ]
+  },
+  "math": {
+    "problems": [
+      {
+        "problem_id": 297,
+        "problem_name": "Prime Sum",
+        "problem_link": "https://www.interviewbit.com/problems/prime-sum/",
+        "problem_score": 150,
+        "time_to_solve": "43:15"
+      },
+      {
+        "problem_id": 366,
+        "problem_name": "Sum of pairwise Hamming Distance",
+        "problem_link": "https://www.interviewbit.com/problems/sum-of-pairwise-hamming-distance/",
+        "problem_score": 200,
+        "time_to_solve": "66:04"
+      },
+      {
+        "problem_id": 382,
+        "problem_name": "FizzBuzz",
+        "problem_link": "https://www.interviewbit.com/problems/fizzbuzz/",
+        "problem_score": 200,
+        "time_to_solve": "12:34"
+      },
+      {
+        "problem_id": 11646,
+        "problem_name": "Is Rectangle?",
+        "problem_link": "https://www.interviewbit.com/problems/is-rectangle/",
+        "problem_score": 200,
+        "time_to_solve": "9:34"
+      },
+      {
+        "problem_id": 296,
+        "problem_name": "Power Of Two Integers",
+        "problem_link": "https://www.interviewbit.com/problems/power-of-two-integers/",
+        "problem_score": 250,
+        "time_to_solve": "39:36"
+      },
+      {
+        "problem_id": 74,
+        "problem_name": "Excel Column Number",
+        "problem_link": "https://www.interviewbit.com/problems/excel-column-number/",
+        "problem_score": 175,
+        "time_to_solve": "23:19"
+      },
+      {
+        "problem_id": 76,
+        "problem_name": "Excel Column Title",
+        "problem_link": "https://www.interviewbit.com/problems/excel-column-title/",
+        "problem_score": 175,
+        "time_to_solve": "41:11"
+      },
+      {
+        "problem_id": 72,
+        "problem_name": "Palindrome Integer",
+        "problem_link": "https://www.interviewbit.com/problems/palindrome-integer/",
+        "problem_score": 200,
+        "time_to_solve": "17:28"
+      },
+      {
+        "problem_id": 75,
+        "problem_name": "Reverse integer",
+        "problem_link": "https://www.interviewbit.com/problems/reverse-integer/",
+        "problem_score": 200,
+        "time_to_solve": "28:36"
+      },
+      {
+        "problem_id": 269,
+        "problem_name": "Greatest Common Divisor",
+        "problem_link": "https://www.interviewbit.com/problems/greatest-common-divisor/",
+        "problem_score": 200,
+        "time_to_solve": "10:57"
+      },
+      {
+        "problem_id": 11993,
+        "problem_name": "Find Nth Fibonacci",
+        "problem_link": "https://www.interviewbit.com/problems/find-nth-fibonacci/",
+        "problem_score": 200,
+        "time_to_solve": "39:50"
+      },
+      {
+        "problem_id": 80,
+        "problem_name": "Trailing Zeros in Factorial",
+        "problem_link": "https://www.interviewbit.com/problems/trailing-zeros-in-factorial/",
+        "problem_score": 250,
+        "time_to_solve": "18:58"
+      },
+      {
+        "problem_id": 317,
+        "problem_name": "Sorted Permutation Rank",
+        "problem_link": "https://www.interviewbit.com/problems/sorted-permutation-rank/",
+        "problem_score": 250,
+        "time_to_solve": "76:30"
+      },
+      {
+        "problem_id": 358,
+        "problem_name": "Largest Coprime Divisor",
+        "problem_link": "https://www.interviewbit.com/problems/largest-coprime-divisor/",
+        "problem_score": 250,
+        "time_to_solve": "48:41"
+      },
+      {
+        "problem_id": 318,
+        "problem_name": "Sorted Permutation Rank with Repeats",
+        "problem_link": "https://www.interviewbit.com/problems/sorted-permutation-rank-with-repeats/",
+        "problem_score": 500,
+        "time_to_solve": "62:37"
+      },
+      {
+        "problem_id": 11638,
+        "problem_name": "Next Similar Number",
+        "problem_link": "https://www.interviewbit.com/problems/next-similar-number/",
+        "problem_score": 200,
+        "time_to_solve": "39:09"
+      },
+      {
+        "problem_id": 268,
+        "problem_name": "Rearrange Array",
+        "problem_link": "https://www.interviewbit.com/problems/rearrange-array/",
+        "problem_score": 250,
+        "time_to_solve": "49:03"
+      },
+      {
+        "problem_id": 379,
+        "problem_name": "Numbers of length N and value less than K",
+        "problem_link": "https://www.interviewbit.com/problems/numbers-of-length-n-and-value-less-than-k/",
+        "problem_score": 200,
+        "time_to_solve": "88:20"
+      },
+      {
+        "problem_id": 2209,
+        "problem_name": "City Tour",
+        "problem_link": "https://www.interviewbit.com/problems/city-tour/",
+        "problem_score": 300,
+        "time_to_solve": "52:49"
+      },
+      {
+        "problem_id": 78,
+        "problem_name": "Grid Unique Paths",
+        "problem_link": "https://www.interviewbit.com/problems/grid-unique-paths/",
+        "problem_score": 375,
+        "time_to_solve": "32:35"
+      },
+      {
+        "problem_id": 12264,
+        "problem_name": "Step by Step",
+        "problem_link": "https://www.interviewbit.com/problems/step-by-step/",
+        "problem_score": 200,
+        "time_to_solve": "39:09"
+      },
+      {
+        "problem_id": 12265,
+        "problem_name": "Next Smallest Palindrome!",
+        "problem_link": "https://www.interviewbit.com/problems/next-smallest-palindrome/",
+        "problem_score": 400,
+        "time_to_solve": "50:52"
+      },
+      {
+        "problem_id": 12266,
+        "problem_name": "Distribute in Circle!",
+        "problem_link": "https://www.interviewbit.com/problems/distribute-in-circle/",
+        "problem_score": 100,
+        "time_to_solve": "16:57"
+      },
+      {
+        "problem_id": 12267,
+        "problem_name": "Total Moves For Bishop!",
+        "problem_link": "https://www.interviewbit.com/problems/total-moves-for-bishop/",
+        "problem_score": 75,
+        "time_to_solve": "23:24"
+      }
+    ]
+  },
+  "binary_search": {
+    "problems": [
+      {
+        "problem_id": 12066,
+        "problem_name": "Smaller or equal elements",
+        "problem_link": "https://www.interviewbit.com/problems/smaller-or-equal-elements/",
+        "problem_score": 200,
+        "time_to_solve": "20:35"
+      },
+      {
+        "problem_id": 12067,
+        "problem_name": "WoodCutting Made Easy!",
+        "problem_link": "https://www.interviewbit.com/problems/woodcutting-made-easy/",
+        "problem_score": 200,
+        "time_to_solve": "40:34"
+      },
+      {
+        "problem_id": 196,
+        "problem_name": "Matrix Search",
+        "problem_link": "https://www.interviewbit.com/problems/matrix-search/",
+        "problem_score": 250,
+        "time_to_solve": "36:51"
+      },
+      {
+        "problem_id": 199,
+        "problem_name": "Search for a Range",
+        "problem_link": "https://www.interviewbit.com/problems/search-for-a-range/",
+        "problem_score": 250,
+        "time_to_solve": "42:02"
+      },
+      {
+        "problem_id": 204,
+        "problem_name": "Sorted Insert Position",
+        "problem_link": "https://www.interviewbit.com/problems/sorted-insert-position/",
+        "problem_score": 250,
+        "time_to_solve": "25:03"
+      },
+      {
+        "problem_id": 357,
+        "problem_name": "Matrix Median",
+        "problem_link": "https://www.interviewbit.com/problems/matrix-median/",
+        "problem_score": 225,
+        "time_to_solve": "76:23"
+      },
+      {
+        "problem_id": 200,
+        "problem_name": "Square Root of Integer",
+        "problem_link": "https://www.interviewbit.com/problems/square-root-of-integer/",
+        "problem_score": 275,
+        "time_to_solve": "40:32"
+      },
+      {
+        "problem_id": 271,
+        "problem_name": "Painter's Partition Problem",
+        "problem_link": "https://www.interviewbit.com/problems/painters-partition-problem/",
+        "problem_score": 350,
+        "time_to_solve": "80:35"
+      },
+      {
+        "problem_id": 270,
+        "problem_name": "Allocate Books",
+        "problem_link": "https://www.interviewbit.com/problems/allocate-books/",
+        "problem_score": 350,
+        "time_to_solve": "66:14"
+      },
+      {
+        "problem_id": 201,
+        "problem_name": "Implement Power Function",
+        "problem_link": "https://www.interviewbit.com/problems/implement-power-function/",
+        "problem_score": 275,
+        "time_to_solve": "59:44"
+      },
+      {
+        "problem_id": 1834,
+        "problem_name": "Simple Queries",
+        "problem_link": "https://www.interviewbit.com/problems/simple-queries/",
+        "problem_score": 300,
+        "time_to_solve": "65:36"
+      },
+      {
+        "problem_id": 203,
+        "problem_name": "Rotated Sorted Array Search",
+        "problem_link": "https://www.interviewbit.com/problems/rotated-sorted-array-search/",
+        "problem_score": 325,
+        "time_to_solve": "56:53"
+      },
+      {
+        "problem_id": 198,
+        "problem_name": "Median of Array",
+        "problem_link": "https://www.interviewbit.com/problems/median-of-array/",
+        "problem_score": 325,
+        "time_to_solve": "83:59"
+      },
+      {
+        "problem_id": 12260,
+        "problem_name": "Search in Bitonic Array!",
+        "problem_link": "https://www.interviewbit.com/problems/search-in-bitonic-array/",
+        "problem_score": 100,
+        "time_to_solve": "37:17"
+      }
+    ]
+  },
+  "strings": {
+    "problems": [
+      {
+        "problem_id": 175,
+        "problem_name": "Palindrome String",
+        "problem_link": "https://www.interviewbit.com/problems/palindrome-string/",
+        "problem_score": 150,
+        "time_to_solve": "30:40"
+      },
+      {
+        "problem_id": 11982,
+        "problem_name": "Vowel and Consonant Substrings!",
+        "problem_link": "https://www.interviewbit.com/problems/vowel-and-consonant-substrings/",
+        "problem_score": 200,
+        "time_to_solve": "28:42"
+      },
+      {
+        "problem_id": 11987,
+        "problem_name": "Remove Consecutive Characters",
+        "problem_link": "https://www.interviewbit.com/problems/remove-consecutive-characters/",
+        "problem_score": 200,
+        "time_to_solve": "28:55"
+      },
+      {
+        "problem_id": 176,
+        "problem_name": "Longest Common Prefix",
+        "problem_link": "https://www.interviewbit.com/problems/longest-common-prefix/",
+        "problem_score": 225,
+        "time_to_solve": "27:45"
+      },
+      {
+        "problem_id": 187,
+        "problem_name": "Count And Say",
+        "problem_link": "https://www.interviewbit.com/problems/count-and-say/",
+        "problem_score": 250,
+        "time_to_solve": "43:00"
+      },
+      {
+        "problem_id": 1054,
+        "problem_name": "Amazing Subarrays",
+        "problem_link": "https://www.interviewbit.com/problems/amazing-subarrays/",
+        "problem_score": 150,
+        "time_to_solve": "26:29"
+      },
+      {
+        "problem_id": 173,
+        "problem_name": "Implement StrStr",
+        "problem_link": "https://www.interviewbit.com/problems/implement-strstr/",
+        "problem_score": 225,
+        "time_to_solve": "33:14"
+      },
+      {
+        "problem_id": 1772,
+        "problem_name": "Stringoholics",
+        "problem_link": "https://www.interviewbit.com/problems/stringoholics/",
+        "problem_score": 300,
+        "time_to_solve": "64:25"
+      },
+      {
+        "problem_id": 363,
+        "problem_name": "Minimum Characters required to make a String Palindromic",
+        "problem_link": "https://www.interviewbit.com/problems/minimum-characters-required-to-make-a-string-palindromic/",
+        "problem_score": 200,
+        "time_to_solve": "64:22"
+      },
+      {
+        "problem_id": 12167,
+        "problem_name": "Minimum Parantheses!",
+        "problem_link": "https://www.interviewbit.com/problems/minimum-parantheses/",
+        "problem_score": 200,
+        "time_to_solve": "20:11"
+      },
+      {
+        "problem_id": 11639,
+        "problem_name": "Convert to Palindrome",
+        "problem_link": "https://www.interviewbit.com/problems/convert-to-palindrome/",
+        "problem_score": 200,
+        "time_to_solve": "30:21"
+      },
+      {
+        "problem_id": 11983,
+        "problem_name": "Minimum Appends for Palindrome!",
+        "problem_link": "https://www.interviewbit.com/problems/minimum-appends-for-palindrome/",
+        "problem_score": 200,
+        "time_to_solve": "33:56"
+      },
+      {
+        "problem_id": 185,
+        "problem_name": "Longest Palindromic Substring",
+        "problem_link": "https://www.interviewbit.com/problems/longest-palindromic-substring/",
+        "problem_score": 500,
+        "time_to_solve": "59:37"
+      },
+      {
+        "problem_id": 178,
+        "problem_name": "Length of Last Word",
+        "problem_link": "https://www.interviewbit.com/problems/length-of-last-word/",
+        "problem_score": 225,
+        "time_to_solve": "17:54"
+      },
+      {
+        "problem_id": 190,
+        "problem_name": "Reverse the String",
+        "problem_link": "https://www.interviewbit.com/problems/reverse-the-string/",
+        "problem_score": 250,
+        "time_to_solve": "36:31"
+      },
+      {
+        "problem_id": 184,
+        "problem_name": "Compare Version Numbers",
+        "problem_link": "https://www.interviewbit.com/problems/compare-version-numbers/",
+        "problem_score": 225,
+        "time_to_solve": "65:29"
+      },
+      {
+        "problem_id": 182,
+        "problem_name": "Atoi",
+        "problem_link": "https://www.interviewbit.com/problems/atoi/",
+        "problem_score": 250,
+        "time_to_solve": "52:15"
+      },
+      {
+        "problem_id": 180,
+        "problem_name": "Valid Number",
+        "problem_link": "https://www.interviewbit.com/problems/valid-number/",
+        "problem_score": 250,
+        "time_to_solve": "57:55"
+      },
+      {
+        "problem_id": 183,
+        "problem_name": "Valid Ip Addresses",
+        "problem_link": "https://www.interviewbit.com/problems/valid-ip-addresses/",
+        "problem_score": 250,
+        "time_to_solve": "64:35"
+      },
+      {
+        "problem_id": 177,
+        "problem_name": "Roman To Integer",
+        "problem_link": "https://www.interviewbit.com/problems/roman-to-integer/",
+        "problem_score": 250,
+        "time_to_solve": "33:02"
+      },
+      {
+        "problem_id": 174,
+        "problem_name": "Integer To Roman",
+        "problem_link": "https://www.interviewbit.com/problems/integer-to-roman/",
+        "problem_score": 250,
+        "time_to_solve": "41:23"
+      },
+      {
+        "problem_id": 189,
+        "problem_name": "Add Binary Strings",
+        "problem_link": "https://www.interviewbit.com/problems/add-binary-strings/",
+        "problem_score": 300,
+        "time_to_solve": "40:30"
+      },
+      {
+        "problem_id": 272,
+        "problem_name": "Power of 2",
+        "problem_link": "https://www.interviewbit.com/problems/power-of-2/",
+        "problem_score": 350,
+        "time_to_solve": "61:51"
+      },
+      {
+        "problem_id": 179,
+        "problem_name": "Multiply Strings",
+        "problem_link": "https://www.interviewbit.com/problems/multiply-strings/",
+        "problem_score": 375,
+        "time_to_solve": "62:38"
+      },
+      {
+        "problem_id": 188,
+        "problem_name": "Justified Text",
+        "problem_link": "https://www.interviewbit.com/problems/justified-text/",
+        "problem_score": 300,
+        "time_to_solve": "75:10"
+      },
+      {
+        "problem_id": 181,
+        "problem_name": "Zigzag String",
+        "problem_link": "https://www.interviewbit.com/problems/zigzag-string/",
+        "problem_score": 300,
+        "time_to_solve": "52:20"
+      },
+      {
+        "problem_id": 186,
+        "problem_name": "Pretty Json",
+        "problem_link": "https://www.interviewbit.com/problems/pretty-json/",
+        "problem_score": 400,
+        "time_to_solve": "62:19"
+      }
+    ]
+  },
+  "bit_manipulation": {
+    "problems": [
+      {
+        "problem_id": 192,
+        "problem_name": "Number of 1 Bits",
+        "problem_link": "https://www.interviewbit.com/problems/number-of-1-bits/",
+        "problem_score": 200,
+        "time_to_solve": "8:47"
+      },
+      {
+        "problem_id": 191,
+        "problem_name": "Reverse Bits",
+        "problem_link": "https://www.interviewbit.com/problems/reverse-bits/",
+        "problem_score": 225,
+        "time_to_solve": "23:50"
+      },
+      {
+        "problem_id": 194,
+        "problem_name": "Divide Integers",
+        "problem_link": "https://www.interviewbit.com/problems/divide-integers/",
+        "problem_score": 250,
+        "time_to_solve": "65:18"
+      },
+      {
+        "problem_id": 330,
+        "problem_name": "Different Bits Sum Pairwise",
+        "problem_link": "https://www.interviewbit.com/problems/different-bits-sum-pairwise/",
+        "problem_score": 300,
+        "time_to_solve": "50:05"
+      },
+      {
+        "problem_id": 383,
+        "problem_name": "Min XOR value",
+        "problem_link": "https://www.interviewbit.com/problems/min-xor-value/",
+        "problem_score": 200,
+        "time_to_solve": "37:42"
+      },
+      {
+        "problem_id": 11059,
+        "problem_name": "Count Total Set Bits",
+        "problem_link": "https://www.interviewbit.com/problems/count-total-set-bits/",
+        "problem_score": 200,
+        "time_to_solve": "48:18"
+      },
+      {
+        "problem_id": 11635,
+        "problem_name": "Palindromic Binary Representation",
+        "problem_link": "https://www.interviewbit.com/problems/palindromic-binary-representation/",
+        "problem_score": 200,
+        "time_to_solve": "49:40"
+      },
+      {
+        "problem_id": 193,
+        "problem_name": "Single Number",
+        "problem_link": "https://www.interviewbit.com/problems/single-number/",
+        "problem_score": 275,
+        "time_to_solve": "11:53"
+      },
+      {
+        "problem_id": 195,
+        "problem_name": "Single Number II",
+        "problem_link": "https://www.interviewbit.com/problems/single-number-ii/",
+        "problem_score": 275,
+        "time_to_solve": "39:21"
+      },
+      {
+        "problem_id": 12257,
+        "problem_name": "Trailing Zeroes",
+        "problem_link": "https://www.interviewbit.com/problems/trailing-zeroes/",
+        "problem_score": 200,
+        "time_to_solve": "11:06"
+      },
+      {
+        "problem_id": 12282,
+        "problem_name": "XOR-ing the Subarrays!",
+        "problem_link": "https://www.interviewbit.com/problems/xor-ing-the-subarrays/",
+        "problem_score": 200,
+        "time_to_solve": "24:13"
+      }
+    ]
+  },
+  "two_pointers": {
+    "problems": [
+      {
+        "problem_id": 11057,
+        "problem_name": "Pair With Given Difference",
+        "problem_link": "https://www.interviewbit.com/problems/pair-with-given-difference/",
+        "problem_score": 200,
+        "time_to_solve": "28:14"
+      },
+      {
+        "problem_id": 165,
+        "problem_name": "3 Sum",
+        "problem_link": "https://www.interviewbit.com/problems/3-sum/",
+        "problem_score": 225,
+        "time_to_solve": "60:04"
+      },
+      {
+        "problem_id": 170,
+        "problem_name": "3 Sum Zero",
+        "problem_link": "https://www.interviewbit.com/problems/3-sum-zero/",
+        "problem_score": 225,
+        "time_to_solve": "53:25"
+      },
+      {
+        "problem_id": 360,
+        "problem_name": "Counting Triangles",
+        "problem_link": "https://www.interviewbit.com/problems/counting-triangles/",
+        "problem_score": 225,
+        "time_to_solve": "62:29"
+      },
+      {
+        "problem_id": 162,
+        "problem_name": "Diffk",
+        "problem_link": "https://www.interviewbit.com/problems/diffk/",
+        "problem_score": 300,
+        "time_to_solve": "29:26"
+      },
+      {
+        "problem_id": 11644,
+        "problem_name": "Maximum Ones After Modification",
+        "problem_link": "https://www.interviewbit.com/problems/maximum-ones-after-modification/",
+        "problem_score": 200,
+        "time_to_solve": "32:53"
+      },
+      {
+        "problem_id": 273,
+        "problem_name": "Max Continuous Series of 1s",
+        "problem_link": "https://www.interviewbit.com/problems/max-continuous-series-of-1s/",
+        "problem_score": 300,
+        "time_to_solve": "77:04"
+      },
+      {
+        "problem_id": 168,
+        "problem_name": "Array 3 Pointers",
+        "problem_link": "https://www.interviewbit.com/problems/array-3-pointers/",
+        "problem_score": 400,
+        "time_to_solve": "52:56"
+      },
+      {
+        "problem_id": 169,
+        "problem_name": "Container With Most Water",
+        "problem_link": "https://www.interviewbit.com/problems/container-with-most-water/",
+        "problem_score": 400,
+        "time_to_solve": "48:10"
+      },
+      {
+        "problem_id": 164,
+        "problem_name": "Merge Two Sorted Lists II",
+        "problem_link": "https://www.interviewbit.com/problems/merge-two-sorted-lists-ii/",
+        "problem_score": 200,
+        "time_to_solve": "25:38"
+      },
+      {
+        "problem_id": 163,
+        "problem_name": "Intersection Of Sorted Arrays",
+        "problem_link": "https://www.interviewbit.com/problems/intersection-of-sorted-arrays/",
+        "problem_score": 225,
+        "time_to_solve": "18:20"
+      },
+      {
+        "problem_id": 166,
+        "problem_name": "Remove Duplicates from Sorted Array",
+        "problem_link": "https://www.interviewbit.com/problems/remove-duplicates-from-sorted-array/",
+        "problem_score": 250,
+        "time_to_solve": "31:38"
+      },
+      {
+        "problem_id": 171,
+        "problem_name": "Remove Duplicates from Sorted Array II",
+        "problem_link": "https://www.interviewbit.com/problems/remove-duplicates-from-sorted-array-ii/",
+        "problem_score": 250,
+        "time_to_solve": "33:15"
+      },
+      {
+        "problem_id": 172,
+        "problem_name": "Remove Element from Array",
+        "problem_link": "https://www.interviewbit.com/problems/remove-element-from-array/",
+        "problem_score": 250,
+        "time_to_solve": "28:26"
+      },
+      {
+        "problem_id": 167,
+        "problem_name": "Sort by Color",
+        "problem_link": "https://www.interviewbit.com/problems/sort-by-color/",
+        "problem_score": 325,
+        "time_to_solve": "23:10"
+      },
+      {
+        "problem_id": 12280,
+        "problem_name": "Counting Subarrays!",
+        "problem_link": "https://www.interviewbit.com/problems/counting-subarrays/",
+        "problem_score": 200,
+        "time_to_solve": "32:17"
+      },
+      {
+        "problem_id": 12291,
+        "problem_name": "Subarrays with distinct integers!",
+        "problem_link": "https://www.interviewbit.com/problems/subarrays-with-distinct-integers/",
+        "problem_score": 250,
+        "time_to_solve": "50:19"
+      }
+    ]
+  },
+  "linked_lists": {
+    "problems": [
+      {
+        "problem_id": 11060,
+        "problem_name": "Sort Binary Linked List",
+        "problem_link": "https://www.interviewbit.com/problems/sort-binary-linked-list/",
+        "problem_score": 200,
+        "time_to_solve": "23:42"
+      },
+      {
+        "problem_id": 41,
+        "problem_name": "Partition List",
+        "problem_link": "https://www.interviewbit.com/problems/partition-list/",
+        "problem_score": 275,
+        "time_to_solve": "49:18"
+      },
+      {
+        "problem_id": 42,
+        "problem_name": "Insertion Sort List",
+        "problem_link": "https://www.interviewbit.com/problems/insertion-sort-list/",
+        "problem_score": 300,
+        "time_to_solve": "48:02"
+      },
+      {
+        "problem_id": 34,
+        "problem_name": "Sort List",
+        "problem_link": "https://www.interviewbit.com/problems/sort-list/",
+        "problem_score": 350,
+        "time_to_solve": "57:20"
+      },
+      {
+        "problem_id": 331,
+        "problem_name": "Palindrome List",
+        "problem_link": "https://www.interviewbit.com/problems/palindrome-list/",
+        "problem_score": 200,
+        "time_to_solve": "47:06"
+      },
+      {
+        "problem_id": 37,
+        "problem_name": "Remove Duplicates from Sorted List",
+        "problem_link": "https://www.interviewbit.com/problems/remove-duplicates-from-sorted-list/",
+        "problem_score": 300,
+        "time_to_solve": "17:58"
+      },
+      {
+        "problem_id": 35,
+        "problem_name": "Remove Duplicates from Sorted List II",
+        "problem_link": "https://www.interviewbit.com/problems/remove-duplicates-from-sorted-list-ii/",
+        "problem_score": 300,
+        "time_to_solve": "57:51"
+      },
+      {
+        "problem_id": 36,
+        "problem_name": "Merge Two Sorted Lists",
+        "problem_link": "https://www.interviewbit.com/problems/merge-two-sorted-lists/",
+        "problem_score": 300,
+        "time_to_solve": "29:11"
+      },
+      {
+        "problem_id": 39,
+        "problem_name": "Remove Nth Node from List End",
+        "problem_link": "https://www.interviewbit.com/problems/remove-nth-node-from-list-end/",
+        "problem_score": 350,
+        "time_to_solve": "27:38"
+      },
+      {
+        "problem_id": 380,
+        "problem_name": "K reverse linked list",
+        "problem_link": "https://www.interviewbit.com/problems/k-reverse-linked-list/",
+        "problem_score": 200,
+        "time_to_solve": "59:50"
+      },
+      {
+        "problem_id": 11979,
+        "problem_name": "Even Reverse",
+        "problem_link": "https://www.interviewbit.com/problems/even-reverse/",
+        "problem_score": 200,
+        "time_to_solve": "29:39"
+      },
+      {
+        "problem_id": 31,
+        "problem_name": "Swap List Nodes in pairs",
+        "problem_link": "https://www.interviewbit.com/problems/swap-list-nodes-in-pairs/",
+        "problem_score": 350,
+        "time_to_solve": "33:34"
+      },
+      {
+        "problem_id": 32,
+        "problem_name": "Rotate List",
+        "problem_link": "https://www.interviewbit.com/problems/rotate-list/",
+        "problem_score": 350,
+        "time_to_solve": "33:51"
+      },
+      {
+        "problem_id": 11056,
+        "problem_name": "Kth Node From Middle",
+        "problem_link": "https://www.interviewbit.com/problems/kth-node-from-middle/",
+        "problem_score": 200,
+        "time_to_solve": "24:24"
+      },
+      {
+        "problem_id": 11055,
+        "problem_name": "Reverse Alternate K Nodes",
+        "problem_link": "https://www.interviewbit.com/problems/reverse-alternate-k-nodes/",
+        "problem_score": 300,
+        "time_to_solve": "34:59"
+      },
+      {
+        "problem_id": 45,
+        "problem_name": "Reverse Link List II",
+        "problem_link": "https://www.interviewbit.com/problems/reverse-link-list-ii/",
+        "problem_score": 450,
+        "time_to_solve": "57:24"
+      },
+      {
+        "problem_id": 33,
+        "problem_name": "Reorder List",
+        "problem_link": "https://www.interviewbit.com/problems/reorder-list/",
+        "problem_score": 600,
+        "time_to_solve": "57:04"
+      },
+      {
+        "problem_id": 38,
+        "problem_name": "Add Two Numbers as Lists",
+        "problem_link": "https://www.interviewbit.com/problems/add-two-numbers-as-lists/",
+        "problem_score": 250,
+        "time_to_solve": "43:07"
+      },
+      {
+        "problem_id": 43,
+        "problem_name": "List Cycle",
+        "problem_link": "https://www.interviewbit.com/problems/list-cycle/",
+        "problem_score": 600,
+        "time_to_solve": "39:15"
+      }
+    ]
+  },
+  "stacks_and_queues": {
+    "problems": [
+      {
+        "problem_id": 11654,
+        "problem_name": "Balanced Parantheses!",
+        "problem_link": "https://www.interviewbit.com/problems/balanced-parantheses/",
+        "problem_score": 200,
+        "time_to_solve": "13:35"
+      },
+      {
+        "problem_id": 51,
+        "problem_name": "Simplify Directory Path",
+        "problem_link": "https://www.interviewbit.com/problems/simplify-directory-path/",
+        "problem_score": 250,
+        "time_to_solve": "53:39"
+      },
+      {
+        "problem_id": 274,
+        "problem_name": "Redundant Braces",
+        "problem_link": "https://www.interviewbit.com/problems/redundant-braces/",
+        "problem_score": 300,
+        "time_to_solve": "42:41"
+      },
+      {
+        "problem_id": 52,
+        "problem_name": "Min Stack",
+        "problem_link": "https://www.interviewbit.com/problems/min-stack/",
+        "problem_score": 400,
+        "time_to_solve": "43:29"
+      },
+      {
+        "problem_id": 591,
+        "problem_name": "MAXSPPROD",
+        "problem_link": "https://www.interviewbit.com/problems/maxspprod/",
+        "problem_score": 200,
+        "time_to_solve": "87:21"
+      },
+      {
+        "problem_id": 332,
+        "problem_name": "Nearest Smaller Element",
+        "problem_link": "https://www.interviewbit.com/problems/nearest-smaller-element/",
+        "problem_score": 350,
+        "time_to_solve": "41:37"
+      },
+      {
+        "problem_id": 49,
+        "problem_name": "Largest Rectangle in Histogram",
+        "problem_link": "https://www.interviewbit.com/problems/largest-rectangle-in-histogram/",
+        "problem_score": 450,
+        "time_to_solve": "65:29"
+      },
+      {
+        "problem_id": 4365,
+        "problem_name": "First non-repeating character in a stream of characters",
+        "problem_link": "https://www.interviewbit.com/problems/first-non-repeating-character-in-a-stream-of-characters/",
+        "problem_score": 200,
+        "time_to_solve": "49:39"
+      },
+      {
+        "problem_id": 50,
+        "problem_name": "Sliding Window Maximum",
+        "problem_link": "https://www.interviewbit.com/problems/sliding-window-maximum/",
+        "problem_score": 450,
+        "time_to_solve": "69:03"
+      },
+      {
+        "problem_id": 46,
+        "problem_name": "Evaluate Expression",
+        "problem_link": "https://www.interviewbit.com/problems/evaluate-expression/",
+        "problem_score": 400,
+        "time_to_solve": "32:46"
+      },
+      {
+        "problem_id": 47,
+        "problem_name": "Rain Water Trapped",
+        "problem_link": "https://www.interviewbit.com/problems/rain-water-trapped/",
+        "problem_score": 400,
+        "time_to_solve": "59:00"
+      }
+    ]
+  },
+  "backtracking": {
+    "problems": [
+      {
+        "problem_id": 11984,
+        "problem_name": "Maximal String",
+        "problem_link": "https://www.interviewbit.com/problems/maximal-string/",
+        "problem_score": 200,
+        "time_to_solve": "46:30"
+      },
+      {
+        "problem_id": 145,
+        "problem_name": "Gray Code",
+        "problem_link": "https://www.interviewbit.com/problems/gray-code/",
+        "problem_score": 350,
+        "time_to_solve": "57:12"
+      },
+      {
+        "problem_id": 135,
+        "problem_name": "Kth Permutation Sequence",
+        "problem_link": "https://www.interviewbit.com/problems/kth-permutation-sequence/",
+        "problem_score": 350,
+        "time_to_solve": "71:53"
+      },
+      {
+        "problem_id": 148,
+        "problem_name": "Subset",
+        "problem_link": "https://www.interviewbit.com/problems/subset/",
+        "problem_score": 250,
+        "time_to_solve": "61:53"
+      },
+      {
+        "problem_id": 142,
+        "problem_name": "Combinations",
+        "problem_link": "https://www.interviewbit.com/problems/combinations/",
+        "problem_score": 300,
+        "time_to_solve": "45:48"
+      },
+      {
+        "problem_id": 136,
+        "problem_name": "Combination Sum",
+        "problem_link": "https://www.interviewbit.com/problems/combination-sum/",
+        "problem_score": 300,
+        "time_to_solve": "61:30"
+      },
+      {
+        "problem_id": 140,
+        "problem_name": "Combination Sum II",
+        "problem_link": "https://www.interviewbit.com/problems/combination-sum-ii/",
+        "problem_score": 300,
+        "time_to_solve": "40:51"
+      },
+      {
+        "problem_id": 146,
+        "problem_name": "Subsets II",
+        "problem_link": "https://www.interviewbit.com/problems/subsets-ii/",
+        "problem_score": 300,
+        "time_to_solve": "40:01"
+      },
+      {
+        "problem_id": 147,
+        "problem_name": "Letter Phone",
+        "problem_link": "https://www.interviewbit.com/problems/letter-phone/",
+        "problem_score": 250,
+        "time_to_solve": "53:09"
+      },
+      {
+        "problem_id": 149,
+        "problem_name": "Palindrome Partitioning",
+        "problem_link": "https://www.interviewbit.com/problems/palindrome-partitioning/",
+        "problem_score": 300,
+        "time_to_solve": "66:42"
+      },
+      {
+        "problem_id": 139,
+        "problem_name": "Generate all Parentheses II",
+        "problem_link": "https://www.interviewbit.com/problems/generate-all-parentheses-ii/",
+        "problem_score": 350,
+        "time_to_solve": "51:48"
+      },
+      {
+        "problem_id": 138,
+        "problem_name": "Permutations",
+        "problem_link": "https://www.interviewbit.com/problems/permutations/",
+        "problem_score": 350,
+        "time_to_solve": "39:29"
+      },
+      {
+        "problem_id": 141,
+        "problem_name": "NQueens",
+        "problem_link": "https://www.interviewbit.com/problems/nqueens/",
+        "problem_score": 550,
+        "time_to_solve": "73:11"
+      },
+      {
+        "problem_id": 143,
+        "problem_name": "Sudoku",
+        "problem_link": "https://www.interviewbit.com/problems/sudoku/",
+        "problem_score": 700,
+        "time_to_solve": "66:53"
+      }
+    ]
+  },
+  "hashing": {
+    "problems": [
+      {
+        "problem_id": 275,
+        "problem_name": "Colorful Number",
+        "problem_link": "https://www.interviewbit.com/problems/colorful-number/",
+        "problem_score": 150,
+        "time_to_solve": "44:47"
+      },
+      {
+        "problem_id": 298,
+        "problem_name": "Largest Continuous Sequence Zero Sum",
+        "problem_link": "https://www.interviewbit.com/problems/largest-continuous-sequence-zero-sum/",
+        "problem_score": 200,
+        "time_to_solve": "67:02"
+      },
+      {
+        "problem_id": 157,
+        "problem_name": "2 Sum",
+        "problem_link": "https://www.interviewbit.com/problems/2-sum/",
+        "problem_score": 300,
+        "time_to_solve": "49:18"
+      },
+      {
+        "problem_id": 153,
+        "problem_name": "4 Sum",
+        "problem_link": "https://www.interviewbit.com/problems/4-sum/",
+        "problem_score": 325,
+        "time_to_solve": "69:09"
+      },
+      {
+        "problem_id": 158,
+        "problem_name": "Valid Sudoku",
+        "problem_link": "https://www.interviewbit.com/problems/valid-sudoku/",
+        "problem_score": 325,
+        "time_to_solve": "49:03"
+      },
+      {
+        "problem_id": 160,
+        "problem_name": "Diffk II",
+        "problem_link": "https://www.interviewbit.com/problems/diffk-ii/",
+        "problem_score": 375,
+        "time_to_solve": "28:51"
+      },
+      {
+        "problem_id": 11968,
+        "problem_name": "Pairs With Given Xor",
+        "problem_link": "https://www.interviewbit.com/problems/pairs-with-given-xor/",
+        "problem_score": 200,
+        "time_to_solve": "21:50"
+      },
+      {
+        "problem_id": 154,
+        "problem_name": "Anagrams",
+        "problem_link": "https://www.interviewbit.com/problems/anagrams/",
+        "problem_score": 350,
+        "time_to_solve": "46:35"
+      },
+      {
+        "problem_id": 288,
+        "problem_name": "Equal",
+        "problem_link": "https://www.interviewbit.com/problems/equal/",
+        "problem_score": 350,
+        "time_to_solve": "69:43"
+      },
+      {
+        "problem_id": 159,
+        "problem_name": "Copy List",
+        "problem_link": "https://www.interviewbit.com/problems/copy-list/",
+        "problem_score": 450,
+        "time_to_solve": "54:12"
+      },
+      {
+        "problem_id": 11980,
+        "problem_name": "Check Palindrome!",
+        "problem_link": "https://www.interviewbit.com/problems/check-palindrome/",
+        "problem_score": 200,
+        "time_to_solve": "10:23"
+      },
+      {
+        "problem_id": 155,
+        "problem_name": "Fraction",
+        "problem_link": "https://www.interviewbit.com/problems/fraction/",
+        "problem_score": 450,
+        "time_to_solve": "79:14"
+      },
+      {
+        "problem_id": 156,
+        "problem_name": "Points on the Straight Line",
+        "problem_link": "https://www.interviewbit.com/problems/points-on-the-straight-line/",
+        "problem_score": 450,
+        "time_to_solve": "74:39"
+      },
+      {
+        "problem_id": 12037,
+        "problem_name": "Two out of Three",
+        "problem_link": "https://www.interviewbit.com/problems/two-out-of-three/",
+        "problem_score": 200,
+        "time_to_solve": "25:06"
+      },
+      {
+        "problem_id": 12036,
+        "problem_name": "Subarray with given XOR",
+        "problem_link": "https://www.interviewbit.com/problems/subarray-with-given-xor/",
+        "problem_score": 200,
+        "time_to_solve": "32:56"
+      },
+      {
+        "problem_id": 11985,
+        "problem_name": "An Increment Problem",
+        "problem_link": "https://www.interviewbit.com/problems/an-increment-problem/",
+        "problem_score": 200,
+        "time_to_solve": "34:13"
+      },
+      {
+        "problem_id": 150,
+        "problem_name": "Substring Concatenation",
+        "problem_link": "https://www.interviewbit.com/problems/substring-concatenation/",
+        "problem_score": 1000,
+        "time_to_solve": "70:04"
+      },
+      {
+        "problem_id": 12043,
+        "problem_name": "Subarray with B odd numbers",
+        "problem_link": "https://www.interviewbit.com/problems/subarray-with-b-odd-numbers/",
+        "problem_score": 200,
+        "time_to_solve": "35:30"
+      },
+      {
+        "problem_id": 161,
+        "problem_name": "Longest Substring Without Repeat",
+        "problem_link": "https://www.interviewbit.com/problems/longest-substring-without-repeat/",
+        "problem_score": 350,
+        "time_to_solve": "50:46"
+      },
+      {
+        "problem_id": 151,
+        "problem_name": "Window String",
+        "problem_link": "https://www.interviewbit.com/problems/window-string/",
+        "problem_score": 350,
+        "time_to_solve": "77:52"
+      },
+      {
+        "problem_id": 12268,
+        "problem_name": "Subarray with equal occurences!",
+        "problem_link": "https://www.interviewbit.com/problems/subarray-with-equal-occurences/",
+        "problem_score": 200,
+        "time_to_solve": "32:50"
+      },
+      {
+        "problem_id": 12284,
+        "problem_name": "Longest Subarray Length",
+        "problem_link": "https://www.interviewbit.com/problems/longest-subarray-length/",
+        "problem_score": 200,
+        "time_to_solve": "40:13"
+      },
+      {
+        "problem_id": 12286,
+        "problem_name": "First Repeating element",
+        "problem_link": "https://www.interviewbit.com/problems/first-repeating-element/",
+        "problem_score": 200,
+        "time_to_solve": "16:41"
+      }
+    ]
+  },
+  "heaps_and_maps": {
+    "problems": [
+      {
+        "problem_id": 417,
+        "problem_name": "N max pair combinations",
+        "problem_link": "https://www.interviewbit.com/problems/n-max-pair-combinations/",
+        "problem_score": 200,
+        "time_to_solve": "75:58"
+      },
+      {
+        "problem_id": 12012,
+        "problem_name": "Profit Maximisation",
+        "problem_link": "https://www.interviewbit.com/problems/profit-maximisation/",
+        "problem_score": 200,
+        "time_to_solve": "15:23"
+      },
+      {
+        "problem_id": 365,
+        "problem_name": "Ways to form Max Heap",
+        "problem_link": "https://www.interviewbit.com/problems/ways-to-form-max-heap/",
+        "problem_score": 200,
+        "time_to_solve": "69:45"
+      },
+      {
+        "problem_id": 11067,
+        "problem_name": "K Largest Elements",
+        "problem_link": "https://www.interviewbit.com/problems/k-largest-elements/",
+        "problem_score": 200,
+        "time_to_solve": "16:25"
+      },
+      {
+        "problem_id": 362,
+        "problem_name": "Magician and Chocolates",
+        "problem_link": "https://www.interviewbit.com/problems/magician-and-chocolates/",
+        "problem_score": 250,
+        "time_to_solve": "41:36"
+      },
+      {
+        "problem_id": 11051,
+        "problem_name": "Maximum Sum Combinations",
+        "problem_link": "https://www.interviewbit.com/problems/maximum-sum-combinations/",
+        "problem_score": 300,
+        "time_to_solve": "33:55"
+      },
+      {
+        "problem_id": 238,
+        "problem_name": "Merge K Sorted Lists",
+        "problem_link": "https://www.interviewbit.com/problems/merge-k-sorted-lists/",
+        "problem_score": 600,
+        "time_to_solve": "43:13"
+      },
+      {
+        "problem_id": 333,
+        "problem_name": "Distinct Numbers in Window",
+        "problem_link": "https://www.interviewbit.com/problems/distinct-numbers-in-window/",
+        "problem_score": 600,
+        "time_to_solve": "38:51"
+      },
+      {
+        "problem_id": 239,
+        "problem_name": "LRU Cache",
+        "problem_link": "https://www.interviewbit.com/problems/lru-cache/",
+        "problem_score": 1000,
+        "time_to_solve": "72:54"
+      },
+      {
+        "problem_id": 12277,
+        "problem_name": "Merge K sorted arrays!",
+        "problem_link": "https://www.interviewbit.com/problems/merge-k-sorted-arrays/",
+        "problem_score": 200,
+        "time_to_solve": "19:43"
+      }
+    ]
+  },
+  "tree_data_structure": {
+    "problems": [
+      {
+        "problem_id": 5822,
+        "problem_name": "Valid BST from Preorder",
+        "problem_link": "https://www.interviewbit.com/problems/valid-bst-from-preorder/",
+        "problem_score": 100,
+        "time_to_solve": "47:04"
+      },
+      {
+        "problem_id": 335,
+        "problem_name": "Kth Smallest Element In Tree",
+        "problem_link": "https://www.interviewbit.com/problems/kth-smallest-element-in-tree/",
+        "problem_score": 300,
+        "time_to_solve": "29:16"
+      },
+      {
+        "problem_id": 336,
+        "problem_name": "2-Sum Binary Tree",
+        "problem_link": "https://www.interviewbit.com/problems/2sum-binary-tree/",
+        "problem_score": 400,
+        "time_to_solve": "62:41"
+      },
+      {
+        "problem_id": 232,
+        "problem_name": "BST Iterator",
+        "problem_link": "https://www.interviewbit.com/problems/bst-iterator/",
+        "problem_score": 500,
+        "time_to_solve": "40:30"
+      },
+      {
+        "problem_id": 216,
+        "problem_name": "Recover Binary Search Tree",
+        "problem_link": "https://www.interviewbit.com/problems/recover-binary-search-tree/",
+        "problem_score": 750,
+        "time_to_solve": "62:15"
+      },
+      {
+        "problem_id": 11636,
+        "problem_name": "Remove Half Nodes",
+        "problem_link": "https://www.interviewbit.com/problems/remove-half-nodes/",
+        "problem_score": 200,
+        "time_to_solve": "39:16"
+      },
+      {
+        "problem_id": 11058,
+        "problem_name": "Path to Given Node",
+        "problem_link": "https://www.interviewbit.com/problems/path-to-given-node/",
+        "problem_score": 200,
+        "time_to_solve": "33:48"
+      },
+      {
+        "problem_id": 225,
+        "problem_name": "Balanced Binary Tree",
+        "problem_link": "https://www.interviewbit.com/problems/balanced-binary-tree/",
+        "problem_score": 275,
+        "time_to_solve": "30:19"
+      },
+      {
+        "problem_id": 11642,
+        "problem_name": "Merge two Binary Tree",
+        "problem_link": "https://www.interviewbit.com/problems/merge-two-binary-tree/",
+        "problem_score": 200,
+        "time_to_solve": "23:46"
+      },
+      {
+        "problem_id": 231,
+        "problem_name": "Identical Binary Trees",
+        "problem_link": "https://www.interviewbit.com/problems/identical-binary-trees/",
+        "problem_score": 300,
+        "time_to_solve": "11:36"
+      },
+      {
+        "problem_id": 228,
+        "problem_name": "Symmetric Binary Tree",
+        "problem_link": "https://www.interviewbit.com/problems/symmetric-binary-tree/",
+        "problem_score": 300,
+        "time_to_solve": "21:58"
+      },
+      {
+        "problem_id": 378,
+        "problem_name": "Vertical Order traversal of Binary Tree",
+        "problem_link": "https://www.interviewbit.com/problems/vertical-order-traversal-of-binary-tree/",
+        "problem_score": 200,
+        "time_to_solve": "71:18"
+      },
+      {
+        "problem_id": 11050,
+        "problem_name": "Diagonal Traversal",
+        "problem_link": "https://www.interviewbit.com/problems/diagonal-traversal/",
+        "problem_score": 200,
+        "time_to_solve": "40:01"
+      },
+      {
+        "problem_id": 214,
+        "problem_name": "Inorder Traversal",
+        "problem_link": "https://www.interviewbit.com/problems/inorder-traversal/",
+        "problem_score": 350,
+        "time_to_solve": "32:00"
+      },
+      {
+        "problem_id": 229,
+        "problem_name": "Postorder Traversal",
+        "problem_link": "https://www.interviewbit.com/problems/postorder-traversal/",
+        "problem_score": 350,
+        "time_to_solve": "31:25"
+      },
+      {
+        "problem_id": 222,
+        "problem_name": "Preorder Traversal",
+        "problem_link": "https://www.interviewbit.com/problems/preorder-traversal/",
+        "problem_score": 350,
+        "time_to_solve": "15:26"
+      },
+      {
+        "problem_id": 11054,
+        "problem_name": "Cousins in Binary Tree",
+        "problem_link": "https://www.interviewbit.com/problems/cousins-in-binary-tree/",
+        "problem_score": 200,
+        "time_to_solve": "48:08"
+      },
+      {
+        "problem_id": 5714,
+        "problem_name": "Right view of Binary tree",
+        "problem_link": "https://www.interviewbit.com/problems/right-view-of-binary-tree/",
+        "problem_score": 200,
+        "time_to_solve": "26:14"
+      },
+      {
+        "problem_id": 12058,
+        "problem_name": "Reverse Level Order",
+        "problem_link": "https://www.interviewbit.com/problems/reverse-level-order/",
+        "problem_score": 249,
+        "time_to_solve": "19:40"
+      },
+      {
+        "problem_id": 233,
+        "problem_name": "ZigZag Level Order Traversal BT",
+        "problem_link": "https://www.interviewbit.com/problems/zigzag-level-order-traversal-bt/",
+        "problem_score": 350,
+        "time_to_solve": "42:04"
+      },
+      {
+        "problem_id": 230,
+        "problem_name": "Populate Next Right Pointers Tree",
+        "problem_link": "https://www.interviewbit.com/problems/populate-next-right-pointers-tree/",
+        "problem_score": 900,
+        "time_to_solve": "50:06"
+      },
+      {
+        "problem_id": 422,
+        "problem_name": "Hotel Reviews",
+        "problem_link": "https://www.interviewbit.com/problems/hotel-reviews/",
+        "problem_score": 200,
+        "time_to_solve": "71:50"
+      },
+      {
+        "problem_id": 277,
+        "problem_name": "Shortest Unique Prefix",
+        "problem_link": "https://www.interviewbit.com/problems/shortest-unique-prefix/",
+        "problem_score": 350,
+        "time_to_solve": "67:47"
+      },
+      {
+        "problem_id": 217,
+        "problem_name": "Inorder Traversal of Cartesian Tree",
+        "problem_link": "https://www.interviewbit.com/problems/inorder-traversal-of-cartesian-tree/",
+        "problem_score": 300,
+        "time_to_solve": "49:44"
+      },
+      {
+        "problem_id": 226,
+        "problem_name": "Sorted Array To Balanced BST",
+        "problem_link": "https://www.interviewbit.com/problems/sorted-array-to-balanced-bst/",
+        "problem_score": 300,
+        "time_to_solve": "28:25"
+      },
+      {
+        "problem_id": 224,
+        "problem_name": "Binary Tree From Inorder And Postorder",
+        "problem_link": "https://www.interviewbit.com/problems/binary-tree-from-inorder-and-postorder/",
+        "problem_score": 375,
+        "time_to_solve": "49:41"
+      },
+      {
+        "problem_id": 219,
+        "problem_name": "Construct Binary Tree From Inorder And Preorder",
+        "problem_link": "https://www.interviewbit.com/problems/construct-binary-tree-from-inorder-and-preorder/",
+        "problem_score": 375,
+        "time_to_solve": "44:56"
+      },
+      {
+        "problem_id": 334,
+        "problem_name": "Invert the Binary Tree",
+        "problem_link": "https://www.interviewbit.com/problems/invert-the-binary-tree/",
+        "problem_score": 300,
+        "time_to_solve": "12:46"
+      },
+      {
+        "problem_id": 234,
+        "problem_name": "Path Sum",
+        "problem_link": "https://www.interviewbit.com/problems/path-sum/",
+        "problem_score": 350,
+        "time_to_solve": "27:34"
+      },
+      {
+        "problem_id": 237,
+        "problem_name": "Root to Leaf Paths With Sum",
+        "problem_link": "https://www.interviewbit.com/problems/root-to-leaf-paths-with-sum/",
+        "problem_score": 350,
+        "time_to_solve": "41:03"
+      },
+      {
+        "problem_id": 223,
+        "problem_name": "Max Depth of Binary Tree",
+        "problem_link": "https://www.interviewbit.com/problems/max-depth-of-binary-tree/",
+        "problem_score": 350,
+        "time_to_solve": "6:57"
+      },
+      {
+        "problem_id": 236,
+        "problem_name": "Min Depth of Binary Tree",
+        "problem_link": "https://www.interviewbit.com/problems/min-depth-of-binary-tree/",
+        "problem_score": 350,
+        "time_to_solve": "17:20"
+      },
+      {
+        "problem_id": 227,
+        "problem_name": "Sum Root to Leaf Numbers",
+        "problem_link": "https://www.interviewbit.com/problems/sum-root-to-leaf-numbers/",
+        "problem_score": 350,
+        "time_to_solve": "44:55"
+      },
+      {
+        "problem_id": 218,
+        "problem_name": "Least Common Ancestor",
+        "problem_link": "https://www.interviewbit.com/problems/least-common-ancestor/",
+        "problem_score": 450,
+        "time_to_solve": "57:32"
+      },
+      {
+        "problem_id": 220,
+        "problem_name": "Flatten Binary Tree to Linked List",
+        "problem_link": "https://www.interviewbit.com/problems/flatten-binary-tree-to-linked-list/",
+        "problem_score": 500,
+        "time_to_solve": "43:03"
+      },
+      {
+        "problem_id": 276,
+        "problem_name": "Order of People Heights",
+        "problem_link": "https://www.interviewbit.com/problems/order-of-people-heights/",
+        "problem_score": 700,
+        "time_to_solve": "72:27"
+      },
+      {
+        "problem_id": 12259,
+        "problem_name": "Maximum Edge Removal",
+        "problem_link": "https://www.interviewbit.com/problems/maximum-edge-removal/",
+        "problem_score": 300,
+        "time_to_solve": "40:09"
+      },
+      {
+        "problem_id": 12270,
+        "problem_name": "Maximum level sum",
+        "problem_link": "https://www.interviewbit.com/problems/maximum-level-sum/",
+        "problem_score": 200,
+        "time_to_solve": "16:20"
+      },
+      {
+        "problem_id": 12294,
+        "problem_name": "Xor Between Two Arrays!",
+        "problem_link": "https://www.interviewbit.com/problems/xor-between-two-arrays/",
+        "problem_score": 150,
+        "time_to_solve": "47:01"
+      },
+      {
+        "problem_id": 12300,
+        "problem_name": "Burn a Tree",
+        "problem_link": "https://www.interviewbit.com/problems/burn-a-tree/",
+        "problem_score": 200,
+        "time_to_solve": "51:23"
+      }
+    ]
+  },
+  "dynamic_programming": {
+    "problems": [
+      {
+        "problem_id": 4438,
+        "problem_name": "Longest Common Subsequence",
+        "problem_link": "https://www.interviewbit.com/problems/longest-common-subsequence/",
+        "problem_score": 200,
+        "time_to_solve": "36:59"
+      },
+      {
+        "problem_id": 4441,
+        "problem_name": "Longest Palindromic Subsequence",
+        "problem_link": "https://www.interviewbit.com/problems/longest-palindromic-subsequence/",
+        "problem_score": 200,
+        "time_to_solve": "35:46"
+      },
+      {
+        "problem_id": 21,
+        "problem_name": "Edit Distance",
+        "problem_link": "https://www.interviewbit.com/problems/edit-distance/",
+        "problem_score": 300,
+        "time_to_solve": "46:35"
+      },
+      {
+        "problem_id": 279,
+        "problem_name": "Repeating Sub-Sequence",
+        "problem_link": "https://www.interviewbit.com/problems/repeating-subsequence/",
+        "problem_score": 300,
+        "time_to_solve": "62:34"
+      },
+      {
+        "problem_id": 7,
+        "problem_name": "Distinct Subsequences",
+        "problem_link": "https://www.interviewbit.com/problems/distinct-subsequences/",
+        "problem_score": 325,
+        "time_to_solve": "62:27"
+      },
+      {
+        "problem_id": 27,
+        "problem_name": "Interleaving Strings",
+        "problem_link": "https://www.interviewbit.com/problems/interleaving-strings/",
+        "problem_score": 500,
+        "time_to_solve": "59:26"
+      },
+      {
+        "problem_id": 16,
+        "problem_name": "Regular Expression Match",
+        "problem_link": "https://www.interviewbit.com/problems/regular-expression-match/",
+        "problem_score": 500,
+        "time_to_solve": "69:19"
+      },
+      {
+        "problem_id": 24,
+        "problem_name": "Regular Expression II",
+        "problem_link": "https://www.interviewbit.com/problems/regular-expression-ii/",
+        "problem_score": 500,
+        "time_to_solve": "61:00"
+      },
+      {
+        "problem_id": 13,
+        "problem_name": "Scramble String",
+        "problem_link": "https://www.interviewbit.com/problems/scramble-string/",
+        "problem_score": 500,
+        "time_to_solve": "58:08"
+      },
+      {
+        "problem_id": 370,
+        "problem_name": "Length of Longest Subsequence",
+        "problem_link": "https://www.interviewbit.com/problems/length-of-longest-subsequence/",
+        "problem_score": 200,
+        "time_to_solve": "64:43"
+      },
+      {
+        "problem_id": 420,
+        "problem_name": "Largest area of rectangle with permutations",
+        "problem_link": "https://www.interviewbit.com/problems/largest-area-of-rectangle-with-permutations/",
+        "problem_score": 200,
+        "time_to_solve": "71:22"
+      },
+      {
+        "problem_id": 375,
+        "problem_name": "Smallest sequence with given Primes",
+        "problem_link": "https://www.interviewbit.com/problems/smallest-sequence-with-given-primes/",
+        "problem_score": 200,
+        "time_to_solve": "63:00"
+      },
+      {
+        "problem_id": 12044,
+        "problem_name": "Tiling With Dominoes",
+        "problem_link": "https://www.interviewbit.com/problems/tiling-with-dominoes/",
+        "problem_score": 200,
+        "time_to_solve": "51:38"
+      },
+      {
+        "problem_id": 10,
+        "problem_name": "Ways to Decode",
+        "problem_link": "https://www.interviewbit.com/problems/ways-to-decode/",
+        "problem_score": 225,
+        "time_to_solve": "69:22"
+      },
+      {
+        "problem_id": 30,
+        "problem_name": "Stairs",
+        "problem_link": "https://www.interviewbit.com/problems/stairs/",
+        "problem_score": 225,
+        "time_to_solve": "15:14"
+      },
+      {
+        "problem_id": 339,
+        "problem_name": "Intersecting Chords in a Circle",
+        "problem_link": "https://www.interviewbit.com/problems/intersecting-chords-in-a-circle/",
+        "problem_score": 300,
+        "time_to_solve": "66:36"
+      },
+      {
+        "problem_id": 4,
+        "problem_name": "Longest Increasing Subsequence",
+        "problem_link": "https://www.interviewbit.com/problems/longest-increasing-subsequence/",
+        "problem_score": 300,
+        "time_to_solve": "30:35"
+      },
+      {
+        "problem_id": 384,
+        "problem_name": "Tushar's Birthday Bombs",
+        "problem_link": "https://www.interviewbit.com/problems/tushars-birthday-bombs/",
+        "problem_score": 200,
+        "time_to_solve": "72:44"
+      },
+      {
+        "problem_id": 26,
+        "problem_name": "Jump Game Array",
+        "problem_link": "https://www.interviewbit.com/problems/jump-game-array/",
+        "problem_score": 225,
+        "time_to_solve": "40:53"
+      },
+      {
+        "problem_id": 20,
+        "problem_name": "Min Jumps Array",
+        "problem_link": "https://www.interviewbit.com/problems/min-jumps-array/",
+        "problem_score": 300,
+        "time_to_solve": "69:43"
+      },
+      {
+        "problem_id": 364,
+        "problem_name": "Longest Arithmetic Progression",
+        "problem_link": "https://www.interviewbit.com/problems/longest-arithmetic-progression/",
+        "problem_score": 200,
+        "time_to_solve": "70:32"
+      },
+      {
+        "problem_id": 368,
+        "problem_name": "N digit numbers with digit sum S",
+        "problem_link": "https://www.interviewbit.com/problems/n-digit-numbers-with-digit-sum-s-/",
+        "problem_score": 200,
+        "time_to_solve": "69:42"
+      },
+      {
+        "problem_id": 381,
+        "problem_name": "Ways to color a 3xN Board",
+        "problem_link": "https://www.interviewbit.com/problems/ways-to-color-a-3xn-board/",
+        "problem_score": 200,
+        "time_to_solve": "57:34"
+      },
+      {
+        "problem_id": 371,
+        "problem_name": "Shortest common superstring",
+        "problem_link": "https://www.interviewbit.com/problems/shortest-common-superstring/",
+        "problem_score": 200,
+        "time_to_solve": "64:27"
+      },
+      {
+        "problem_id": 416,
+        "problem_name": "Kth Manhattan Distance Neighbourhood",
+        "problem_link": "https://www.interviewbit.com/problems/kth-manhattan-distance-neighbourhood/",
+        "problem_score": 200,
+        "time_to_solve": "58:34"
+      },
+      {
+        "problem_id": 4767,
+        "problem_name": "Best Time to Buy and Sell Stock atmost B times",
+        "problem_link": "https://www.interviewbit.com/problems/best-time-to-buy-and-sell-stock-atmost-b-times/",
+        "problem_score": 200,
+        "time_to_solve": "58:31"
+      },
+      {
+        "problem_id": 281,
+        "problem_name": "Coins in a Line",
+        "problem_link": "https://www.interviewbit.com/problems/coins-in-a-line/",
+        "problem_score": 300,
+        "time_to_solve": "60:47"
+      },
+      {
+        "problem_id": 280,
+        "problem_name": "Evaluate Expression To True",
+        "problem_link": "https://www.interviewbit.com/problems/evaluate-expression-to-true/",
+        "problem_score": 350,
+        "time_to_solve": "64:21"
+      },
+      {
+        "problem_id": 29,
+        "problem_name": "Longest valid Parentheses",
+        "problem_link": "https://www.interviewbit.com/problems/longest-valid-parentheses/",
+        "problem_score": 700,
+        "time_to_solve": "57:59"
+      },
+      {
+        "problem_id": 12,
+        "problem_name": "Best Time to Buy and Sell Stocks III",
+        "problem_link": "https://www.interviewbit.com/problems/best-time-to-buy-and-sell-stocks-iii/",
+        "problem_score": 700,
+        "time_to_solve": "60:04"
+      },
+      {
+        "problem_id": 424,
+        "problem_name": "Kingdom War",
+        "problem_link": "https://www.interviewbit.com/problems/kingdom-war/",
+        "problem_score": 200,
+        "time_to_solve": "51:51"
+      },
+      {
+        "problem_id": 12161,
+        "problem_name": "Increasing Path in Matrix",
+        "problem_link": "https://www.interviewbit.com/problems/increasing-path-in-matrix/",
+        "problem_score": 200,
+        "time_to_solve": "33:32"
+      },
+      {
+        "problem_id": 11971,
+        "problem_name": "Maximum Size Square Sub-matrix",
+        "problem_link": "https://www.interviewbit.com/problems/maximum-size-square-sub-matrix/",
+        "problem_score": 200,
+        "time_to_solve": "30:28"
+      },
+      {
+        "problem_id": 11052,
+        "problem_name": "Maximum Path in Triangle",
+        "problem_link": "https://www.interviewbit.com/problems/maximum-path-in-triangle/",
+        "problem_score": 200,
+        "time_to_solve": "25:30"
+      },
+      {
+        "problem_id": 19,
+        "problem_name": "Min Sum Path in Matrix",
+        "problem_link": "https://www.interviewbit.com/problems/min-sum-path-in-matrix/",
+        "problem_score": 300,
+        "time_to_solve": "30:06"
+      },
+      {
+        "problem_id": 17,
+        "problem_name": "Dungeon Princess",
+        "problem_link": "https://www.interviewbit.com/problems/dungeon-princess/",
+        "problem_score": 300,
+        "time_to_solve": "64:38"
+      },
+      {
+        "problem_id": 25,
+        "problem_name": "Min Sum Path in Triangle",
+        "problem_link": "https://www.interviewbit.com/problems/min-sum-path-in-triangle/",
+        "problem_score": 300,
+        "time_to_solve": "41:45"
+      },
+      {
+        "problem_id": 8,
+        "problem_name": "Unique Paths in a Grid",
+        "problem_link": "https://www.interviewbit.com/problems/unique-paths-in-a-grid/",
+        "problem_score": 300,
+        "time_to_solve": "33:00"
+      },
+      {
+        "problem_id": 6,
+        "problem_name": "Max Rectangle in Binary Matrix",
+        "problem_link": "https://www.interviewbit.com/problems/max-rectangle-in-binary-matrix/",
+        "problem_score": 350,
+        "time_to_solve": "75:07"
+      },
+      {
+        "problem_id": 337,
+        "problem_name": "Rod Cutting",
+        "problem_link": "https://www.interviewbit.com/problems/rod-cutting/",
+        "problem_score": 350,
+        "time_to_solve": "70:28"
+      },
+      {
+        "problem_id": 361,
+        "problem_name": "Queen Attack",
+        "problem_link": "https://www.interviewbit.com/problems/queen-attack/",
+        "problem_score": 350,
+        "time_to_solve": "64:53"
+      },
+      {
+        "problem_id": 367,
+        "problem_name": "Sub Matrices with sum Zero",
+        "problem_link": "https://www.interviewbit.com/problems/sub-matrices-with-sum-zero/",
+        "problem_score": 200,
+        "time_to_solve": "67:12"
+      },
+      {
+        "problem_id": 319,
+        "problem_name": "Coin Sum Infinite",
+        "problem_link": "https://www.interviewbit.com/problems/coin-sum-infinite/",
+        "problem_score": 225,
+        "time_to_solve": "62:15"
+      },
+      {
+        "problem_id": 14,
+        "problem_name": "Best Time to Buy and Sell Stocks I",
+        "problem_link": "https://www.interviewbit.com/problems/best-time-to-buy-and-sell-stocks-i/",
+        "problem_score": 300,
+        "time_to_solve": "27:45"
+      },
+      {
+        "problem_id": 9,
+        "problem_name": "Max Product Subarray",
+        "problem_link": "https://www.interviewbit.com/problems/max-product-subarray/",
+        "problem_score": 300,
+        "time_to_solve": "63:00"
+      },
+      {
+        "problem_id": 299,
+        "problem_name": "Arrange II",
+        "problem_link": "https://www.interviewbit.com/problems/arrange-ii/",
+        "problem_score": 350,
+        "time_to_solve": "66:41"
+      },
+      {
+        "problem_id": 11641,
+        "problem_name": "Chain of Pairs",
+        "problem_link": "https://www.interviewbit.com/problems/chain-of-pairs/",
+        "problem_score": 200,
+        "time_to_solve": "28:03"
+      },
+      {
+        "problem_id": 278,
+        "problem_name": "Max Sum Without Adjacent Elements",
+        "problem_link": "https://www.interviewbit.com/problems/max-sum-without-adjacent-elements/",
+        "problem_score": 225,
+        "time_to_solve": "56:48"
+      },
+      {
+        "problem_id": 385,
+        "problem_name": "Tushar's Birthday Party",
+        "problem_link": "https://www.interviewbit.com/problems/tushars-birthday-party/",
+        "problem_score": 200,
+        "time_to_solve": "64:00"
+      },
+      {
+        "problem_id": 373,
+        "problem_name": "Flip Array",
+        "problem_link": "https://www.interviewbit.com/problems/flip-array/",
+        "problem_score": 200,
+        "time_to_solve": "70:44"
+      },
+      {
+        "problem_id": 11640,
+        "problem_name": "0-1 Knapsack",
+        "problem_link": "https://www.interviewbit.com/problems/0-1-knapsack/",
+        "problem_score": 200,
+        "time_to_solve": "37:09"
+      },
+      {
+        "problem_id": 300,
+        "problem_name": "Equal Average Partition",
+        "problem_link": "https://www.interviewbit.com/problems/equal-average-partition/",
+        "problem_score": 350,
+        "time_to_solve": "76:07"
+      },
+      {
+        "problem_id": 11,
+        "problem_name": "Best Time to Buy and Sell Stocks II",
+        "problem_link": "https://www.interviewbit.com/problems/best-time-to-buy-and-sell-stocks-ii/",
+        "problem_score": 225,
+        "time_to_solve": "39:43"
+      },
+      {
+        "problem_id": 28,
+        "problem_name": "Word Break II",
+        "problem_link": "https://www.interviewbit.com/problems/word-break-ii/",
+        "problem_score": 350,
+        "time_to_solve": "62:51"
+      },
+      {
+        "problem_id": 15,
+        "problem_name": "Max Sum Path in Binary Tree",
+        "problem_link": "https://www.interviewbit.com/problems/max-sum-path-in-binary-tree/",
+        "problem_score": 400,
+        "time_to_solve": "53:31"
+      },
+      {
+        "problem_id": 22,
+        "problem_name": "Unique Binary Search Trees II",
+        "problem_link": "https://www.interviewbit.com/problems/unique-binary-search-trees-ii/",
+        "problem_score": 400,
+        "time_to_solve": "34:22"
+      },
+      {
+        "problem_id": 340,
+        "problem_name": "Count Permutations of BST",
+        "problem_link": "https://www.interviewbit.com/problems/count-permutations-of-bst/",
+        "problem_score": 400,
+        "time_to_solve": "66:54"
+      },
+      {
+        "problem_id": 23,
+        "problem_name": "Word Break",
+        "problem_link": "https://www.interviewbit.com/problems/word-break/",
+        "problem_score": 400,
+        "time_to_solve": "63:27"
+      },
+      {
+        "problem_id": 18,
+        "problem_name": "Palindrome Partitioning II",
+        "problem_link": "https://www.interviewbit.com/problems/palindrome-partitioning-ii/",
+        "problem_score": 400,
+        "time_to_solve": "58:08"
+      },
+      {
+        "problem_id": 12261,
+        "problem_name": "Egg Drop Problem!",
+        "problem_link": "https://www.interviewbit.com/problems/egg-drop-problem/",
+        "problem_score": 450,
+        "time_to_solve": "50:07"
+      },
+      {
+        "problem_id": 12269,
+        "problem_name": "Paint House!",
+        "problem_link": "https://www.interviewbit.com/problems/paint-house/",
+        "problem_score": 200,
+        "time_to_solve": "25:38"
+      },
+      {
+        "problem_id": 12278,
+        "problem_name": "Minimum Difference Subsets!",
+        "problem_link": "https://www.interviewbit.com/problems/minimum-difference-subsets/",
+        "problem_score": 200,
+        "time_to_solve": "35:26"
+      },
+      {
+        "problem_id": 12281,
+        "problem_name": "Subset Sum Problem!",
+        "problem_link": "https://www.interviewbit.com/problems/subset-sum-problem/",
+        "problem_score": 200,
+        "time_to_solve": "30:27"
+      },
+      {
+        "problem_id": 12287,
+        "problem_name": "Merge elements",
+        "problem_link": "https://www.interviewbit.com/problems/merge-elements/",
+        "problem_score": 300,
+        "time_to_solve": "53:06"
+      },
+      {
+        "problem_id": 12295,
+        "problem_name": "Max edge queries!",
+        "problem_link": "https://www.interviewbit.com/problems/max-edge-queries/",
+        "problem_score": 200,
+        "time_to_solve": "56:39"
+      }
+    ]
+  },
+  "greedy_algorithm": {
+    "problems": [
+      {
+        "problem_id": 320,
+        "problem_name": "Bulbs",
+        "problem_link": "https://www.interviewbit.com/problems/interview-questions/",
+        "problem_score": 200,
+        "time_to_solve": "22:49"
+      },
+      {
+        "problem_id": 289,
+        "problem_name": "Highest Product",
+        "problem_link": "https://www.interviewbit.com/problems/highest-product/",
+        "problem_score": 200,
+        "time_to_solve": "29:12"
+      },
+      {
+        "problem_id": 12115,
+        "problem_name": "Largest Permutation",
+        "problem_link": "https://www.interviewbit.com/problems/largest-permutation/",
+        "problem_score": 250,
+        "time_to_solve": "39:09"
+      },
+      {
+        "problem_id": 4821,
+        "problem_name": "Meeting rooms",
+        "problem_link": "https://www.interviewbit.com/problems/meeting-rooms/",
+        "problem_score": 200,
+        "time_to_solve": "46:22"
+      },
+      {
+        "problem_id": 3,
+        "problem_name": "Distribute Candy",
+        "problem_link": "https://www.interviewbit.com/problems/distribute-candy/",
+        "problem_score": 300,
+        "time_to_solve": "63:51"
+      },
+      {
+        "problem_id": 282,
+        "problem_name": "Seats",
+        "problem_link": "https://www.interviewbit.com/problems/seats/",
+        "problem_score": 300,
+        "time_to_solve": "71:31"
+      },
+      {
+        "problem_id": 290,
+        "problem_name": "Assign Mice to Holes",
+        "problem_link": "https://www.interviewbit.com/problems/assign-mice-to-holes/",
+        "problem_score": 300,
+        "time_to_solve": "21:01"
+      },
+      {
+        "problem_id": 2,
+        "problem_name": "Majority Element",
+        "problem_link": "https://www.interviewbit.com/problems/majority-element/",
+        "problem_score": 400,
+        "time_to_solve": "19:05"
+      },
+      {
+        "problem_id": 1,
+        "problem_name": "Gas Station",
+        "problem_link": "https://www.interviewbit.com/problems/gas-station/",
+        "problem_score": 700,
+        "time_to_solve": "55:56"
+      },
+      {
+        "problem_id": 12298,
+        "problem_name": "Disjoint Intervals",
+        "problem_link": "https://www.interviewbit.com/problems/disjoint-intervals/",
+        "problem_score": 200,
+        "time_to_solve": "30:39"
+      }
+    ]
+  },
+  "graph_data_structure_algorithms": {
+    "problems": [
+      {
+        "problem_id": 418,
+        "problem_name": "Valid Path",
+        "problem_link": "https://www.interviewbit.com/problems/valid-path/",
+        "problem_score": 200,
+        "time_to_solve": "79:02"
+      },
+      {
+        "problem_id": 11652,
+        "problem_name": "Region in BinaryMatrix",
+        "problem_link": "https://www.interviewbit.com/problems/region-in-binarymatrix/",
+        "problem_score": 200,
+        "time_to_solve": "31:09"
+      },
+      {
+        "problem_id": 11647,
+        "problem_name": "Snake Ladder Problem!",
+        "problem_link": "https://www.interviewbit.com/problems/snake-ladder-problem/",
+        "problem_score": 200,
+        "time_to_solve": "50:47"
+      },
+      {
+        "problem_id": 206,
+        "problem_name": "Level Order",
+        "problem_link": "https://www.interviewbit.com/problems/level-order/",
+        "problem_score": 300,
+        "time_to_solve": "29:40"
+      },
+      {
+        "problem_id": 338,
+        "problem_name": "Smallest Multiple With 0 and 1",
+        "problem_link": "https://www.interviewbit.com/problems/smallest-multiple-with-0-and-1/",
+        "problem_score": 300,
+        "time_to_solve": "68:22"
+      },
+      {
+        "problem_id": 11989,
+        "problem_name": "Permutation Swaps!",
+        "problem_link": "https://www.interviewbit.com/problems/permutation-swaps/",
+        "problem_score": 300,
+        "time_to_solve": "54:29"
+      },
+      {
+        "problem_id": 11975,
+        "problem_name": "Min Cost Path",
+        "problem_link": "https://www.interviewbit.com/problems/min-cost-path/",
+        "problem_score": 300,
+        "time_to_solve": "68:26"
+      },
+      {
+        "problem_id": 376,
+        "problem_name": "Commutable Islands",
+        "problem_link": "https://www.interviewbit.com/problems/commutable-islands/",
+        "problem_score": 200,
+        "time_to_solve": "71:30"
+      },
+      {
+        "problem_id": 377,
+        "problem_name": "Possibility of finishing all courses given pre-requisites",
+        "problem_link": "https://www.interviewbit.com/problems/possibility-of-finishing-all-courses-given-prerequisites/",
+        "problem_score": 200,
+        "time_to_solve": "61:27"
+      },
+      {
+        "problem_id": 11637,
+        "problem_name": "Cycle in Undirected Graph",
+        "problem_link": "https://www.interviewbit.com/problems/cycle-in-undirected-graph/",
+        "problem_score": 200,
+        "time_to_solve": "38:01"
+      },
+      {
+        "problem_id": 291,
+        "problem_name": "Black Shapes",
+        "problem_link": "https://www.interviewbit.com/problems/black-shapes/",
+        "problem_score": 300,
+        "time_to_solve": "48:06"
+      },
+      {
+        "problem_id": 369,
+        "problem_name": "Largest Distance between nodes of a Tree",
+        "problem_link": "https://www.interviewbit.com/problems/largest-distance-between-nodes-of-a-tree/",
+        "problem_score": 200,
+        "time_to_solve": "72:33"
+      },
+      {
+        "problem_id": 11990,
+        "problem_name": "Delete Edge!",
+        "problem_link": "https://www.interviewbit.com/problems/delete-edge/",
+        "problem_score": 200,
+        "time_to_solve": "59:25"
+      },
+      {
+        "problem_id": 11062,
+        "problem_name": "Cycle in Directed Graph",
+        "problem_link": "https://www.interviewbit.com/problems/cycle-in-directed-graph/",
+        "problem_score": 200,
+        "time_to_solve": "40:22"
+      },
+      {
+        "problem_id": 11977,
+        "problem_name": "Two teams?",
+        "problem_link": "https://www.interviewbit.com/problems/two-teams/",
+        "problem_score": 300,
+        "time_to_solve": "48:11"
+      },
+      {
+        "problem_id": 284,
+        "problem_name": "Stepping Numbers",
+        "problem_link": "https://www.interviewbit.com/problems/stepping-numbers/",
+        "problem_score": 300,
+        "time_to_solve": "55:45"
+      },
+      {
+        "problem_id": 208,
+        "problem_name": "Capture Regions on Board",
+        "problem_link": "https://www.interviewbit.com/problems/capture-regions-on-board/",
+        "problem_score": 500,
+        "time_to_solve": "62:58"
+      },
+      {
+        "problem_id": 212,
+        "problem_name": "Word Search Board",
+        "problem_link": "https://www.interviewbit.com/problems/word-search-board/",
+        "problem_score": 500,
+        "time_to_solve": "55:32"
+      },
+      {
+        "problem_id": 205,
+        "problem_name": "Convert Sorted List to Binary Search Tree",
+        "problem_link": "https://www.interviewbit.com/problems/convert-sorted-list-to-binary-search-tree/",
+        "problem_score": 300,
+        "time_to_solve": "43:01"
+      },
+      {
+        "problem_id": 283,
+        "problem_name": "Sum Of Fibonacci Numbers",
+        "problem_link": "https://www.interviewbit.com/problems/sum-of-fibonacci-numbers/",
+        "problem_score": 300,
+        "time_to_solve": "50:40"
+      },
+      {
+        "problem_id": 292,
+        "problem_name": "Knight On Chess Board",
+        "problem_link": "https://www.interviewbit.com/problems/knight-on-chess-board/",
+        "problem_score": 300,
+        "time_to_solve": "64:19"
+      },
+      {
+        "problem_id": 12091,
+        "problem_name": "Useful Extra Edges",
+        "problem_link": "https://www.interviewbit.com/problems/useful-extra-edges/",
+        "problem_score": 400,
+        "time_to_solve": "67:33"
+      },
+      {
+        "problem_id": 213,
+        "problem_name": "Word Ladder I",
+        "problem_link": "https://www.interviewbit.com/problems/word-ladder-i/",
+        "problem_score": 600,
+        "time_to_solve": "64:02"
+      },
+      {
+        "problem_id": 210,
+        "problem_name": "Word Ladder II",
+        "problem_link": "https://www.interviewbit.com/problems/word-ladder-ii/",
+        "problem_score": 800,
+        "time_to_solve": "61:45"
+      },
+      {
+        "problem_id": 211,
+        "problem_name": "Clone Graph",
+        "problem_link": "https://www.interviewbit.com/problems/clone-graph/",
+        "problem_score": 500,
+        "time_to_solve": "54:15"
+      },
+      {
+        "problem_id": 12292,
+        "problem_name": "Path in Directed Graph",
+        "problem_link": "https://www.interviewbit.com/problems/path-in-directed-graph/",
+        "problem_score": 150,
+        "time_to_solve": "25:22"
+      },
+      {
+        "problem_id": 12293,
+        "problem_name": "Path with good nodes!",
+        "problem_link": "https://www.interviewbit.com/problems/path-with-good-nodes/",
+        "problem_score": 150,
+        "time_to_solve": "44:02"
+      },
+      {
+        "problem_id": 12299,
+        "problem_name": "Water Flow",
+        "problem_link": "https://www.interviewbit.com/problems/water-flow/",
+        "problem_score": 200,
+        "time_to_solve": "55:44"
+      }
+    ]
+  },
+  "total_count": null
+}{
+  "ts": "Tue Dec 29 2020",
+  "time_complexity": {
+    "problems": [
+      {
+        "problem_id": 250,
+        "problem_name": "LOOP_CMPL",
+        "problem_link": "https://www.interviewbit.com/problems/loopcmpl/",
+        "problem_score": 20,
+        "time_to_solve": "2:43"
+      },
+      {
+        "problem_id": 251,
+        "problem_name": "NESTED_CMPL",
+        "problem_link": "https://www.interviewbit.com/problems/nestedcmpl/",
+        "problem_score": 20,
+        "time_to_solve": "1:10"
+      },
+      {
+        "problem_id": 240,
+        "problem_name": "NESTED_CMPL2",
+        "problem_link": "https://www.interviewbit.com/problems/nestedcmpl2/",
+        "problem_score": 30,
+        "time_to_solve": "1:25"
+      },
+      {
+        "problem_id": 243,
+        "problem_name": "CHOOSE4",
+        "problem_link": "https://www.interviewbit.com/problems/choose4/",
+        "problem_score": 50,
+        "time_to_solve": "0:57"
+      },
+      {
+        "problem_id": 248,
+        "problem_name": "WHILE_CMPL",
+        "problem_link": "https://www.interviewbit.com/problems/whilecmpl/",
+        "problem_score": 50,
+        "time_to_solve": "1:31"
+      },
+      {
+        "problem_id": 242,
+        "problem_name": "NESTED_CMPL3",
+        "problem_link": "https://www.interviewbit.com/problems/nestedcmpl3/",
+        "problem_score": 80,
+        "time_to_solve": "3:56"
+      },
+      {
+        "problem_id": 247,
+        "problem_name": "LOOP_CMPL2",
+        "problem_link": "https://www.interviewbit.com/problems/loopcmpl2/",
+        "problem_score": 80,
+        "time_to_solve": "2:43"
+      },
+      {
+        "problem_id": 246,
+        "problem_name": "GCD_CMPL",
+        "problem_link": "https://www.interviewbit.com/problems/gcdcmpl/",
+        "problem_score": 150,
+        "time_to_solve": "4:13"
+      },
+      {
+        "problem_id": 249,
+        "problem_name": "CHOOSE1",
+        "problem_link": "https://www.interviewbit.com/problems/choose1/",
+        "problem_score": 50,
+        "time_to_solve": "1:43"
+      },
+      {
+        "problem_id": 241,
+        "problem_name": "CHOOSE3",
+        "problem_link": "https://www.interviewbit.com/problems/choose3/",
+        "problem_score": 50,
+        "time_to_solve": "1:39"
+      },
+      {
+        "problem_id": 245,
+        "problem_name": "CHOOSE2",
+        "problem_link": "https://www.interviewbit.com/problems/choose2/",
+        "problem_score": 80,
+        "time_to_solve": "2:23"
+      },
+      {
+        "problem_id": 285,
+        "problem_name": "REC_CMPL1",
+        "problem_link": "https://www.interviewbit.com/problems/reccmpl1/",
+        "problem_score": 80,
+        "time_to_solve": "6:58"
+      },
+      {
+        "problem_id": 286,
+        "problem_name": "REC_CMPL2",
+        "problem_link": "https://www.interviewbit.com/problems/reccmpl2/",
+        "problem_score": 80,
+        "time_to_solve": "6:25"
+      },
+      {
+        "problem_id": 287,
+        "problem_name": "REC_CMPL3",
+        "problem_link": "https://www.interviewbit.com/problems/reccmpl3/",
+        "problem_score": 150,
+        "time_to_solve": "4:39"
+      },
+      {
+        "problem_id": 244,
+        "problem_name": "AMORTIZED1",
+        "problem_link": "https://www.interviewbit.com/problems/amortized1/",
+        "problem_score": 100,
+        "time_to_solve": "3:03"
+      }
+    ],
+    "problem_count": 15
+  },
+  "arrays": {
+    "problems": [
+      {
+        "problem_id": 295,
+        "problem_name": "Min Steps in Infinite Grid",
+        "problem_link": "https://www.interviewbit.com/problems/min-steps-in-infinite-grid/",
+        "problem_score": 150,
+        "time_to_solve": "37:51"
+      },
+      {
+        "problem_id": 11992,
+        "problem_name": "Maximum Sum Triplet",
+        "problem_link": "https://www.interviewbit.com/problems/maximum-sum-triplet/",
+        "problem_score": 200,
+        "time_to_solve": "65:11"
+      },
+      {
+        "problem_id": 11976,
+        "problem_name": "Minimum Lights to Activate",
+        "problem_link": "https://www.interviewbit.com/problems/minimum-lights-to-activate/",
+        "problem_score": 200,
+        "time_to_solve": "53:38"
+      },
+      {
+        "problem_id": 66,
+        "problem_name": "Add One To Number",
+        "problem_link": "https://www.interviewbit.com/problems/add-one-to-number/",
+        "problem_score": 225,
+        "time_to_solve": "43:43"
+      },
+      {
+        "problem_id": 56,
+        "problem_name": "Max Sum Contiguous Subarray",
+        "problem_link": "https://www.interviewbit.com/problems/max-sum-contiguous-subarray/",
+        "problem_score": 225,
+        "time_to_solve": "33:39"
+      },
+      {
+        "problem_id": 356,
+        "problem_name": "Maximum Absolute Difference",
+        "problem_link": "https://www.interviewbit.com/problems/maximum-absolute-difference/",
+        "problem_score": 250,
+        "time_to_solve": "65:51"
+      },
+      {
+        "problem_id": 1056,
+        "problem_name": "Partitions",
+        "problem_link": "https://www.interviewbit.com/problems/partitions/",
+        "problem_score": 300,
+        "time_to_solve": "61:54"
+      },
+      {
+        "problem_id": 11995,
+        "problem_name": "Maximum Area of Triangle!",
+        "problem_link": "https://www.interviewbit.com/problems/maximum-area-of-triangle/",
+        "problem_score": 350,
+        "time_to_solve": "47:47"
+      },
+      {
+        "problem_id": 329,
+        "problem_name": "Flip",
+        "problem_link": "https://www.interviewbit.com/problems/flip/",
+        "problem_score": 400,
+        "time_to_solve": "78:22"
+      },
+      {
+        "problem_id": 12034,
+        "problem_name": "Perfect Peak of Array",
+        "problem_link": "https://www.interviewbit.com/problems/perfect-peak-of-array/",
+        "problem_score": 200,
+        "time_to_solve": "38:55"
+      },
+      {
+        "problem_id": 63,
+        "problem_name": "Spiral Order Matrix II",
+        "problem_link": "https://www.interviewbit.com/problems/spiral-order-matrix-ii/",
+        "problem_score": 225,
+        "time_to_solve": "48:40"
+      },
+      {
+        "problem_id": 68,
+        "problem_name": "Pascal Triangle",
+        "problem_link": "https://www.interviewbit.com/problems/pascal-triangle/",
+        "problem_score": 225,
+        "time_to_solve": "26:46"
+      },
+      {
+        "problem_id": 54,
+        "problem_name": "Kth Row of Pascal's Triangle",
+        "problem_link": "https://www.interviewbit.com/problems/kth-row-of-pascals-triangle/",
+        "problem_score": 225,
+        "time_to_solve": "28:32"
+      },
+      {
+        "problem_id": 293,
+        "problem_name": "Anti Diagonals",
+        "problem_link": "https://www.interviewbit.com/problems/anti-diagonals/",
+        "problem_score": 225,
+        "time_to_solve": "41:46"
+      },
+      {
+        "problem_id": 374,
+        "problem_name": "Triplets with Sum between given range",
+        "problem_link": "https://www.interviewbit.com/problems/triplets-with-sum-between-given-range/",
+        "problem_score": 200,
+        "time_to_solve": "72:58"
+      },
+      {
+        "problem_id": 57,
+        "problem_name": "Find Duplicate in Array",
+        "problem_link": "https://www.interviewbit.com/problems/find-duplicate-in-array/",
+        "problem_score": 450,
+        "time_to_solve": "40:13"
+      },
+      {
+        "problem_id": 69,
+        "problem_name": "Maximum Consecutive Gap",
+        "problem_link": "https://www.interviewbit.com/problems/maximum-consecutive-gap/",
+        "problem_score": 450,
+        "time_to_solve": "58:07"
+      },
+      {
+        "problem_id": 372,
+        "problem_name": "Noble Integer",
+        "problem_link": "https://www.interviewbit.com/problems/noble-integer/",
+        "problem_score": 200,
+        "time_to_solve": "43:30"
+      },
+      {
+        "problem_id": 267,
+        "problem_name": "Wave Array",
+        "problem_link": "https://www.interviewbit.com/problems/wave-array/",
+        "problem_score": 225,
+        "time_to_solve": "22:08"
+      },
+      {
+        "problem_id": 294,
+        "problem_name": "Hotel Bookings Possible",
+        "problem_link": "https://www.interviewbit.com/problems/hotel-bookings-possible/",
+        "problem_score": 225,
+        "time_to_solve": "66:06"
+      },
+      {
+        "problem_id": 359,
+        "problem_name": "Maximum Unsorted Subarray",
+        "problem_link": "https://www.interviewbit.com/problems/maximum-unsorted-subarray/",
+        "problem_score": 250,
+        "time_to_solve": "68:26"
+      },
+      {
+        "problem_id": 70,
+        "problem_name": "Max Distance",
+        "problem_link": "https://www.interviewbit.com/problems/max-distance/",
+        "problem_score": 250,
+        "time_to_solve": "68:14"
+      },
+      {
+        "problem_id": 64,
+        "problem_name": "Largest Number",
+        "problem_link": "https://www.interviewbit.com/problems/largest-number/",
+        "problem_score": 225,
+        "time_to_solve": "70:26"
+      },
+      {
+        "problem_id": 55,
+        "problem_name": "Rotate Matrix",
+        "problem_link": "https://www.interviewbit.com/problems/rotate-matrix/",
+        "problem_score": 300,
+        "time_to_solve": "60:26"
+      },
+      {
+        "problem_id": 71,
+        "problem_name": "Next Permutation",
+        "problem_link": "https://www.interviewbit.com/problems/next-permutation/",
+        "problem_score": 300,
+        "time_to_solve": "63:12"
+      },
+      {
+        "problem_id": 344,
+        "problem_name": "Find Permutation",
+        "problem_link": "https://www.interviewbit.com/problems/find-permutation/",
+        "problem_score": 300,
+        "time_to_solve": "55:30"
+      },
+      {
+        "problem_id": 58,
+        "problem_name": "Merge Intervals",
+        "problem_link": "https://www.interviewbit.com/problems/merge-intervals/",
+        "problem_score": 225,
+        "time_to_solve": "78:57"
+      },
+      {
+        "problem_id": 61,
+        "problem_name": "Merge Overlapping Intervals",
+        "problem_link": "https://www.interviewbit.com/problems/merge-overlapping-intervals/",
+        "problem_score": 225,
+        "time_to_solve": "48:24"
+      },
+      {
+        "problem_id": 62,
+        "problem_name": "Set Matrix Zeros",
+        "problem_link": "https://www.interviewbit.com/problems/set-matrix-zeros/",
+        "problem_score": 300,
+        "time_to_solve": "48:04"
+      },
+      {
+        "problem_id": 65,
+        "problem_name": "First Missing Integer",
+        "problem_link": "https://www.interviewbit.com/problems/first-missing-integer/",
+        "problem_score": 300,
+        "time_to_solve": "64:38"
+      },
+      {
+        "problem_id": 11994,
+        "problem_name": "Maximum Sum Square SubMatrix",
+        "problem_link": "https://www.interviewbit.com/problems/maximum-sum-square-submatrix/",
+        "problem_score": 300,
+        "time_to_solve": "44:07"
+      },
+      {
+        "problem_id": 65,
+        "problem_name": "First Missing Integer",
+        "problem_link": "https://www.interviewbit.com/problems/first-missing-integer/",
+        "problem_score": 300,
+        "time_to_solve": "64:38"
+      },
+      {
+        "problem_id": 60,
+        "problem_name": "Repeat and Missing Number Array",
+        "problem_link": "https://www.interviewbit.com/problems/repeat-and-missing-number-array/",
+        "problem_score": 350,
+        "time_to_solve": "63:55"
+      },
+      {
+        "problem_id": 67,
+        "problem_name": "N/3 Repeat Number",
+        "problem_link": "https://www.interviewbit.com/problems/n3-repeat-number/",
+        "problem_score": 600,
+        "time_to_solve": "68:08"
+      },
+      {
+        "problem_id": 12271,
+        "problem_name": "Pick from both sides!",
+        "problem_link": "https://www.interviewbit.com/problems/pick-from-both-sides/",
+        "problem_score": 100,
+        "time_to_solve": "42:55"
+      },
+      {
+        "problem_id": 12279,
+        "problem_name": "Sort array with squares!",
+        "problem_link": "https://www.interviewbit.com/problems/sort-array-with-squares/",
+        "problem_score": 200,
+        "time_to_solve": "24:51"
+      },
+      {
+        "problem_id": 12289,
+        "problem_name": "Balance Array",
+        "problem_link": "https://www.interviewbit.com/problems/balance-array/",
+        "problem_score": 200,
+        "time_to_solve": "47:10"
+      },
+      {
+        "problem_id": 12290,
+        "problem_name": "Max Min",
+        "problem_link": "https://www.interviewbit.com/problems/max-min-05542f2f-69aa-4253-9cc7-84eb7bf739c4/",
+        "problem_score": 150,
+        "time_to_solve": "15:41"
+      }
+    ],
+    "problem_count": 38
+  },
+  "math": {
+    "problems": [
+      {
+        "problem_id": 297,
+        "problem_name": "Prime Sum",
+        "problem_link": "https://www.interviewbit.com/problems/prime-sum/",
+        "problem_score": 150,
+        "time_to_solve": "43:15"
+      },
+      {
+        "problem_id": 366,
+        "problem_name": "Sum of pairwise Hamming Distance",
+        "problem_link": "https://www.interviewbit.com/problems/sum-of-pairwise-hamming-distance/",
+        "problem_score": 200,
+        "time_to_solve": "66:04"
+      },
+      {
+        "problem_id": 382,
+        "problem_name": "FizzBuzz",
+        "problem_link": "https://www.interviewbit.com/problems/fizzbuzz/",
+        "problem_score": 200,
+        "time_to_solve": "12:34"
+      },
+      {
+        "problem_id": 11646,
+        "problem_name": "Is Rectangle?",
+        "problem_link": "https://www.interviewbit.com/problems/is-rectangle/",
+        "problem_score": 200,
+        "time_to_solve": "9:34"
+      },
+      {
+        "problem_id": 296,
+        "problem_name": "Power Of Two Integers",
+        "problem_link": "https://www.interviewbit.com/problems/power-of-two-integers/",
+        "problem_score": 250,
+        "time_to_solve": "39:36"
+      },
+      {
+        "problem_id": 74,
+        "problem_name": "Excel Column Number",
+        "problem_link": "https://www.interviewbit.com/problems/excel-column-number/",
+        "problem_score": 175,
+        "time_to_solve": "23:19"
+      },
+      {
+        "problem_id": 76,
+        "problem_name": "Excel Column Title",
+        "problem_link": "https://www.interviewbit.com/problems/excel-column-title/",
+        "problem_score": 175,
+        "time_to_solve": "41:11"
+      },
+      {
+        "problem_id": 72,
+        "problem_name": "Palindrome Integer",
+        "problem_link": "https://www.interviewbit.com/problems/palindrome-integer/",
+        "problem_score": 200,
+        "time_to_solve": "17:28"
+      },
+      {
+        "problem_id": 75,
+        "problem_name": "Reverse integer",
+        "problem_link": "https://www.interviewbit.com/problems/reverse-integer/",
+        "problem_score": 200,
+        "time_to_solve": "28:36"
+      },
+      {
+        "problem_id": 269,
+        "problem_name": "Greatest Common Divisor",
+        "problem_link": "https://www.interviewbit.com/problems/greatest-common-divisor/",
+        "problem_score": 200,
+        "time_to_solve": "10:57"
+      },
+      {
+        "problem_id": 11993,
+        "problem_name": "Find Nth Fibonacci",
+        "problem_link": "https://www.interviewbit.com/problems/find-nth-fibonacci/",
+        "problem_score": 200,
+        "time_to_solve": "39:50"
+      },
+      {
+        "problem_id": 80,
+        "problem_name": "Trailing Zeros in Factorial",
+        "problem_link": "https://www.interviewbit.com/problems/trailing-zeros-in-factorial/",
+        "problem_score": 250,
+        "time_to_solve": "18:58"
+      },
+      {
+        "problem_id": 317,
+        "problem_name": "Sorted Permutation Rank",
+        "problem_link": "https://www.interviewbit.com/problems/sorted-permutation-rank/",
+        "problem_score": 250,
+        "time_to_solve": "76:30"
+      },
+      {
+        "problem_id": 358,
+        "problem_name": "Largest Coprime Divisor",
+        "problem_link": "https://www.interviewbit.com/problems/largest-coprime-divisor/",
+        "problem_score": 250,
+        "time_to_solve": "48:41"
+      },
+      {
+        "problem_id": 318,
+        "problem_name": "Sorted Permutation Rank with Repeats",
+        "problem_link": "https://www.interviewbit.com/problems/sorted-permutation-rank-with-repeats/",
+        "problem_score": 500,
+        "time_to_solve": "62:37"
+      },
+      {
+        "problem_id": 11638,
+        "problem_name": "Next Similar Number",
+        "problem_link": "https://www.interviewbit.com/problems/next-similar-number/",
+        "problem_score": 200,
+        "time_to_solve": "39:09"
+      },
+      {
+        "problem_id": 268,
+        "problem_name": "Rearrange Array",
+        "problem_link": "https://www.interviewbit.com/problems/rearrange-array/",
+        "problem_score": 250,
+        "time_to_solve": "49:03"
+      },
+      {
+        "problem_id": 379,
+        "problem_name": "Numbers of length N and value less than K",
+        "problem_link": "https://www.interviewbit.com/problems/numbers-of-length-n-and-value-less-than-k/",
+        "problem_score": 200,
+        "time_to_solve": "88:20"
+      },
+      {
+        "problem_id": 2209,
+        "problem_name": "City Tour",
+        "problem_link": "https://www.interviewbit.com/problems/city-tour/",
+        "problem_score": 300,
+        "time_to_solve": "52:49"
+      },
+      {
+        "problem_id": 78,
+        "problem_name": "Grid Unique Paths",
+        "problem_link": "https://www.interviewbit.com/problems/grid-unique-paths/",
+        "problem_score": 375,
+        "time_to_solve": "32:35"
+      },
+      {
+        "problem_id": 12264,
+        "problem_name": "Step by Step",
+        "problem_link": "https://www.interviewbit.com/problems/step-by-step/",
+        "problem_score": 200,
+        "time_to_solve": "39:09"
+      },
+      {
+        "problem_id": 12265,
+        "problem_name": "Next Smallest Palindrome!",
+        "problem_link": "https://www.interviewbit.com/problems/next-smallest-palindrome/",
+        "problem_score": 400,
+        "time_to_solve": "50:52"
+      },
+      {
+        "problem_id": 12266,
+        "problem_name": "Distribute in Circle!",
+        "problem_link": "https://www.interviewbit.com/problems/distribute-in-circle/",
+        "problem_score": 100,
+        "time_to_solve": "16:57"
+      },
+      {
+        "problem_id": 12267,
+        "problem_name": "Total Moves For Bishop!",
+        "problem_link": "https://www.interviewbit.com/problems/total-moves-for-bishop/",
+        "problem_score": 75,
+        "time_to_solve": "23:24"
+      }
+    ],
+    "problem_count": 24
+  },
+  "binary_search": {
+    "problems": [
+      {
+        "problem_id": 12066,
+        "problem_name": "Smaller or equal elements",
+        "problem_link": "https://www.interviewbit.com/problems/smaller-or-equal-elements/",
+        "problem_score": 200,
+        "time_to_solve": "20:28"
+      },
+      {
+        "problem_id": 12067,
+        "problem_name": "WoodCutting Made Easy!",
+        "problem_link": "https://www.interviewbit.com/problems/woodcutting-made-easy/",
+        "problem_score": 200,
+        "time_to_solve": "40:33"
+      },
+      {
+        "problem_id": 196,
+        "problem_name": "Matrix Search",
+        "problem_link": "https://www.interviewbit.com/problems/matrix-search/",
+        "problem_score": 250,
+        "time_to_solve": "36:51"
+      },
+      {
+        "problem_id": 199,
+        "problem_name": "Search for a Range",
+        "problem_link": "https://www.interviewbit.com/problems/search-for-a-range/",
+        "problem_score": 250,
+        "time_to_solve": "42:02"
+      },
+      {
+        "problem_id": 204,
+        "problem_name": "Sorted Insert Position",
+        "problem_link": "https://www.interviewbit.com/problems/sorted-insert-position/",
+        "problem_score": 250,
+        "time_to_solve": "25:03"
+      },
+      {
+        "problem_id": 357,
+        "problem_name": "Matrix Median",
+        "problem_link": "https://www.interviewbit.com/problems/matrix-median/",
+        "problem_score": 225,
+        "time_to_solve": "76:23"
+      },
+      {
+        "problem_id": 200,
+        "problem_name": "Square Root of Integer",
+        "problem_link": "https://www.interviewbit.com/problems/square-root-of-integer/",
+        "problem_score": 275,
+        "time_to_solve": "40:32"
+      },
+      {
+        "problem_id": 271,
+        "problem_name": "Painter's Partition Problem",
+        "problem_link": "https://www.interviewbit.com/problems/painters-partition-problem/",
+        "problem_score": 350,
+        "time_to_solve": "80:35"
+      },
+      {
+        "problem_id": 270,
+        "problem_name": "Allocate Books",
+        "problem_link": "https://www.interviewbit.com/problems/allocate-books/",
+        "problem_score": 350,
+        "time_to_solve": "66:14"
+      },
+      {
+        "problem_id": 201,
+        "problem_name": "Implement Power Function",
+        "problem_link": "https://www.interviewbit.com/problems/implement-power-function/",
+        "problem_score": 275,
+        "time_to_solve": "59:44"
+      },
+      {
+        "problem_id": 1834,
+        "problem_name": "Simple Queries",
+        "problem_link": "https://www.interviewbit.com/problems/simple-queries/",
+        "problem_score": 300,
+        "time_to_solve": "65:36"
+      },
+      {
+        "problem_id": 203,
+        "problem_name": "Rotated Sorted Array Search",
+        "problem_link": "https://www.interviewbit.com/problems/rotated-sorted-array-search/",
+        "problem_score": 325,
+        "time_to_solve": "56:53"
+      },
+      {
+        "problem_id": 198,
+        "problem_name": "Median of Array",
+        "problem_link": "https://www.interviewbit.com/problems/median-of-array/",
+        "problem_score": 325,
+        "time_to_solve": "83:59"
+      },
+      {
+        "problem_id": 12260,
+        "problem_name": "Search in Bitonic Array!",
+        "problem_link": "https://www.interviewbit.com/problems/search-in-bitonic-array/",
+        "problem_score": 100,
+        "time_to_solve": "37:17"
+      }
+    ],
+    "problem_count": 14
+  },
+  "strings": {
+    "problems": [
+      {
+        "problem_id": 175,
+        "problem_name": "Palindrome String",
+        "problem_link": "https://www.interviewbit.com/problems/palindrome-string/",
+        "problem_score": 150,
+        "time_to_solve": "30:40"
+      },
+      {
+        "problem_id": 11982,
+        "problem_name": "Vowel and Consonant Substrings!",
+        "problem_link": "https://www.interviewbit.com/problems/vowel-and-consonant-substrings/",
+        "problem_score": 200,
+        "time_to_solve": "28:42"
+      },
+      {
+        "problem_id": 11987,
+        "problem_name": "Remove Consecutive Characters",
+        "problem_link": "https://www.interviewbit.com/problems/remove-consecutive-characters/",
+        "problem_score": 200,
+        "time_to_solve": "28:55"
+      },
+      {
+        "problem_id": 176,
+        "problem_name": "Longest Common Prefix",
+        "problem_link": "https://www.interviewbit.com/problems/longest-common-prefix/",
+        "problem_score": 225,
+        "time_to_solve": "27:45"
+      },
+      {
+        "problem_id": 187,
+        "problem_name": "Count And Say",
+        "problem_link": "https://www.interviewbit.com/problems/count-and-say/",
+        "problem_score": 250,
+        "time_to_solve": "43:00"
+      },
+      {
+        "problem_id": 1054,
+        "problem_name": "Amazing Subarrays",
+        "problem_link": "https://www.interviewbit.com/problems/amazing-subarrays/",
+        "problem_score": 150,
+        "time_to_solve": "26:29"
+      },
+      {
+        "problem_id": 173,
+        "problem_name": "Implement StrStr",
+        "problem_link": "https://www.interviewbit.com/problems/implement-strstr/",
+        "problem_score": 225,
+        "time_to_solve": "33:14"
+      },
+      {
+        "problem_id": 1772,
+        "problem_name": "Stringoholics",
+        "problem_link": "https://www.interviewbit.com/problems/stringoholics/",
+        "problem_score": 300,
+        "time_to_solve": "64:25"
+      },
+      {
+        "problem_id": 363,
+        "problem_name": "Minimum Characters required to make a String Palindromic",
+        "problem_link": "https://www.interviewbit.com/problems/minimum-characters-required-to-make-a-string-palindromic/",
+        "problem_score": 200,
+        "time_to_solve": "64:22"
+      },
+      {
+        "problem_id": 12167,
+        "problem_name": "Minimum Parantheses!",
+        "problem_link": "https://www.interviewbit.com/problems/minimum-parantheses/",
+        "problem_score": 200,
+        "time_to_solve": "20:11"
+      },
+      {
+        "problem_id": 11639,
+        "problem_name": "Convert to Palindrome",
+        "problem_link": "https://www.interviewbit.com/problems/convert-to-palindrome/",
+        "problem_score": 200,
+        "time_to_solve": "30:21"
+      },
+      {
+        "problem_id": 11983,
+        "problem_name": "Minimum Appends for Palindrome!",
+        "problem_link": "https://www.interviewbit.com/problems/minimum-appends-for-palindrome/",
+        "problem_score": 200,
+        "time_to_solve": "33:56"
+      },
+      {
+        "problem_id": 185,
+        "problem_name": "Longest Palindromic Substring",
+        "problem_link": "https://www.interviewbit.com/problems/longest-palindromic-substring/",
+        "problem_score": 500,
+        "time_to_solve": "59:37"
+      },
+      {
+        "problem_id": 178,
+        "problem_name": "Length of Last Word",
+        "problem_link": "https://www.interviewbit.com/problems/length-of-last-word/",
+        "problem_score": 225,
+        "time_to_solve": "17:54"
+      },
+      {
+        "problem_id": 190,
+        "problem_name": "Reverse the String",
+        "problem_link": "https://www.interviewbit.com/problems/reverse-the-string/",
+        "problem_score": 250,
+        "time_to_solve": "36:31"
+      },
+      {
+        "problem_id": 184,
+        "problem_name": "Compare Version Numbers",
+        "problem_link": "https://www.interviewbit.com/problems/compare-version-numbers/",
+        "problem_score": 225,
+        "time_to_solve": "65:29"
+      },
+      {
+        "problem_id": 182,
+        "problem_name": "Atoi",
+        "problem_link": "https://www.interviewbit.com/problems/atoi/",
+        "problem_score": 250,
+        "time_to_solve": "52:15"
+      },
+      {
+        "problem_id": 180,
+        "problem_name": "Valid Number",
+        "problem_link": "https://www.interviewbit.com/problems/valid-number/",
+        "problem_score": 250,
+        "time_to_solve": "57:55"
+      },
+      {
+        "problem_id": 183,
+        "problem_name": "Valid Ip Addresses",
+        "problem_link": "https://www.interviewbit.com/problems/valid-ip-addresses/",
+        "problem_score": 250,
+        "time_to_solve": "64:35"
+      },
+      {
+        "problem_id": 177,
+        "problem_name": "Roman To Integer",
+        "problem_link": "https://www.interviewbit.com/problems/roman-to-integer/",
+        "problem_score": 250,
+        "time_to_solve": "33:02"
+      },
+      {
+        "problem_id": 174,
+        "problem_name": "Integer To Roman",
+        "problem_link": "https://www.interviewbit.com/problems/integer-to-roman/",
+        "problem_score": 250,
+        "time_to_solve": "41:23"
+      },
+      {
+        "problem_id": 189,
+        "problem_name": "Add Binary Strings",
+        "problem_link": "https://www.interviewbit.com/problems/add-binary-strings/",
+        "problem_score": 300,
+        "time_to_solve": "40:30"
+      },
+      {
+        "problem_id": 272,
+        "problem_name": "Power of 2",
+        "problem_link": "https://www.interviewbit.com/problems/power-of-2/",
+        "problem_score": 350,
+        "time_to_solve": "61:51"
+      },
+      {
+        "problem_id": 179,
+        "problem_name": "Multiply Strings",
+        "problem_link": "https://www.interviewbit.com/problems/multiply-strings/",
+        "problem_score": 375,
+        "time_to_solve": "62:38"
+      },
+      {
+        "problem_id": 188,
+        "problem_name": "Justified Text",
+        "problem_link": "https://www.interviewbit.com/problems/justified-text/",
+        "problem_score": 300,
+        "time_to_solve": "75:10"
+      },
+      {
+        "problem_id": 181,
+        "problem_name": "Zigzag String",
+        "problem_link": "https://www.interviewbit.com/problems/zigzag-string/",
+        "problem_score": 300,
+        "time_to_solve": "52:20"
+      },
+      {
+        "problem_id": 186,
+        "problem_name": "Pretty Json",
+        "problem_link": "https://www.interviewbit.com/problems/pretty-json/",
+        "problem_score": 400,
+        "time_to_solve": "62:19"
+      }
+    ],
+    "problem_count": 27
+  },
+  "bit_manipulation": {
+    "problems": [
+      {
+        "problem_id": 192,
+        "problem_name": "Number of 1 Bits",
+        "problem_link": "https://www.interviewbit.com/problems/number-of-1-bits/",
+        "problem_score": 200,
+        "time_to_solve": "8:47"
+      },
+      {
+        "problem_id": 191,
+        "problem_name": "Reverse Bits",
+        "problem_link": "https://www.interviewbit.com/problems/reverse-bits/",
+        "problem_score": 225,
+        "time_to_solve": "23:50"
+      },
+      {
+        "problem_id": 194,
+        "problem_name": "Divide Integers",
+        "problem_link": "https://www.interviewbit.com/problems/divide-integers/",
+        "problem_score": 250,
+        "time_to_solve": "65:18"
+      },
+      {
+        "problem_id": 330,
+        "problem_name": "Different Bits Sum Pairwise",
+        "problem_link": "https://www.interviewbit.com/problems/different-bits-sum-pairwise/",
+        "problem_score": 300,
+        "time_to_solve": "50:05"
+      },
+      {
+        "problem_id": 383,
+        "problem_name": "Min XOR value",
+        "problem_link": "https://www.interviewbit.com/problems/min-xor-value/",
+        "problem_score": 200,
+        "time_to_solve": "37:42"
+      },
+      {
+        "problem_id": 11059,
+        "problem_name": "Count Total Set Bits",
+        "problem_link": "https://www.interviewbit.com/problems/count-total-set-bits/",
+        "problem_score": 200,
+        "time_to_solve": "48:18"
+      },
+      {
+        "problem_id": 11635,
+        "problem_name": "Palindromic Binary Representation",
+        "problem_link": "https://www.interviewbit.com/problems/palindromic-binary-representation/",
+        "problem_score": 200,
+        "time_to_solve": "49:40"
+      },
+      {
+        "problem_id": 193,
+        "problem_name": "Single Number",
+        "problem_link": "https://www.interviewbit.com/problems/single-number/",
+        "problem_score": 275,
+        "time_to_solve": "11:53"
+      },
+      {
+        "problem_id": 195,
+        "problem_name": "Single Number II",
+        "problem_link": "https://www.interviewbit.com/problems/single-number-ii/",
+        "problem_score": 275,
+        "time_to_solve": "39:21"
+      },
+      {
+        "problem_id": 12257,
+        "problem_name": "Trailing Zeroes",
+        "problem_link": "https://www.interviewbit.com/problems/trailing-zeroes/",
+        "problem_score": 200,
+        "time_to_solve": "11:06"
+      },
+      {
+        "problem_id": 12282,
+        "problem_name": "XOR-ing the Subarrays!",
+        "problem_link": "https://www.interviewbit.com/problems/xor-ing-the-subarrays/",
+        "problem_score": 200,
+        "time_to_solve": "24:13"
+      }
+    ],
+    "problem_count": 11
+  },
+  "two_pointers": {
+    "problems": [
+      {
+        "problem_id": 11057,
+        "problem_name": "Pair With Given Difference",
+        "problem_link": "https://www.interviewbit.com/problems/pair-with-given-difference/",
+        "problem_score": 200,
+        "time_to_solve": "28:19"
+      },
+      {
+        "problem_id": 165,
+        "problem_name": "3 Sum",
+        "problem_link": "https://www.interviewbit.com/problems/3-sum/",
+        "problem_score": 225,
+        "time_to_solve": "60:04"
+      },
+      {
+        "problem_id": 170,
+        "problem_name": "3 Sum Zero",
+        "problem_link": "https://www.interviewbit.com/problems/3-sum-zero/",
+        "problem_score": 225,
+        "time_to_solve": "53:25"
+      },
+      {
+        "problem_id": 360,
+        "problem_name": "Counting Triangles",
+        "problem_link": "https://www.interviewbit.com/problems/counting-triangles/",
+        "problem_score": 225,
+        "time_to_solve": "62:29"
+      },
+      {
+        "problem_id": 162,
+        "problem_name": "Diffk",
+        "problem_link": "https://www.interviewbit.com/problems/diffk/",
+        "problem_score": 300,
+        "time_to_solve": "29:26"
+      },
+      {
+        "problem_id": 11644,
+        "problem_name": "Maximum Ones After Modification",
+        "problem_link": "https://www.interviewbit.com/problems/maximum-ones-after-modification/",
+        "problem_score": 200,
+        "time_to_solve": "32:56"
+      },
+      {
+        "problem_id": 273,
+        "problem_name": "Max Continuous Series of 1s",
+        "problem_link": "https://www.interviewbit.com/problems/max-continuous-series-of-1s/",
+        "problem_score": 300,
+        "time_to_solve": "77:05"
+      },
+      {
+        "problem_id": 168,
+        "problem_name": "Array 3 Pointers",
+        "problem_link": "https://www.interviewbit.com/problems/array-3-pointers/",
+        "problem_score": 400,
+        "time_to_solve": "52:56"
+      },
+      {
+        "problem_id": 169,
+        "problem_name": "Container With Most Water",
+        "problem_link": "https://www.interviewbit.com/problems/container-with-most-water/",
+        "problem_score": 400,
+        "time_to_solve": "48:10"
+      },
+      {
+        "problem_id": 164,
+        "problem_name": "Merge Two Sorted Lists II",
+        "problem_link": "https://www.interviewbit.com/problems/merge-two-sorted-lists-ii/",
+        "problem_score": 200,
+        "time_to_solve": "25:38"
+      },
+      {
+        "problem_id": 163,
+        "problem_name": "Intersection Of Sorted Arrays",
+        "problem_link": "https://www.interviewbit.com/problems/intersection-of-sorted-arrays/",
+        "problem_score": 225,
+        "time_to_solve": "18:20"
+      },
+      {
+        "problem_id": 166,
+        "problem_name": "Remove Duplicates from Sorted Array",
+        "problem_link": "https://www.interviewbit.com/problems/remove-duplicates-from-sorted-array/",
+        "problem_score": 250,
+        "time_to_solve": "31:38"
+      },
+      {
+        "problem_id": 171,
+        "problem_name": "Remove Duplicates from Sorted Array II",
+        "problem_link": "https://www.interviewbit.com/problems/remove-duplicates-from-sorted-array-ii/",
+        "problem_score": 250,
+        "time_to_solve": "33:15"
+      },
+      {
+        "problem_id": 172,
+        "problem_name": "Remove Element from Array",
+        "problem_link": "https://www.interviewbit.com/problems/remove-element-from-array/",
+        "problem_score": 250,
+        "time_to_solve": "28:26"
+      },
+      {
+        "problem_id": 167,
+        "problem_name": "Sort by Color",
+        "problem_link": "https://www.interviewbit.com/problems/sort-by-color/",
+        "problem_score": 325,
+        "time_to_solve": "23:10"
+      },
+      {
+        "problem_id": 12280,
+        "problem_name": "Counting Subarrays!",
+        "problem_link": "https://www.interviewbit.com/problems/counting-subarrays/",
+        "problem_score": 200,
+        "time_to_solve": "32:21"
+      },
+      {
+        "problem_id": 12291,
+        "problem_name": "Subarrays with distinct integers!",
+        "problem_link": "https://www.interviewbit.com/problems/subarrays-with-distinct-integers/",
+        "problem_score": 250,
+        "time_to_solve": "50:21"
+      }
+    ],
+    "problem_count": 17
+  },
+  "linked_lists": {
+    "problems": [
+      {
+        "problem_id": 11060,
+        "problem_name": "Sort Binary Linked List",
+        "problem_link": "https://www.interviewbit.com/problems/sort-binary-linked-list/",
+        "problem_score": 200,
+        "time_to_solve": "23:42"
+      },
+      {
+        "problem_id": 41,
+        "problem_name": "Partition List",
+        "problem_link": "https://www.interviewbit.com/problems/partition-list/",
+        "problem_score": 275,
+        "time_to_solve": "49:18"
+      },
+      {
+        "problem_id": 42,
+        "problem_name": "Insertion Sort List",
+        "problem_link": "https://www.interviewbit.com/problems/insertion-sort-list/",
+        "problem_score": 300,
+        "time_to_solve": "48:02"
+      },
+      {
+        "problem_id": 34,
+        "problem_name": "Sort List",
+        "problem_link": "https://www.interviewbit.com/problems/sort-list/",
+        "problem_score": 350,
+        "time_to_solve": "57:20"
+      },
+      {
+        "problem_id": 331,
+        "problem_name": "Palindrome List",
+        "problem_link": "https://www.interviewbit.com/problems/palindrome-list/",
+        "problem_score": 200,
+        "time_to_solve": "47:06"
+      },
+      {
+        "problem_id": 37,
+        "problem_name": "Remove Duplicates from Sorted List",
+        "problem_link": "https://www.interviewbit.com/problems/remove-duplicates-from-sorted-list/",
+        "problem_score": 300,
+        "time_to_solve": "17:58"
+      },
+      {
+        "problem_id": 35,
+        "problem_name": "Remove Duplicates from Sorted List II",
+        "problem_link": "https://www.interviewbit.com/problems/remove-duplicates-from-sorted-list-ii/",
+        "problem_score": 300,
+        "time_to_solve": "57:51"
+      },
+      {
+        "problem_id": 36,
+        "problem_name": "Merge Two Sorted Lists",
+        "problem_link": "https://www.interviewbit.com/problems/merge-two-sorted-lists/",
+        "problem_score": 300,
+        "time_to_solve": "29:11"
+      },
+      {
+        "problem_id": 39,
+        "problem_name": "Remove Nth Node from List End",
+        "problem_link": "https://www.interviewbit.com/problems/remove-nth-node-from-list-end/",
+        "problem_score": 350,
+        "time_to_solve": "27:38"
+      },
+      {
+        "problem_id": 380,
+        "problem_name": "K reverse linked list",
+        "problem_link": "https://www.interviewbit.com/problems/k-reverse-linked-list/",
+        "problem_score": 200,
+        "time_to_solve": "59:50"
+      },
+      {
+        "problem_id": 11979,
+        "problem_name": "Even Reverse",
+        "problem_link": "https://www.interviewbit.com/problems/even-reverse/",
+        "problem_score": 200,
+        "time_to_solve": "29:39"
+      },
+      {
+        "problem_id": 31,
+        "problem_name": "Swap List Nodes in pairs",
+        "problem_link": "https://www.interviewbit.com/problems/swap-list-nodes-in-pairs/",
+        "problem_score": 350,
+        "time_to_solve": "33:34"
+      },
+      {
+        "problem_id": 32,
+        "problem_name": "Rotate List",
+        "problem_link": "https://www.interviewbit.com/problems/rotate-list/",
+        "problem_score": 350,
+        "time_to_solve": "33:51"
+      },
+      {
+        "problem_id": 11056,
+        "problem_name": "Kth Node From Middle",
+        "problem_link": "https://www.interviewbit.com/problems/kth-node-from-middle/",
+        "problem_score": 200,
+        "time_to_solve": "24:24"
+      },
+      {
+        "problem_id": 11055,
+        "problem_name": "Reverse Alternate K Nodes",
+        "problem_link": "https://www.interviewbit.com/problems/reverse-alternate-k-nodes/",
+        "problem_score": 300,
+        "time_to_solve": "34:59"
+      },
+      {
+        "problem_id": 45,
+        "problem_name": "Reverse Link List II",
+        "problem_link": "https://www.interviewbit.com/problems/reverse-link-list-ii/",
+        "problem_score": 450,
+        "time_to_solve": "57:24"
+      },
+      {
+        "problem_id": 33,
+        "problem_name": "Reorder List",
+        "problem_link": "https://www.interviewbit.com/problems/reorder-list/",
+        "problem_score": 600,
+        "time_to_solve": "57:04"
+      },
+      {
+        "problem_id": 38,
+        "problem_name": "Add Two Numbers as Lists",
+        "problem_link": "https://www.interviewbit.com/problems/add-two-numbers-as-lists/",
+        "problem_score": 250,
+        "time_to_solve": "43:07"
+      },
+      {
+        "problem_id": 43,
+        "problem_name": "List Cycle",
+        "problem_link": "https://www.interviewbit.com/problems/list-cycle/",
+        "problem_score": 600,
+        "time_to_solve": "39:15"
+      }
+    ],
+    "problem_count": 19
+  },
+  "stacks_and_queues": {
+    "problems": [
+      {
+        "problem_id": 11654,
+        "problem_name": "Balanced Parantheses!",
+        "problem_link": "https://www.interviewbit.com/problems/balanced-parantheses/",
+        "problem_score": 200,
+        "time_to_solve": "13:35"
+      },
+      {
+        "problem_id": 51,
+        "problem_name": "Simplify Directory Path",
+        "problem_link": "https://www.interviewbit.com/problems/simplify-directory-path/",
+        "problem_score": 250,
+        "time_to_solve": "53:39"
+      },
+      {
+        "problem_id": 274,
+        "problem_name": "Redundant Braces",
+        "problem_link": "https://www.interviewbit.com/problems/redundant-braces/",
+        "problem_score": 300,
+        "time_to_solve": "42:41"
+      },
+      {
+        "problem_id": 52,
+        "problem_name": "Min Stack",
+        "problem_link": "https://www.interviewbit.com/problems/min-stack/",
+        "problem_score": 400,
+        "time_to_solve": "43:29"
+      },
+      {
+        "problem_id": 591,
+        "problem_name": "MAXSPPROD",
+        "problem_link": "https://www.interviewbit.com/problems/maxspprod/",
+        "problem_score": 200,
+        "time_to_solve": "87:21"
+      },
+      {
+        "problem_id": 332,
+        "problem_name": "Nearest Smaller Element",
+        "problem_link": "https://www.interviewbit.com/problems/nearest-smaller-element/",
+        "problem_score": 350,
+        "time_to_solve": "41:37"
+      },
+      {
+        "problem_id": 49,
+        "problem_name": "Largest Rectangle in Histogram",
+        "problem_link": "https://www.interviewbit.com/problems/largest-rectangle-in-histogram/",
+        "problem_score": 450,
+        "time_to_solve": "65:29"
+      },
+      {
+        "problem_id": 4365,
+        "problem_name": "First non-repeating character in a stream of characters",
+        "problem_link": "https://www.interviewbit.com/problems/first-non-repeating-character-in-a-stream-of-characters/",
+        "problem_score": 200,
+        "time_to_solve": "49:39"
+      },
+      {
+        "problem_id": 50,
+        "problem_name": "Sliding Window Maximum",
+        "problem_link": "https://www.interviewbit.com/problems/sliding-window-maximum/",
+        "problem_score": 450,
+        "time_to_solve": "69:02"
+      },
+      {
+        "problem_id": 46,
+        "problem_name": "Evaluate Expression",
+        "problem_link": "https://www.interviewbit.com/problems/evaluate-expression/",
+        "problem_score": 400,
+        "time_to_solve": "32:46"
+      },
+      {
+        "problem_id": 47,
+        "problem_name": "Rain Water Trapped",
+        "problem_link": "https://www.interviewbit.com/problems/rain-water-trapped/",
+        "problem_score": 400,
+        "time_to_solve": "59:00"
+      }
+    ],
+    "problem_count": 11
+  },
+  "backtracking": {
+    "problems": [
+      {
+        "problem_id": 11984,
+        "problem_name": "Maximal String",
+        "problem_link": "https://www.interviewbit.com/problems/maximal-string/",
+        "problem_score": 200,
+        "time_to_solve": "46:35"
+      },
+      {
+        "problem_id": 145,
+        "problem_name": "Gray Code",
+        "problem_link": "https://www.interviewbit.com/problems/gray-code/",
+        "problem_score": 350,
+        "time_to_solve": "57:12"
+      },
+      {
+        "problem_id": 135,
+        "problem_name": "Kth Permutation Sequence",
+        "problem_link": "https://www.interviewbit.com/problems/kth-permutation-sequence/",
+        "problem_score": 350,
+        "time_to_solve": "71:53"
+      },
+      {
+        "problem_id": 148,
+        "problem_name": "Subset",
+        "problem_link": "https://www.interviewbit.com/problems/subset/",
+        "problem_score": 250,
+        "time_to_solve": "61:54"
+      },
+      {
+        "problem_id": 142,
+        "problem_name": "Combinations",
+        "problem_link": "https://www.interviewbit.com/problems/combinations/",
+        "problem_score": 300,
+        "time_to_solve": "45:48"
+      },
+      {
+        "problem_id": 136,
+        "problem_name": "Combination Sum",
+        "problem_link": "https://www.interviewbit.com/problems/combination-sum/",
+        "problem_score": 300,
+        "time_to_solve": "61:30"
+      },
+      {
+        "problem_id": 140,
+        "problem_name": "Combination Sum II",
+        "problem_link": "https://www.interviewbit.com/problems/combination-sum-ii/",
+        "problem_score": 300,
+        "time_to_solve": "40:51"
+      },
+      {
+        "problem_id": 146,
+        "problem_name": "Subsets II",
+        "problem_link": "https://www.interviewbit.com/problems/subsets-ii/",
+        "problem_score": 300,
+        "time_to_solve": "40:01"
+      },
+      {
+        "problem_id": 147,
+        "problem_name": "Letter Phone",
+        "problem_link": "https://www.interviewbit.com/problems/letter-phone/",
+        "problem_score": 250,
+        "time_to_solve": "53:09"
+      },
+      {
+        "problem_id": 149,
+        "problem_name": "Palindrome Partitioning",
+        "problem_link": "https://www.interviewbit.com/problems/palindrome-partitioning/",
+        "problem_score": 300,
+        "time_to_solve": "66:43"
+      },
+      {
+        "problem_id": 139,
+        "problem_name": "Generate all Parentheses II",
+        "problem_link": "https://www.interviewbit.com/problems/generate-all-parentheses-ii/",
+        "problem_score": 350,
+        "time_to_solve": "51:48"
+      },
+      {
+        "problem_id": 138,
+        "problem_name": "Permutations",
+        "problem_link": "https://www.interviewbit.com/problems/permutations/",
+        "problem_score": 350,
+        "time_to_solve": "39:29"
+      },
+      {
+        "problem_id": 141,
+        "problem_name": "NQueens",
+        "problem_link": "https://www.interviewbit.com/problems/nqueens/",
+        "problem_score": 550,
+        "time_to_solve": "73:11"
+      },
+      {
+        "problem_id": 143,
+        "problem_name": "Sudoku",
+        "problem_link": "https://www.interviewbit.com/problems/sudoku/",
+        "problem_score": 700,
+        "time_to_solve": "66:53"
+      }
+    ],
+    "problem_count": 14
+  },
+  "hashing": {
+    "problems": [
+      {
+        "problem_id": 275,
+        "problem_name": "Colorful Number",
+        "problem_link": "https://www.interviewbit.com/problems/colorful-number/",
+        "problem_score": 150,
+        "time_to_solve": "44:47"
+      },
+      {
+        "problem_id": 298,
+        "problem_name": "Largest Continuous Sequence Zero Sum",
+        "problem_link": "https://www.interviewbit.com/problems/largest-continuous-sequence-zero-sum/",
+        "problem_score": 200,
+        "time_to_solve": "67:02"
+      },
+      {
+        "problem_id": 157,
+        "problem_name": "2 Sum",
+        "problem_link": "https://www.interviewbit.com/problems/2-sum/",
+        "problem_score": 300,
+        "time_to_solve": "49:18"
+      },
+      {
+        "problem_id": 153,
+        "problem_name": "4 Sum",
+        "problem_link": "https://www.interviewbit.com/problems/4-sum/",
+        "problem_score": 325,
+        "time_to_solve": "69:09"
+      },
+      {
+        "problem_id": 158,
+        "problem_name": "Valid Sudoku",
+        "problem_link": "https://www.interviewbit.com/problems/valid-sudoku/",
+        "problem_score": 325,
+        "time_to_solve": "49:03"
+      },
+      {
+        "problem_id": 160,
+        "problem_name": "Diffk II",
+        "problem_link": "https://www.interviewbit.com/problems/diffk-ii/",
+        "problem_score": 375,
+        "time_to_solve": "28:51"
+      },
+      {
+        "problem_id": 11968,
+        "problem_name": "Pairs With Given Xor",
+        "problem_link": "https://www.interviewbit.com/problems/pairs-with-given-xor/",
+        "problem_score": 200,
+        "time_to_solve": "21:50"
+      },
+      {
+        "problem_id": 154,
+        "problem_name": "Anagrams",
+        "problem_link": "https://www.interviewbit.com/problems/anagrams/",
+        "problem_score": 350,
+        "time_to_solve": "46:35"
+      },
+      {
+        "problem_id": 288,
+        "problem_name": "Equal",
+        "problem_link": "https://www.interviewbit.com/problems/equal/",
+        "problem_score": 350,
+        "time_to_solve": "69:43"
+      },
+      {
+        "problem_id": 159,
+        "problem_name": "Copy List",
+        "problem_link": "https://www.interviewbit.com/problems/copy-list/",
+        "problem_score": 450,
+        "time_to_solve": "54:12"
+      },
+      {
+        "problem_id": 11980,
+        "problem_name": "Check Palindrome!",
+        "problem_link": "https://www.interviewbit.com/problems/check-palindrome/",
+        "problem_score": 200,
+        "time_to_solve": "10:23"
+      },
+      {
+        "problem_id": 155,
+        "problem_name": "Fraction",
+        "problem_link": "https://www.interviewbit.com/problems/fraction/",
+        "problem_score": 450,
+        "time_to_solve": "79:14"
+      },
+      {
+        "problem_id": 156,
+        "problem_name": "Points on the Straight Line",
+        "problem_link": "https://www.interviewbit.com/problems/points-on-the-straight-line/",
+        "problem_score": 450,
+        "time_to_solve": "74:39"
+      },
+      {
+        "problem_id": 12037,
+        "problem_name": "Two out of Three",
+        "problem_link": "https://www.interviewbit.com/problems/two-out-of-three/",
+        "problem_score": 200,
+        "time_to_solve": "25:06"
+      },
+      {
+        "problem_id": 12036,
+        "problem_name": "Subarray with given XOR",
+        "problem_link": "https://www.interviewbit.com/problems/subarray-with-given-xor/",
+        "problem_score": 200,
+        "time_to_solve": "32:56"
+      },
+      {
+        "problem_id": 11985,
+        "problem_name": "An Increment Problem",
+        "problem_link": "https://www.interviewbit.com/problems/an-increment-problem/",
+        "problem_score": 200,
+        "time_to_solve": "34:13"
+      },
+      {
+        "problem_id": 150,
+        "problem_name": "Substring Concatenation",
+        "problem_link": "https://www.interviewbit.com/problems/substring-concatenation/",
+        "problem_score": 1000,
+        "time_to_solve": "70:04"
+      },
+      {
+        "problem_id": 12043,
+        "problem_name": "Subarray with B odd numbers",
+        "problem_link": "https://www.interviewbit.com/problems/subarray-with-b-odd-numbers/",
+        "problem_score": 200,
+        "time_to_solve": "35:30"
+      },
+      {
+        "problem_id": 161,
+        "problem_name": "Longest Substring Without Repeat",
+        "problem_link": "https://www.interviewbit.com/problems/longest-substring-without-repeat/",
+        "problem_score": 350,
+        "time_to_solve": "50:46"
+      },
+      {
+        "problem_id": 151,
+        "problem_name": "Window String",
+        "problem_link": "https://www.interviewbit.com/problems/window-string/",
+        "problem_score": 350,
+        "time_to_solve": "77:52"
+      },
+      {
+        "problem_id": 12268,
+        "problem_name": "Subarray with equal occurences!",
+        "problem_link": "https://www.interviewbit.com/problems/subarray-with-equal-occurences/",
+        "problem_score": 200,
+        "time_to_solve": "32:50"
+      },
+      {
+        "problem_id": 12284,
+        "problem_name": "Longest Subarray Length",
+        "problem_link": "https://www.interviewbit.com/problems/longest-subarray-length/",
+        "problem_score": 200,
+        "time_to_solve": "40:13"
+      },
+      {
+        "problem_id": 12286,
+        "problem_name": "First Repeating element",
+        "problem_link": "https://www.interviewbit.com/problems/first-repeating-element/",
+        "problem_score": 200,
+        "time_to_solve": "16:41"
+      }
+    ],
+    "problem_count": 23
+  },
+  "heaps_and_maps": {
+    "problems": [
+      {
+        "problem_id": 417,
+        "problem_name": "N max pair combinations",
+        "problem_link": "https://www.interviewbit.com/problems/n-max-pair-combinations/",
+        "problem_score": 200,
+        "time_to_solve": "75:58"
+      },
+      {
+        "problem_id": 12012,
+        "problem_name": "Profit Maximisation",
+        "problem_link": "https://www.interviewbit.com/problems/profit-maximisation/",
+        "problem_score": 200,
+        "time_to_solve": "15:23"
+      },
+      {
+        "problem_id": 365,
+        "problem_name": "Ways to form Max Heap",
+        "problem_link": "https://www.interviewbit.com/problems/ways-to-form-max-heap/",
+        "problem_score": 200,
+        "time_to_solve": "69:45"
+      },
+      {
+        "problem_id": 11067,
+        "problem_name": "K Largest Elements",
+        "problem_link": "https://www.interviewbit.com/problems/k-largest-elements/",
+        "problem_score": 200,
+        "time_to_solve": "16:25"
+      },
+      {
+        "problem_id": 362,
+        "problem_name": "Magician and Chocolates",
+        "problem_link": "https://www.interviewbit.com/problems/magician-and-chocolates/",
+        "problem_score": 250,
+        "time_to_solve": "41:36"
+      },
+      {
+        "problem_id": 11051,
+        "problem_name": "Maximum Sum Combinations",
+        "problem_link": "https://www.interviewbit.com/problems/maximum-sum-combinations/",
+        "problem_score": 300,
+        "time_to_solve": "33:55"
+      },
+      {
+        "problem_id": 238,
+        "problem_name": "Merge K Sorted Lists",
+        "problem_link": "https://www.interviewbit.com/problems/merge-k-sorted-lists/",
+        "problem_score": 600,
+        "time_to_solve": "43:13"
+      },
+      {
+        "problem_id": 333,
+        "problem_name": "Distinct Numbers in Window",
+        "problem_link": "https://www.interviewbit.com/problems/distinct-numbers-in-window/",
+        "problem_score": 600,
+        "time_to_solve": "38:51"
+      },
+      {
+        "problem_id": 239,
+        "problem_name": "LRU Cache",
+        "problem_link": "https://www.interviewbit.com/problems/lru-cache/",
+        "problem_score": 1000,
+        "time_to_solve": "72:54"
+      },
+      {
+        "problem_id": 12277,
+        "problem_name": "Merge K sorted arrays!",
+        "problem_link": "https://www.interviewbit.com/problems/merge-k-sorted-arrays/",
+        "problem_score": 200,
+        "time_to_solve": "19:43"
+      }
+    ],
+    "problem_count": 10
+  },
+  "tree_data_structure": {
+    "problems": [
+      {
+        "problem_id": 5822,
+        "problem_name": "Valid BST from Preorder",
+        "problem_link": "https://www.interviewbit.com/problems/valid-bst-from-preorder/",
+        "problem_score": 100,
+        "time_to_solve": "47:04"
+      },
+      {
+        "problem_id": 335,
+        "problem_name": "Kth Smallest Element In Tree",
+        "problem_link": "https://www.interviewbit.com/problems/kth-smallest-element-in-tree/",
+        "problem_score": 300,
+        "time_to_solve": "29:16"
+      },
+      {
+        "problem_id": 336,
+        "problem_name": "2-Sum Binary Tree",
+        "problem_link": "https://www.interviewbit.com/problems/2sum-binary-tree/",
+        "problem_score": 400,
+        "time_to_solve": "62:41"
+      },
+      {
+        "problem_id": 232,
+        "problem_name": "BST Iterator",
+        "problem_link": "https://www.interviewbit.com/problems/bst-iterator/",
+        "problem_score": 500,
+        "time_to_solve": "40:30"
+      },
+      {
+        "problem_id": 216,
+        "problem_name": "Recover Binary Search Tree",
+        "problem_link": "https://www.interviewbit.com/problems/recover-binary-search-tree/",
+        "problem_score": 750,
+        "time_to_solve": "62:15"
+      },
+      {
+        "problem_id": 11636,
+        "problem_name": "Remove Half Nodes",
+        "problem_link": "https://www.interviewbit.com/problems/remove-half-nodes/",
+        "problem_score": 200,
+        "time_to_solve": "39:16"
+      },
+      {
+        "problem_id": 11058,
+        "problem_name": "Path to Given Node",
+        "problem_link": "https://www.interviewbit.com/problems/path-to-given-node/",
+        "problem_score": 200,
+        "time_to_solve": "33:48"
+      },
+      {
+        "problem_id": 225,
+        "problem_name": "Balanced Binary Tree",
+        "problem_link": "https://www.interviewbit.com/problems/balanced-binary-tree/",
+        "problem_score": 275,
+        "time_to_solve": "30:19"
+      },
+      {
+        "problem_id": 11642,
+        "problem_name": "Merge two Binary Tree",
+        "problem_link": "https://www.interviewbit.com/problems/merge-two-binary-tree/",
+        "problem_score": 200,
+        "time_to_solve": "23:46"
+      },
+      {
+        "problem_id": 231,
+        "problem_name": "Identical Binary Trees",
+        "problem_link": "https://www.interviewbit.com/problems/identical-binary-trees/",
+        "problem_score": 300,
+        "time_to_solve": "11:36"
+      },
+      {
+        "problem_id": 228,
+        "problem_name": "Symmetric Binary Tree",
+        "problem_link": "https://www.interviewbit.com/problems/symmetric-binary-tree/",
+        "problem_score": 300,
+        "time_to_solve": "21:58"
+      },
+      {
+        "problem_id": 378,
+        "problem_name": "Vertical Order traversal of Binary Tree",
+        "problem_link": "https://www.interviewbit.com/problems/vertical-order-traversal-of-binary-tree/",
+        "problem_score": 200,
+        "time_to_solve": "71:18"
+      },
+      {
+        "problem_id": 11050,
+        "problem_name": "Diagonal Traversal",
+        "problem_link": "https://www.interviewbit.com/problems/diagonal-traversal/",
+        "problem_score": 200,
+        "time_to_solve": "40:01"
+      },
+      {
+        "problem_id": 214,
+        "problem_name": "Inorder Traversal",
+        "problem_link": "https://www.interviewbit.com/problems/inorder-traversal/",
+        "problem_score": 350,
+        "time_to_solve": "32:00"
+      },
+      {
+        "problem_id": 229,
+        "problem_name": "Postorder Traversal",
+        "problem_link": "https://www.interviewbit.com/problems/postorder-traversal/",
+        "problem_score": 350,
+        "time_to_solve": "31:25"
+      },
+      {
+        "problem_id": 222,
+        "problem_name": "Preorder Traversal",
+        "problem_link": "https://www.interviewbit.com/problems/preorder-traversal/",
+        "problem_score": 350,
+        "time_to_solve": "15:26"
+      },
+      {
+        "problem_id": 11054,
+        "problem_name": "Cousins in Binary Tree",
+        "problem_link": "https://www.interviewbit.com/problems/cousins-in-binary-tree/",
+        "problem_score": 200,
+        "time_to_solve": "48:08"
+      },
+      {
+        "problem_id": 5714,
+        "problem_name": "Right view of Binary tree",
+        "problem_link": "https://www.interviewbit.com/problems/right-view-of-binary-tree/",
+        "problem_score": 200,
+        "time_to_solve": "26:14"
+      },
+      {
+        "problem_id": 12058,
+        "problem_name": "Reverse Level Order",
+        "problem_link": "https://www.interviewbit.com/problems/reverse-level-order/",
+        "problem_score": 249,
+        "time_to_solve": "19:40"
+      },
+      {
+        "problem_id": 233,
+        "problem_name": "ZigZag Level Order Traversal BT",
+        "problem_link": "https://www.interviewbit.com/problems/zigzag-level-order-traversal-bt/",
+        "problem_score": 350,
+        "time_to_solve": "42:04"
+      },
+      {
+        "problem_id": 230,
+        "problem_name": "Populate Next Right Pointers Tree",
+        "problem_link": "https://www.interviewbit.com/problems/populate-next-right-pointers-tree/",
+        "problem_score": 900,
+        "time_to_solve": "50:06"
+      },
+      {
+        "problem_id": 422,
+        "problem_name": "Hotel Reviews",
+        "problem_link": "https://www.interviewbit.com/problems/hotel-reviews/",
+        "problem_score": 200,
+        "time_to_solve": "71:50"
+      },
+      {
+        "problem_id": 277,
+        "problem_name": "Shortest Unique Prefix",
+        "problem_link": "https://www.interviewbit.com/problems/shortest-unique-prefix/",
+        "problem_score": 350,
+        "time_to_solve": "67:47"
+      },
+      {
+        "problem_id": 217,
+        "problem_name": "Inorder Traversal of Cartesian Tree",
+        "problem_link": "https://www.interviewbit.com/problems/inorder-traversal-of-cartesian-tree/",
+        "problem_score": 300,
+        "time_to_solve": "49:44"
+      },
+      {
+        "problem_id": 226,
+        "problem_name": "Sorted Array To Balanced BST",
+        "problem_link": "https://www.interviewbit.com/problems/sorted-array-to-balanced-bst/",
+        "problem_score": 300,
+        "time_to_solve": "28:25"
+      },
+      {
+        "problem_id": 224,
+        "problem_name": "Binary Tree From Inorder And Postorder",
+        "problem_link": "https://www.interviewbit.com/problems/binary-tree-from-inorder-and-postorder/",
+        "problem_score": 375,
+        "time_to_solve": "49:41"
+      },
+      {
+        "problem_id": 219,
+        "problem_name": "Construct Binary Tree From Inorder And Preorder",
+        "problem_link": "https://www.interviewbit.com/problems/construct-binary-tree-from-inorder-and-preorder/",
+        "problem_score": 375,
+        "time_to_solve": "44:56"
+      },
+      {
+        "problem_id": 334,
+        "problem_name": "Invert the Binary Tree",
+        "problem_link": "https://www.interviewbit.com/problems/invert-the-binary-tree/",
+        "problem_score": 300,
+        "time_to_solve": "12:46"
+      },
+      {
+        "problem_id": 234,
+        "problem_name": "Path Sum",
+        "problem_link": "https://www.interviewbit.com/problems/path-sum/",
+        "problem_score": 350,
+        "time_to_solve": "27:34"
+      },
+      {
+        "problem_id": 237,
+        "problem_name": "Root to Leaf Paths With Sum",
+        "problem_link": "https://www.interviewbit.com/problems/root-to-leaf-paths-with-sum/",
+        "problem_score": 350,
+        "time_to_solve": "41:03"
+      },
+      {
+        "problem_id": 223,
+        "problem_name": "Max Depth of Binary Tree",
+        "problem_link": "https://www.interviewbit.com/problems/max-depth-of-binary-tree/",
+        "problem_score": 350,
+        "time_to_solve": "6:57"
+      },
+      {
+        "problem_id": 236,
+        "problem_name": "Min Depth of Binary Tree",
+        "problem_link": "https://www.interviewbit.com/problems/min-depth-of-binary-tree/",
+        "problem_score": 350,
+        "time_to_solve": "17:20"
+      },
+      {
+        "problem_id": 227,
+        "problem_name": "Sum Root to Leaf Numbers",
+        "problem_link": "https://www.interviewbit.com/problems/sum-root-to-leaf-numbers/",
+        "problem_score": 350,
+        "time_to_solve": "44:55"
+      },
+      {
+        "problem_id": 218,
+        "problem_name": "Least Common Ancestor",
+        "problem_link": "https://www.interviewbit.com/problems/least-common-ancestor/",
+        "problem_score": 450,
+        "time_to_solve": "57:32"
+      },
+      {
+        "problem_id": 220,
+        "problem_name": "Flatten Binary Tree to Linked List",
+        "problem_link": "https://www.interviewbit.com/problems/flatten-binary-tree-to-linked-list/",
+        "problem_score": 500,
+        "time_to_solve": "43:03"
+      },
+      {
+        "problem_id": 276,
+        "problem_name": "Order of People Heights",
+        "problem_link": "https://www.interviewbit.com/problems/order-of-people-heights/",
+        "problem_score": 700,
+        "time_to_solve": "72:27"
+      },
+      {
+        "problem_id": 12259,
+        "problem_name": "Maximum Edge Removal",
+        "problem_link": "https://www.interviewbit.com/problems/maximum-edge-removal/",
+        "problem_score": 300,
+        "time_to_solve": "40:09"
+      },
+      {
+        "problem_id": 12270,
+        "problem_name": "Maximum level sum",
+        "problem_link": "https://www.interviewbit.com/problems/maximum-level-sum/",
+        "problem_score": 200,
+        "time_to_solve": "16:20"
+      },
+      {
+        "problem_id": 12294,
+        "problem_name": "Xor Between Two Arrays!",
+        "problem_link": "https://www.interviewbit.com/problems/xor-between-two-arrays/",
+        "problem_score": 150,
+        "time_to_solve": "47:01"
+      },
+      {
+        "problem_id": 12300,
+        "problem_name": "Burn a Tree",
+        "problem_link": "https://www.interviewbit.com/problems/burn-a-tree/",
+        "problem_score": 200,
+        "time_to_solve": "51:23"
+      }
+    ],
+    "problem_count": 40
+  },
+  "dynamic_programming": {
+    "problems": [
+      {
+        "problem_id": 4438,
+        "problem_name": "Longest Common Subsequence",
+        "problem_link": "https://www.interviewbit.com/problems/longest-common-subsequence/",
+        "problem_score": 200,
+        "time_to_solve": "37:00"
+      },
+      {
+        "problem_id": 4441,
+        "problem_name": "Longest Palindromic Subsequence",
+        "problem_link": "https://www.interviewbit.com/problems/longest-palindromic-subsequence/",
+        "problem_score": 200,
+        "time_to_solve": "35:46"
+      },
+      {
+        "problem_id": 21,
+        "problem_name": "Edit Distance",
+        "problem_link": "https://www.interviewbit.com/problems/edit-distance/",
+        "problem_score": 300,
+        "time_to_solve": "46:35"
+      },
+      {
+        "problem_id": 279,
+        "problem_name": "Repeating Sub-Sequence",
+        "problem_link": "https://www.interviewbit.com/problems/repeating-subsequence/",
+        "problem_score": 300,
+        "time_to_solve": "62:35"
+      },
+      {
+        "problem_id": 7,
+        "problem_name": "Distinct Subsequences",
+        "problem_link": "https://www.interviewbit.com/problems/distinct-subsequences/",
+        "problem_score": 325,
+        "time_to_solve": "62:27"
+      },
+      {
+        "problem_id": 27,
+        "problem_name": "Interleaving Strings",
+        "problem_link": "https://www.interviewbit.com/problems/interleaving-strings/",
+        "problem_score": 500,
+        "time_to_solve": "59:26"
+      },
+      {
+        "problem_id": 16,
+        "problem_name": "Regular Expression Match",
+        "problem_link": "https://www.interviewbit.com/problems/regular-expression-match/",
+        "problem_score": 500,
+        "time_to_solve": "69:19"
+      },
+      {
+        "problem_id": 24,
+        "problem_name": "Regular Expression II",
+        "problem_link": "https://www.interviewbit.com/problems/regular-expression-ii/",
+        "problem_score": 500,
+        "time_to_solve": "61:00"
+      },
+      {
+        "problem_id": 13,
+        "problem_name": "Scramble String",
+        "problem_link": "https://www.interviewbit.com/problems/scramble-string/",
+        "problem_score": 500,
+        "time_to_solve": "58:08"
+      },
+      {
+        "problem_id": 370,
+        "problem_name": "Length of Longest Subsequence",
+        "problem_link": "https://www.interviewbit.com/problems/length-of-longest-subsequence/",
+        "problem_score": 200,
+        "time_to_solve": "64:43"
+      },
+      {
+        "problem_id": 420,
+        "problem_name": "Largest area of rectangle with permutations",
+        "problem_link": "https://www.interviewbit.com/problems/largest-area-of-rectangle-with-permutations/",
+        "problem_score": 200,
+        "time_to_solve": "71:22"
+      },
+      {
+        "problem_id": 375,
+        "problem_name": "Smallest sequence with given Primes",
+        "problem_link": "https://www.interviewbit.com/problems/smallest-sequence-with-given-primes/",
+        "problem_score": 200,
+        "time_to_solve": "63:00"
+      },
+      {
+        "problem_id": 12044,
+        "problem_name": "Tiling With Dominoes",
+        "problem_link": "https://www.interviewbit.com/problems/tiling-with-dominoes/",
+        "problem_score": 200,
+        "time_to_solve": "51:38"
+      },
+      {
+        "problem_id": 10,
+        "problem_name": "Ways to Decode",
+        "problem_link": "https://www.interviewbit.com/problems/ways-to-decode/",
+        "problem_score": 225,
+        "time_to_solve": "69:22"
+      },
+      {
+        "problem_id": 30,
+        "problem_name": "Stairs",
+        "problem_link": "https://www.interviewbit.com/problems/stairs/",
+        "problem_score": 225,
+        "time_to_solve": "15:14"
+      },
+      {
+        "problem_id": 339,
+        "problem_name": "Intersecting Chords in a Circle",
+        "problem_link": "https://www.interviewbit.com/problems/intersecting-chords-in-a-circle/",
+        "problem_score": 300,
+        "time_to_solve": "66:36"
+      },
+      {
+        "problem_id": 4,
+        "problem_name": "Longest Increasing Subsequence",
+        "problem_link": "https://www.interviewbit.com/problems/longest-increasing-subsequence/",
+        "problem_score": 300,
+        "time_to_solve": "30:35"
+      },
+      {
+        "problem_id": 384,
+        "problem_name": "Tushar's Birthday Bombs",
+        "problem_link": "https://www.interviewbit.com/problems/tushars-birthday-bombs/",
+        "problem_score": 200,
+        "time_to_solve": "72:44"
+      },
+      {
+        "problem_id": 26,
+        "problem_name": "Jump Game Array",
+        "problem_link": "https://www.interviewbit.com/problems/jump-game-array/",
+        "problem_score": 225,
+        "time_to_solve": "40:55"
+      },
+      {
+        "problem_id": 20,
+        "problem_name": "Min Jumps Array",
+        "problem_link": "https://www.interviewbit.com/problems/min-jumps-array/",
+        "problem_score": 300,
+        "time_to_solve": "69:43"
+      },
+      {
+        "problem_id": 364,
+        "problem_name": "Longest Arithmetic Progression",
+        "problem_link": "https://www.interviewbit.com/problems/longest-arithmetic-progression/",
+        "problem_score": 200,
+        "time_to_solve": "70:32"
+      },
+      {
+        "problem_id": 368,
+        "problem_name": "N digit numbers with digit sum S",
+        "problem_link": "https://www.interviewbit.com/problems/n-digit-numbers-with-digit-sum-s-/",
+        "problem_score": 200,
+        "time_to_solve": "69:42"
+      },
+      {
+        "problem_id": 381,
+        "problem_name": "Ways to color a 3xN Board",
+        "problem_link": "https://www.interviewbit.com/problems/ways-to-color-a-3xn-board/",
+        "problem_score": 200,
+        "time_to_solve": "57:34"
+      },
+      {
+        "problem_id": 371,
+        "problem_name": "Shortest common superstring",
+        "problem_link": "https://www.interviewbit.com/problems/shortest-common-superstring/",
+        "problem_score": 200,
+        "time_to_solve": "64:27"
+      },
+      {
+        "problem_id": 416,
+        "problem_name": "Kth Manhattan Distance Neighbourhood",
+        "problem_link": "https://www.interviewbit.com/problems/kth-manhattan-distance-neighbourhood/",
+        "problem_score": 200,
+        "time_to_solve": "58:34"
+      },
+      {
+        "problem_id": 4767,
+        "problem_name": "Best Time to Buy and Sell Stock atmost B times",
+        "problem_link": "https://www.interviewbit.com/problems/best-time-to-buy-and-sell-stock-atmost-b-times/",
+        "problem_score": 200,
+        "time_to_solve": "58:30"
+      },
+      {
+        "problem_id": 281,
+        "problem_name": "Coins in a Line",
+        "problem_link": "https://www.interviewbit.com/problems/coins-in-a-line/",
+        "problem_score": 300,
+        "time_to_solve": "60:47"
+      },
+      {
+        "problem_id": 280,
+        "problem_name": "Evaluate Expression To True",
+        "problem_link": "https://www.interviewbit.com/problems/evaluate-expression-to-true/",
+        "problem_score": 350,
+        "time_to_solve": "64:21"
+      },
+      {
+        "problem_id": 29,
+        "problem_name": "Longest valid Parentheses",
+        "problem_link": "https://www.interviewbit.com/problems/longest-valid-parentheses/",
+        "problem_score": 700,
+        "time_to_solve": "57:59"
+      },
+      {
+        "problem_id": 12,
+        "problem_name": "Best Time to Buy and Sell Stocks III",
+        "problem_link": "https://www.interviewbit.com/problems/best-time-to-buy-and-sell-stocks-iii/",
+        "problem_score": 700,
+        "time_to_solve": "60:04"
+      },
+      {
+        "problem_id": 424,
+        "problem_name": "Kingdom War",
+        "problem_link": "https://www.interviewbit.com/problems/kingdom-war/",
+        "problem_score": 200,
+        "time_to_solve": "51:51"
+      },
+      {
+        "problem_id": 12161,
+        "problem_name": "Increasing Path in Matrix",
+        "problem_link": "https://www.interviewbit.com/problems/increasing-path-in-matrix/",
+        "problem_score": 200,
+        "time_to_solve": "33:32"
+      },
+      {
+        "problem_id": 11971,
+        "problem_name": "Maximum Size Square Sub-matrix",
+        "problem_link": "https://www.interviewbit.com/problems/maximum-size-square-sub-matrix/",
+        "problem_score": 200,
+        "time_to_solve": "30:28"
+      },
+      {
+        "problem_id": 11052,
+        "problem_name": "Maximum Path in Triangle",
+        "problem_link": "https://www.interviewbit.com/problems/maximum-path-in-triangle/",
+        "problem_score": 200,
+        "time_to_solve": "25:30"
+      },
+      {
+        "problem_id": 19,
+        "problem_name": "Min Sum Path in Matrix",
+        "problem_link": "https://www.interviewbit.com/problems/min-sum-path-in-matrix/",
+        "problem_score": 300,
+        "time_to_solve": "30:06"
+      },
+      {
+        "problem_id": 17,
+        "problem_name": "Dungeon Princess",
+        "problem_link": "https://www.interviewbit.com/problems/dungeon-princess/",
+        "problem_score": 300,
+        "time_to_solve": "64:38"
+      },
+      {
+        "problem_id": 25,
+        "problem_name": "Min Sum Path in Triangle",
+        "problem_link": "https://www.interviewbit.com/problems/min-sum-path-in-triangle/",
+        "problem_score": 300,
+        "time_to_solve": "41:45"
+      },
+      {
+        "problem_id": 8,
+        "problem_name": "Unique Paths in a Grid",
+        "problem_link": "https://www.interviewbit.com/problems/unique-paths-in-a-grid/",
+        "problem_score": 300,
+        "time_to_solve": "33:00"
+      },
+      {
+        "problem_id": 6,
+        "problem_name": "Max Rectangle in Binary Matrix",
+        "problem_link": "https://www.interviewbit.com/problems/max-rectangle-in-binary-matrix/",
+        "problem_score": 350,
+        "time_to_solve": "75:07"
+      },
+      {
+        "problem_id": 337,
+        "problem_name": "Rod Cutting",
+        "problem_link": "https://www.interviewbit.com/problems/rod-cutting/",
+        "problem_score": 350,
+        "time_to_solve": "70:27"
+      },
+      {
+        "problem_id": 361,
+        "problem_name": "Queen Attack",
+        "problem_link": "https://www.interviewbit.com/problems/queen-attack/",
+        "problem_score": 350,
+        "time_to_solve": "64:53"
+      },
+      {
+        "problem_id": 367,
+        "problem_name": "Sub Matrices with sum Zero",
+        "problem_link": "https://www.interviewbit.com/problems/sub-matrices-with-sum-zero/",
+        "problem_score": 200,
+        "time_to_solve": "67:12"
+      },
+      {
+        "problem_id": 319,
+        "problem_name": "Coin Sum Infinite",
+        "problem_link": "https://www.interviewbit.com/problems/coin-sum-infinite/",
+        "problem_score": 225,
+        "time_to_solve": "62:15"
+      },
+      {
+        "problem_id": 14,
+        "problem_name": "Best Time to Buy and Sell Stocks I",
+        "problem_link": "https://www.interviewbit.com/problems/best-time-to-buy-and-sell-stocks-i/",
+        "problem_score": 300,
+        "time_to_solve": "27:45"
+      },
+      {
+        "problem_id": 9,
+        "problem_name": "Max Product Subarray",
+        "problem_link": "https://www.interviewbit.com/problems/max-product-subarray/",
+        "problem_score": 300,
+        "time_to_solve": "63:00"
+      },
+      {
+        "problem_id": 299,
+        "problem_name": "Arrange II",
+        "problem_link": "https://www.interviewbit.com/problems/arrange-ii/",
+        "problem_score": 350,
+        "time_to_solve": "66:41"
+      },
+      {
+        "problem_id": 11641,
+        "problem_name": "Chain of Pairs",
+        "problem_link": "https://www.interviewbit.com/problems/chain-of-pairs/",
+        "problem_score": 200,
+        "time_to_solve": "28:03"
+      },
+      {
+        "problem_id": 278,
+        "problem_name": "Max Sum Without Adjacent Elements",
+        "problem_link": "https://www.interviewbit.com/problems/max-sum-without-adjacent-elements/",
+        "problem_score": 225,
+        "time_to_solve": "56:48"
+      },
+      {
+        "problem_id": 385,
+        "problem_name": "Tushar's Birthday Party",
+        "problem_link": "https://www.interviewbit.com/problems/tushars-birthday-party/",
+        "problem_score": 200,
+        "time_to_solve": "64:00"
+      },
+      {
+        "problem_id": 373,
+        "problem_name": "Flip Array",
+        "problem_link": "https://www.interviewbit.com/problems/flip-array/",
+        "problem_score": 200,
+        "time_to_solve": "70:43"
+      },
+      {
+        "problem_id": 11640,
+        "problem_name": "0-1 Knapsack",
+        "problem_link": "https://www.interviewbit.com/problems/0-1-knapsack/",
+        "problem_score": 200,
+        "time_to_solve": "37:10"
+      },
+      {
+        "problem_id": 300,
+        "problem_name": "Equal Average Partition",
+        "problem_link": "https://www.interviewbit.com/problems/equal-average-partition/",
+        "problem_score": 350,
+        "time_to_solve": "76:11"
+      },
+      {
+        "problem_id": 11,
+        "problem_name": "Best Time to Buy and Sell Stocks II",
+        "problem_link": "https://www.interviewbit.com/problems/best-time-to-buy-and-sell-stocks-ii/",
+        "problem_score": 225,
+        "time_to_solve": "39:43"
+      },
+      {
+        "problem_id": 28,
+        "problem_name": "Word Break II",
+        "problem_link": "https://www.interviewbit.com/problems/word-break-ii/",
+        "problem_score": 350,
+        "time_to_solve": "62:51"
+      },
+      {
+        "problem_id": 15,
+        "problem_name": "Max Sum Path in Binary Tree",
+        "problem_link": "https://www.interviewbit.com/problems/max-sum-path-in-binary-tree/",
+        "problem_score": 400,
+        "time_to_solve": "53:31"
+      },
+      {
+        "problem_id": 22,
+        "problem_name": "Unique Binary Search Trees II",
+        "problem_link": "https://www.interviewbit.com/problems/unique-binary-search-trees-ii/",
+        "problem_score": 400,
+        "time_to_solve": "34:22"
+      },
+      {
+        "problem_id": 340,
+        "problem_name": "Count Permutations of BST",
+        "problem_link": "https://www.interviewbit.com/problems/count-permutations-of-bst/",
+        "problem_score": 400,
+        "time_to_solve": "66:54"
+      },
+      {
+        "problem_id": 23,
+        "problem_name": "Word Break",
+        "problem_link": "https://www.interviewbit.com/problems/word-break/",
+        "problem_score": 400,
+        "time_to_solve": "63:27"
+      },
+      {
+        "problem_id": 18,
+        "problem_name": "Palindrome Partitioning II",
+        "problem_link": "https://www.interviewbit.com/problems/palindrome-partitioning-ii/",
+        "problem_score": 400,
+        "time_to_solve": "58:08"
+      },
+      {
+        "problem_id": 12261,
+        "problem_name": "Egg Drop Problem!",
+        "problem_link": "https://www.interviewbit.com/problems/egg-drop-problem/",
+        "problem_score": 450,
+        "time_to_solve": "50:06"
+      },
+      {
+        "problem_id": 12269,
+        "problem_name": "Paint House!",
+        "problem_link": "https://www.interviewbit.com/problems/paint-house/",
+        "problem_score": 200,
+        "time_to_solve": "25:38"
+      },
+      {
+        "problem_id": 12278,
+        "problem_name": "Minimum Difference Subsets!",
+        "problem_link": "https://www.interviewbit.com/problems/minimum-difference-subsets/",
+        "problem_score": 200,
+        "time_to_solve": "35:26"
+      },
+      {
+        "problem_id": 12281,
+        "problem_name": "Subset Sum Problem!",
+        "problem_link": "https://www.interviewbit.com/problems/subset-sum-problem/",
+        "problem_score": 200,
+        "time_to_solve": "30:27"
+      },
+      {
+        "problem_id": 12287,
+        "problem_name": "Merge elements",
+        "problem_link": "https://www.interviewbit.com/problems/merge-elements/",
+        "problem_score": 300,
+        "time_to_solve": "53:06"
+      },
+      {
+        "problem_id": 12295,
+        "problem_name": "Max edge queries!",
+        "problem_link": "https://www.interviewbit.com/problems/max-edge-queries/",
+        "problem_score": 200,
+        "time_to_solve": "56:39"
+      }
+    ],
+    "problem_count": 65
+  },
+  "greedy_algorithm": {
+    "problems": [
+      {
+        "problem_id": 320,
+        "problem_name": "Bulbs",
+        "problem_link": "https://www.interviewbit.com/problems/interview-questions/",
+        "problem_score": 200,
+        "time_to_solve": "22:49"
+      },
+      {
+        "problem_id": 289,
+        "problem_name": "Highest Product",
+        "problem_link": "https://www.interviewbit.com/problems/highest-product/",
+        "problem_score": 200,
+        "time_to_solve": "29:12"
+      },
+      {
+        "problem_id": 12115,
+        "problem_name": "Largest Permutation",
+        "problem_link": "https://www.interviewbit.com/problems/largest-permutation/",
+        "problem_score": 250,
+        "time_to_solve": "39:09"
+      },
+      {
+        "problem_id": 4821,
+        "problem_name": "Meeting rooms",
+        "problem_link": "https://www.interviewbit.com/problems/meeting-rooms/",
+        "problem_score": 200,
+        "time_to_solve": "46:20"
+      },
+      {
+        "problem_id": 3,
+        "problem_name": "Distribute Candy",
+        "problem_link": "https://www.interviewbit.com/problems/distribute-candy/",
+        "problem_score": 300,
+        "time_to_solve": "63:50"
+      },
+      {
+        "problem_id": 282,
+        "problem_name": "Seats",
+        "problem_link": "https://www.interviewbit.com/problems/seats/",
+        "problem_score": 300,
+        "time_to_solve": "71:31"
+      },
+      {
+        "problem_id": 290,
+        "problem_name": "Assign Mice to Holes",
+        "problem_link": "https://www.interviewbit.com/problems/assign-mice-to-holes/",
+        "problem_score": 300,
+        "time_to_solve": "21:01"
+      },
+      {
+        "problem_id": 2,
+        "problem_name": "Majority Element",
+        "problem_link": "https://www.interviewbit.com/problems/majority-element/",
+        "problem_score": 400,
+        "time_to_solve": "19:04"
+      },
+      {
+        "problem_id": 1,
+        "problem_name": "Gas Station",
+        "problem_link": "https://www.interviewbit.com/problems/gas-station/",
+        "problem_score": 700,
+        "time_to_solve": "55:56"
+      },
+      {
+        "problem_id": 12298,
+        "problem_name": "Disjoint Intervals",
+        "problem_link": "https://www.interviewbit.com/problems/disjoint-intervals/",
+        "problem_score": 200,
+        "time_to_solve": "30:39"
+      }
+    ],
+    "problem_count": 10
+  },
+  "graph_data_structure_algorithms": {
+    "problems": [
+      {
+        "problem_id": 418,
+        "problem_name": "Valid Path",
+        "problem_link": "https://www.interviewbit.com/problems/valid-path/",
+        "problem_score": 200,
+        "time_to_solve": "79:02"
+      },
+      {
+        "problem_id": 11652,
+        "problem_name": "Region in BinaryMatrix",
+        "problem_link": "https://www.interviewbit.com/problems/region-in-binarymatrix/",
+        "problem_score": 200,
+        "time_to_solve": "31:10"
+      },
+      {
+        "problem_id": 11647,
+        "problem_name": "Snake Ladder Problem!",
+        "problem_link": "https://www.interviewbit.com/problems/snake-ladder-problem/",
+        "problem_score": 200,
+        "time_to_solve": "50:48"
+      },
+      {
+        "problem_id": 206,
+        "problem_name": "Level Order",
+        "problem_link": "https://www.interviewbit.com/problems/level-order/",
+        "problem_score": 300,
+        "time_to_solve": "29:40"
+      },
+      {
+        "problem_id": 338,
+        "problem_name": "Smallest Multiple With 0 and 1",
+        "problem_link": "https://www.interviewbit.com/problems/smallest-multiple-with-0-and-1/",
+        "problem_score": 300,
+        "time_to_solve": "68:23"
+      },
+      {
+        "problem_id": 11989,
+        "problem_name": "Permutation Swaps!",
+        "problem_link": "https://www.interviewbit.com/problems/permutation-swaps/",
+        "problem_score": 300,
+        "time_to_solve": "54:35"
+      },
+      {
+        "problem_id": 11975,
+        "problem_name": "Min Cost Path",
+        "problem_link": "https://www.interviewbit.com/problems/min-cost-path/",
+        "problem_score": 300,
+        "time_to_solve": "68:28"
+      },
+      {
+        "problem_id": 376,
+        "problem_name": "Commutable Islands",
+        "problem_link": "https://www.interviewbit.com/problems/commutable-islands/",
+        "problem_score": 200,
+        "time_to_solve": "71:30"
+      },
+      {
+        "problem_id": 377,
+        "problem_name": "Possibility of finishing all courses given pre-requisites",
+        "problem_link": "https://www.interviewbit.com/problems/possibility-of-finishing-all-courses-given-prerequisites/",
+        "problem_score": 200,
+        "time_to_solve": "61:26"
+      },
+      {
+        "problem_id": 11637,
+        "problem_name": "Cycle in Undirected Graph",
+        "problem_link": "https://www.interviewbit.com/problems/cycle-in-undirected-graph/",
+        "problem_score": 200,
+        "time_to_solve": "38:02"
+      },
+      {
+        "problem_id": 291,
+        "problem_name": "Black Shapes",
+        "problem_link": "https://www.interviewbit.com/problems/black-shapes/",
+        "problem_score": 300,
+        "time_to_solve": "48:06"
+      },
+      {
+        "problem_id": 369,
+        "problem_name": "Largest Distance between nodes of a Tree",
+        "problem_link": "https://www.interviewbit.com/problems/largest-distance-between-nodes-of-a-tree/",
+        "problem_score": 200,
+        "time_to_solve": "72:32"
+      },
+      {
+        "problem_id": 11990,
+        "problem_name": "Delete Edge!",
+        "problem_link": "https://www.interviewbit.com/problems/delete-edge/",
+        "problem_score": 200,
+        "time_to_solve": "59:30"
+      },
+      {
+        "problem_id": 11062,
+        "problem_name": "Cycle in Directed Graph",
+        "problem_link": "https://www.interviewbit.com/problems/cycle-in-directed-graph/",
+        "problem_score": 200,
+        "time_to_solve": "40:18"
+      },
+      {
+        "problem_id": 11977,
+        "problem_name": "Two teams?",
+        "problem_link": "https://www.interviewbit.com/problems/two-teams/",
+        "problem_score": 300,
+        "time_to_solve": "48:11"
+      },
+      {
+        "problem_id": 284,
+        "problem_name": "Stepping Numbers",
+        "problem_link": "https://www.interviewbit.com/problems/stepping-numbers/",
+        "problem_score": 300,
+        "time_to_solve": "55:45"
+      },
+      {
+        "problem_id": 208,
+        "problem_name": "Capture Regions on Board",
+        "problem_link": "https://www.interviewbit.com/problems/capture-regions-on-board/",
+        "problem_score": 500,
+        "time_to_solve": "62:58"
+      },
+      {
+        "problem_id": 212,
+        "problem_name": "Word Search Board",
+        "problem_link": "https://www.interviewbit.com/problems/word-search-board/",
+        "problem_score": 500,
+        "time_to_solve": "55:32"
+      },
+      {
+        "problem_id": 205,
+        "problem_name": "Convert Sorted List to Binary Search Tree",
+        "problem_link": "https://www.interviewbit.com/problems/convert-sorted-list-to-binary-search-tree/",
+        "problem_score": 300,
+        "time_to_solve": "43:01"
+      },
+      {
+        "problem_id": 283,
+        "problem_name": "Sum Of Fibonacci Numbers",
+        "problem_link": "https://www.interviewbit.com/problems/sum-of-fibonacci-numbers/",
+        "problem_score": 300,
+        "time_to_solve": "50:40"
+      },
+      {
+        "problem_id": 292,
+        "problem_name": "Knight On Chess Board",
+        "problem_link": "https://www.interviewbit.com/problems/knight-on-chess-board/",
+        "problem_score": 300,
+        "time_to_solve": "64:19"
+      },
+      {
+        "problem_id": 12091,
+        "problem_name": "Useful Extra Edges",
+        "problem_link": "https://www.interviewbit.com/problems/useful-extra-edges/",
+        "problem_score": 400,
+        "time_to_solve": "67:16"
+      },
+      {
+        "problem_id": 213,
+        "problem_name": "Word Ladder I",
+        "problem_link": "https://www.interviewbit.com/problems/word-ladder-i/",
+        "problem_score": 600,
+        "time_to_solve": "64:02"
+      },
+      {
+        "problem_id": 210,
+        "problem_name": "Word Ladder II",
+        "problem_link": "https://www.interviewbit.com/problems/word-ladder-ii/",
+        "problem_score": 800,
+        "time_to_solve": "61:46"
+      },
+      {
+        "problem_id": 211,
+        "problem_name": "Clone Graph",
+        "problem_link": "https://www.interviewbit.com/problems/clone-graph/",
+        "problem_score": 500,
+        "time_to_solve": "54:15"
+      },
+      {
+        "problem_id": 12292,
+        "problem_name": "Path in Directed Graph",
+        "problem_link": "https://www.interviewbit.com/problems/path-in-directed-graph/",
+        "problem_score": 150,
+        "time_to_solve": "25:22"
+      },
+      {
+        "problem_id": 12293,
+        "problem_name": "Path with good nodes!",
+        "problem_link": "https://www.interviewbit.com/problems/path-with-good-nodes/",
+        "problem_score": 150,
+        "time_to_solve": "44:06"
+      },
+      {
+        "problem_id": 12299,
+        "problem_name": "Water Flow",
+        "problem_link": "https://www.interviewbit.com/problems/water-flow/",
+        "problem_score": 200,
+        "time_to_solve": "55:36"
+      }
+    ],
+    "problem_count": 28
+  },
+  "total_count": 366
 }
