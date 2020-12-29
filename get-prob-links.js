@@ -154,7 +154,7 @@ function getProblem (topic_name,problem_dict,url) {
                 console.log(dnldImg)
             }
           }
-          console.log(result['imgNames'])
+          //console.log(result['imgNames'])
           await page.waitFor(5000);
           await browser.close();
           return resolve(result);
@@ -184,20 +184,42 @@ function clearLinks(topic_name,doc){
     return "";
   }
 }
+async function storeProblemLinks(topics_path){
+	let rawdata = fs.readFileSync(topics_path);
+	let topics = JSON.parse(rawdata)['topics'];
+    let links_dir = process.argv[2];
+    let problem_links = {};
+    let now = new Date();
+    problem_links['ts'] = now.toDateString();
+    for( let i=0;i<topics.length;i++){
+        let tn = topics[i].split("/")[6];
+        let topic_name = tn.replace(/-/g,"_");
 
+        let x = await getProblemLinks(topics[i]);
+        problem_links[topic_name] = x;
+    }
+    await exec("mkdir -p "+links_dir);
+    fs.writeFileSync(links_dir+"/"+"problem_links.json", JSON.stringify(problem_links, null, 2),{ flag:'a+'});
+}
 async function main(){
-    // let rawdata = fs.readFileSync('topics.json');
-    // let topics = JSON.parse(rawdata)['topics'];
-    // for(let i=0;i<topics.length;i++){
-      // let tn = topics[i].split("/")[6];
-      let tn = process.argv[2]
+    storeProblemLinks("topics.json");
+}
+async function old_main(){
+    let rawdata = fs.readFileSync('topics.json');
+    let topics = JSON.parse(rawdata)['topics'];
+    let docs_dir = process.argv[2];
+    let problem_links = {};
+    for(let i=0;i<topics.length;i++){
+      let tn = topics[i].split("/")[6];
+      //let tn = process.argv[2]
       let topic_name = tn.replace(/-/g,"_")
-      await exec("mkdir -p problems/"+topic_name)
-      await exec("mkdir -p problems/"+topic_name+"/"+topic_name+"_assets")
+      await exec("mkdir -p "+docs_dir+"/"+topic_name)
+      await exec("mkdir -p "+docs_dir+"/"+topic_name+"/"+topic_name+"_assets")
       // let x = await getProblemLinks(topics[i]);
       let raw = fs.readFileSync("topics/"+tn+'.json');
       let problems = JSON.parse(raw)['problems'];
       console.log(topic_name+": "+problems.length)
+      problem_links[topic_name] = [];
       for(let j=0;j<problems.length;j++){
         let x = await getProblem(topic_name,problems[j],problems[j]['problem_link']);
         let html = clearLinks(topic_name,x)
@@ -208,11 +230,13 @@ async function main(){
         x['problem_score']=problems[j]['problem_score']
         x['time_to_solve']=problems[j]['time_to_solve']
         let pbName = problems[j]['problem_link'].split("/")[4];
-        fs.writeFileSync("problems/"+topic_name+"/"+pbName+".json",JSON.stringify(x,null,2))
+        fs.writeFileSync(docs_dir+"/"+topic_name+"/"+pbName+".json",JSON.stringify(x,null,2))
         // fs.writeFileSync("problems/"+topic_name+"/"+".html",JSON.stringify(html,null,2))
         console.log(pbName+" "+(j+1))
+        problem_links[topic_name][x['problem_id']] = problems[j];
       }
-    // }
+    }
+    fs.writeFileSync(docs_dir+"/"+"problem_links.json",JSON.stringify(problem_links,null,2));
     
 }
 
