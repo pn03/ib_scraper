@@ -17,7 +17,7 @@
     "fs-extra": "^9.0.0",
     "http-errors": "~1.6.3",
     "log4js": "^6.4.0",
-    "mongoose": "^5.11.9",
+    "mongoose": "^5.13.20",
     "morgan": "~1.9.1",
     "pug": "^3.0.1",
     "puppeteer": "^3.0.4",
